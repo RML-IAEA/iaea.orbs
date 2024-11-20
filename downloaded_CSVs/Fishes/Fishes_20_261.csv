@@ -1,0 +1,42 @@
+﻿File Creation Date,2024-11-08
+Sampling Location,
+
+Date and time of Sampling,Sample,Radionuclide,Dt,ND,Unit
+2023/06/05,Bluefin searobin,H-3:TFWT,0.066±0.0082,,Bq/L-water
+2023/06/05,Olive flounder,H-3:TFWT,0.048±0.0077,,Bq/L-water
+2023/06/05,Bluefin searobin,H-3:TFWT,0.052±0.0064,,Bq/kg-fresh
+2023/06/05,Olive flounder,H-3:TFWT,0.037±0.0059,,Bq/kg-fresh
+2023/06/05,Bluefin searobin,H-3:OBT,,,Bq/L-combustion water
+2023/06/05,Olive flounder,H-3:OBT,,,Bq/L-combustion water
+2023/06/05,Bluefin searobin,H-3:OBT,,,Bq/kg-fresh
+2023/06/05,Olive flounder,H-3:OBT,,,Bq/kg-fresh
+2023/06/03,Bluefin searobin(meat),Cs-134,,,Bq/kg-fresh
+2023/06/03,Olive flounder(meat),Cs-134,,,Bq/kg-fresh
+2023/06/03,Bluefin searobin(meat),Cs-137,0.42±0.013,,Bq/kg-fresh
+2023/06/03,Olive flounder(meat),Cs-137,0.55±0.014,,Bq/kg-fresh
+2022/04/21,Conger eel(meat),Cs-134,,,Bq/kg-fresh
+2022/04/21,Redwing searobin(meat),Cs-134,,,Bq/kg-fresh
+2022/04/21,Conger eel(meat),Cs-137,0.21,,Bq/kg-fresh
+2022/04/21,Redwing searobin(meat),Cs-137,0.44,,Bq/kg-fresh
+2022/04/21,Conger eel,H-3,0.083,,Bq/L-water
+2022/04/21,Redwing searobin,H-3,0.08,,Bq/L-water
+2022/04/21,Conger eel,H-3,,,Bq/L-combustion water
+2022/04/21,Conger eel,H-3,,,Bq/L-combustion water
+2022/04/21,Redwing searobin,H-3,,,Bq/L-combustion water
+2022/04/21,Redwing searobin,H-3,,,Bq/L-combustion water
+2022/04/21,Conger eel,H-3,0.057,,Bq/kg-fresh
+2022/04/21,Conger eel,H-3,,,Bq/kg-fresh
+2022/04/21,Conger eel,H-3,,,Bq/kg-fresh
+2022/04/21,Redwing searobin,H-3,0.062,,Bq/kg-fresh
+2022/04/21,Redwing searobin,H-3,,,Bq/kg-fresh
+2022/04/21,Redwing searobin,H-3,,,Bq/kg-fresh
+2021/10/28,Redwing searobin(meat),Cs-134,,,Bq/kg-fresh
+2021/10/28,Yellow striped flounder(meat),Cs-134,,,Bq/kg-fresh
+2021/10/28,Redwing searobin(meat),Cs-137,0.65±0.017,,Bq/kg-fresh
+2021/10/28,Yellow striped flounder(meat),Cs-137,0.56±0.016,,Bq/kg-fresh
+2021/05/13,Conger eel(meat),Cs-134,,,Bq/kg-fresh
+2021/05/13,Conger eel(meat),Cs-137,0.33±0.011,,Bq/kg-fresh
+2021/05/13,Conger eel(meat),H-3:TFWT,0.082±0.01,,Bq/L-water
+2021/05/13,Conger eel(meat),H-3:TFWT,0.057±0.007,,Bq/kg-fresh
+2021/05/13,Conger eel(meat),H-3:OBT,,0.28,Bq/L-combustion water
+2021/05/13,Conger eel(meat),H-3:OBT,,0.062,Bq/kg-fresh

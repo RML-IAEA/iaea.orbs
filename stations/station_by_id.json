@@ -1,0 +1,1243 @@
+{
+    "Seawater":
+    [
+        {
+            "id": 1,
+            "org": "TEPCO",
+            "station": "T-0",
+            "coordinates": "37°25′24″N/141°02′29″E"
+        },
+        {
+            "id": 2, 
+            "org": "TEPCO",
+            "station": "T-1",
+            "coordinates": "37°25′52″N/141°02′04″E"
+        },
+        {
+            "id": 3, 
+            "org": "TEPCO",
+            "station": "T-2",
+            "coordinates": "37°24′57″N/141°02′01″E"  
+        },
+        {
+            "id": 4, 
+            "org": "TEPCO",
+            "station": "T-0-1",
+            "coordinates": "37°25′50″N/141°02′25″E"  
+        },
+        {
+            "id": 5, 
+            "org": "TEPCO",
+            "station": "T-0-1A",
+            "coordinates": "37°25′50″N/141°02′48″E"  
+        },
+        {
+            "id": 6, 
+            "org": "TEPCO",
+            "station": "T-0-2",
+            "coordinates": "37°25′24″N/141°02′48″E"  
+        },
+        {
+            "id": 7, 
+            "org": "TEPCO",
+            "station": "T-0-3",
+            "coordinates": "37°24′58″N/141°02′25″E"  
+        },
+        {
+            "id": 8, 
+            "org": "TEPCO",
+            "station": "T-0-3A",
+            "coordinates": "37°24′58″N/141°02′48″E"  
+        },
+        {
+            "id": 9, 
+            "org": "TEPCO",
+            "station": "T-A1",
+            "coordinates": "37°26′29″N/141°03′02″E"  
+        },
+        {
+            "id": 10, 
+            "org": "TEPCO",
+            "station": "T-A2",
+            "coordinates": "37°25′33″N/141°03′02″E"  
+        },
+        {
+            "id": 11, 
+            "org": "TEPCO",
+            "station": "T-A3",
+            "coordinates": "37°24′37″N/141°03′02″E"  
+        },
+        {
+            "id": 12, 
+            "org": "TEPCO",
+            "station": "T-3",
+            "coordinates": "37°19′20″N/141°01′35″E"  
+        },
+        {
+            "id": 13, 
+            "org": "TEPCO",
+            "station": "T-6",
+            "coordinates": "37°28′44″N/141°02′26″E"  
+        },
+        {
+            "id": 14, 
+            "org": "TEPCO",
+            "station": "T-D1",
+            "coordinates": "37°30′00″N/141°04′20″E"  
+        },
+        {
+            "id": 15, 
+            "org": "TEPCO",
+            "station": "T-D5",
+            "coordinates": "37°25′00″N/141°04′20″E"  
+        },
+        {
+            "id": 16, 
+            "org": "TEPCO",
+            "station": "T-D9",
+            "coordinates": "37°20′00″N/141°04′20″E"  
+        },
+        {
+            "id": 17, 
+            "org": "TEPCO",
+            "station": "T-5",
+            "coordinates": "37°25′00″N/141°12′00″E"  
+        },
+        {
+            "id": 18, 
+            "org": "TEPCO",
+            "station": "T-4",
+            "coordinates": "37°14′30″N/141°00′50″E"  
+        },
+        {
+            "id": 19, 
+            "org": "TEPCO",
+            "station": "T-14",
+            "coordinates": "37°33′10″N/141°03′45″E"  
+        },
+        {
+            "id": 20, 
+            "org": "TEPCO",
+            "station": "T-11",
+            "coordinates": "37°14′30″N/141°02′50″E"  
+        },
+        {
+            "id": 21, 
+            "org": "TEPCO",
+            "station": "T-S8",
+            "coordinates": "37°23′00″N/141°04′44″E"  
+        },
+        {
+            "id": 22, 
+            "org": "TEPCO",
+            "station": "T-S1",
+            "coordinates": "37°35′05″N/141°02′32″E"  
+        },
+        {
+            "id": 23, 
+            "org": "TEPCO",
+            "station": "T-S2",
+            "coordinates": "37°33′10″N/141°03′45″E"  
+        },
+        {
+            "id": 24, 
+            "org": "TEPCO",
+            "station": "T-S3",
+            "coordinates": "37°27′30″N/141°04′44″E"
+        },
+        {
+            "id": 25, 
+            "org": "TEPCO",
+            "station": "T-S4",
+            "coordinates": "37°25′43″N/141°04′57″E"  
+        },
+        {
+            "id": 26, 
+            "org": "TEPCO",
+            "station": "T-S5",
+            "coordinates": "37°15′54″N/141°02′22″E"  
+        },
+        {
+            "id": 27, 
+            "org": "TEPCO",
+            "station": "T-S7",
+            "coordinates": "37°18′40″N/141°02′50″E"  
+        },
+        {
+            "id": 28, 
+            "org": "TEPCO",
+            "station": "T-B1",
+            "coordinates": "37°32′00″N/141°13′00″E"  
+        },
+        {
+            "id": 29, 
+            "org": "TEPCO",
+            "station": "T-B2",
+            "coordinates": "37°31′00″N/141°14′00″E"  
+        },
+        {
+            "id": 30, 
+            "org": "TEPCO",
+            "station": "T-B3",
+            "coordinates": "37°24′28″N/141°09′15″E"  
+        },
+        {
+            "id": 31, 
+            "org": "TEPCO",
+            "station": "T-B4",
+            "coordinates": "37°20′54″N/141°08′55″E"  
+        },
+        {
+            "id": 32, 
+            "org": "TEPCO",
+            "station": "T-7",
+            "coordinates": "37°14′00″N/141°12′00″E"  
+        },
+        {
+            "id": 33, 
+            "org": "TEPCO",
+            "station": "T-13-1",
+            "coordinates": "37°38′27″N/141°02′33″E"  
+        },
+        {
+            "id": 34, 
+            "org": "TEPCO",
+            "station": "T-22",
+            "coordinates": "37°49′28″N/141°01′21″E"  
+        },
+        {
+            "id": 35, 
+            "org": "TEPCO",
+            "station": "T-MA",
+            "coordinates": "37°45′00″N/141°05′00″E"  
+        },
+        {
+            "id": 36, 
+            "org": "TEPCO",
+            "station": "T-18",
+            "coordinates": "36°54′20″N/140°55′20″E"
+        },
+        {
+            "id": 37, 
+            "org": "TEPCO",
+            "station": "T-M10",
+            "coordinates": "37°00′00″N/141°05′00″E"  
+        },
+        {
+            "id": 38, 
+            "org": "TEPCO",
+            "station": "T-12",
+            "coordinates": "37°09′00″N/141°02′15″E"  
+        },
+        {
+            "id": 39, 
+            "org": "TEPCO",
+            "station": "T-17-1",
+            "coordinates": "37°03′20″N/141°00′25″E"  
+        },
+        {
+            "id": 40, 
+            "org": "TEPCO",
+            "station": "T-20",
+            "coordinates": "36°58′00″N/141°00′00″E"
+        },
+        {
+            "id": 41, 
+            "org": "TEPCO",
+            "station": "North side within Unit 1~4 intake",
+            "coordinates": ""
+        },
+        {
+            "id": 42, 
+            "org": "TEPCO",
+            "station": "South side within Unit 1~4 intake",
+            "coordinates": ""
+        },
+        {
+            "id": 43, 
+            "org": "TEPCO",
+            "station": "In front of docking area",
+            "coordinates": ""
+        },
+        {
+            "id": 44, 
+            "org": "TEPCO",
+            "station": "In front of Unit 5 intake",
+            "coordinates": ""
+        },
+        {
+            "id": 45, 
+            "org": "TEPCO",
+            "station": "Center of harbor",
+            "coordinates": ""
+        },
+        {
+            "id": 46, 
+            "org": "TEPCO",
+            "station": "East side inside harbor",
+            "coordinates": ""
+        },
+        {
+            "id": 47, 
+            "org": "TEPCO",
+            "station": "West side inside harbor",
+            "coordinates": ""
+        },
+        {
+            "id": 48, 
+            "org": "TEPCO",
+            "station": "South side inside harbor",
+            "coordinates": ""
+        },
+        {
+            "id": 49, 
+            "org": "TEPCO",
+            "station": "North side inside harbor",
+            "coordinates": ""
+        },
+        {
+            "id": 51, 
+            "org": "Fukushima Prefecture",
+            "station": "",
+            "coordinates": "37°25′7.00″N/141°2′7.00″E"  
+        },
+        {
+            "id": 52, 
+            "org": "Fukushima Prefecture",
+            "station": "",
+            "coordinates": "37°25′51.00″N/141°2′7.00″E"  
+        },
+        {
+            "id": 53, 
+            "org": "Fukushima Prefecture",
+            "station": "",
+            "coordinates": "37°25′27.00″N/141°2′30.00″E"  
+        },
+        {
+            "id": 54, 
+            "org": "Fukushima Prefecture",
+            "station": "",
+            "coordinates": "37°25′27.00″N/141°3′26.00″E"  
+        },
+        {
+            "id": 55, 
+            "org": "Fukushima Prefecture",
+            "station": "",
+            "coordinates": "37°23′7.00″N/141°3′26.00″E"  
+        },
+        {
+            "id": 56, 
+            "org": "Fukushima Prefecture",
+            "station": "",
+            "coordinates": "37°27′28.00″N/141°3′32.00″E"  
+        },
+        {
+            "id": 57, 
+            "org": "Fukushima Prefecture",
+            "station": "",
+            "coordinates": "37°26′50.42″N/141°2′27.66″E"  
+        },
+        {
+            "id": 58, 
+            "org": "Fukushima Prefecture",
+            "station": "",
+            "coordinates": "37°26′13.28″N/141°2′48.91″E"  
+        },
+        {
+            "id": 59, 
+            "org": "Fukushima Prefecture",
+            "station": "",
+            "coordinates": "37°25′13.18″N/141°2′48.60″E"  
+        },
+        {
+            "id": 60, 
+            "org": "Fukushima Prefecture",
+            "station": "",
+            "coordinates": "37°18′47.40″N/141°1′31.80″E"  
+        },
+        {
+            "id": 61, 
+            "org": "Fukushima Prefecture",
+            "station": "",
+            "coordinates": "37°18′21.90″N/141°1′34.70″E"  
+        },
+        {
+            "id": 178, 
+            "org": "NRA",
+            "station": "",
+            "coordinates": "37°40′00″N/141°20′00″E"  
+        },
+        {
+            "id": 179, 
+            "org": "NRA",
+            "station": "",
+            "coordinates": "37°35′00″N/141°25′00″E"  
+        },
+        {
+            "id": 180, 
+            "org": "NRA",
+            "station": "",
+            "coordinates": "37°30′00″N/141°20′00″E"  
+        },
+        {
+            "id": 181, 
+            "org": "NRA",
+            "station": "",
+            "coordinates": "37°23′00″N/141°20′00″E"  
+        },
+        {
+            "id": 182, 
+            "org": "NRA",
+            "station": "",
+            "coordinates": "37°16′00″N/141°25′00″E"  
+        },
+        {
+            "id": 183, 
+            "org": "NRA",
+            "station": "",
+            "coordinates": "37°12′00″N/141°20′00″E"  
+        },
+        {
+            "id": 184, 
+            "org": "NRA",
+            "station": "",
+            "coordinates": "37°06′00″N/141°19′00″E"  
+        },
+        {
+            "id": 185, 
+            "org": "NRA",
+            "station": "",
+            "coordinates": "37°00′00″N/141°20′00″E"  
+        },
+        {
+            "id": 192, 
+            "org": "NRA",
+            "station": "",
+            "coordinates": "37°45′00″N/141°15′24″E"  
+        },
+        {
+            "id": 193, 
+            "org": "NRA",
+            "station": "",
+            "coordinates": "37°45′00″N/141°29′24″E"  
+        },
+        {
+            "id": 194, 
+            "org": "NRA",
+            "station": "",
+            "coordinates": "37°35′00″N/141°22′24″E"  
+        },
+        {
+            "id": 195, 
+            "org": "NRA",
+            "station": "",
+            "coordinates": "37°35′00″N/141°36′24″E"  
+        },
+        {
+            "id": 196, 
+            "org": "NRA",
+            "station": "",
+            "coordinates": "37°25′00″N/141°22′24″E"  
+        },
+        {
+            "id": 197, 
+            "org": "NRA",
+            "station": "",
+            "coordinates": "37°25′00″N/141°36′24″E"  
+        },
+        {
+            "id": 198, 
+            "org": "NRA",
+            "station": "",
+            "coordinates": "37°30′00″N/142°00′00″E"  
+        },
+        {
+            "id": 199, 
+            "org": "NRA",
+            "station": "",
+            "coordinates": "37°15′00″N/141°22′24″E"  
+        },
+        {
+            "id": 200, 
+            "org": "NRA",
+            "station": "",
+            "coordinates": "37°15′00″N/141°36′24″E"  
+        },
+        {
+            "id": 201, 
+            "org": "NRA",
+            "station": "",
+            "coordinates": "37°05′00″N/141°08′24″E"  
+        },
+        {
+            "id": 202, 
+            "org": "NRA",
+            "station": "",
+            "coordinates": "37°05′00″N/141°15′24″E"  
+        },
+        {
+            "id": 203, 
+            "org": "NRA",
+            "station": "",
+            "coordinates": "37°05′00″N/141°29′24″E"  
+        },
+        {
+            "id": 204, 
+            "org": "NRA",
+            "station": "",
+            "coordinates": "37°00′00″N/141°45′00″E"  
+        },
+        {
+            "id": 205, 
+            "org": "NRA",
+            "station": "",
+            "coordinates": "36°55′00″N/141°08′24″E"  
+        },
+        {
+            "id": 206, 
+            "org": "NRA",
+            "station": "",
+            "coordinates": "36°55′00″N/141°22′24″E"  
+        },
+        {
+            "id": 209, 
+            "org": "NRA",
+            "station": "",
+            "coordinates": "37°30′00″N/143°00′00″E"  
+        },
+        {
+            "id": 210, 
+            "org": "NRA",
+            "station": "",
+            "coordinates": "37°30′00″N/144°00′00″E"  
+        },
+        {
+            "id": 211, 
+            "org": "NRA",
+            "station": "",
+            "coordinates": "37°25′36″N/141°02′36″E"  
+        },
+        {
+            "id": 212, 
+            "org": "NRA",
+            "station": "M-102",
+            "coordinates": "37°25′06″N/141°02′36″E"  
+        },
+        {
+            "id": 213, 
+            "org": "NRA",
+            "station": "M-103",
+            "coordinates": "37°26′42″N/141°02′48″E"  
+        },
+        {
+            "id": 214, 
+            "org": "NRA",
+            "station": "M-104",
+            "coordinates": "37°24′06″N/141°02′48″E"  
+        },
+        {
+            "id": 215, 
+            "org": "NRA",
+            "station": "M-M1",
+            "coordinates": "37°30′00″N/141°04′18″E"  
+        },
+        {
+            "id": 216, 
+            "org": "NRA",
+            "station": "",
+            "coordinates": "37°25′00″N/141°04′18″E"  
+        },
+        {
+            "id": 217, 
+            "org": "NRA",
+            "station": "",
+            "coordinates": "37°20′00″N/141°04′18″E"  
+        },
+        {
+            "id": 218, 
+            "org": "MOE",
+            "station": "",
+            "coordinates": "37°27′18″N/141°02′31.2″E"  
+        },
+        {
+            "id": 219, 
+            "org": "MOE",
+            "station": "",
+            "coordinates": "37°26′45.6″N/141°02′24″E"  
+        },
+        {
+            "id": 220, 
+            "org": "MOE",
+            "station": "E-S3",
+            "coordinates": "37°26′27.6″N/141°02′24″E"  
+        },
+        {
+            "id": 221, 
+            "org": "MOE",
+            "station": "E-S4",
+            "coordinates": "37°26′02.4″N/141°02′20.4″E"  
+        },
+        {
+            "id": 222, 
+            "org": "MOE",
+            "station": "E-S5",
+            "coordinates": "37°25′58.3″N/141°02′46.25″E"  
+        },
+        {
+            "id": 223, 
+            "org": "MOE",
+            "station": "",
+            "coordinates": "37°25′58.6″N/141°02′30″E"  
+        },
+        {
+            "id": 224, 
+            "org": "MOE",
+            "station": "E-S7",
+            "coordinates": "37°25′58″N/141°03′02.5″E"  
+        },
+        {
+            "id": 225, 
+            "org": "MOE",
+            "station": "",
+            "coordinates": "37°25′45.6″N/141°02′29.75″E"  
+        },
+        {
+            "id": 226, 
+            "org": "MOE",
+            "station": "E-S10",
+            "coordinates": "37°25′45.15″N/141°03′02.3″E"  
+        },
+        {
+            "id": 228, 
+            "org": "MOE",
+            "station": "",
+            "coordinates": "37°25′32.6″N/141°02′29.5″E"  
+        },
+        {
+            "id": 229, 
+            "org": "MOE",
+            "station": "",
+            "coordinates": "37°25′32.3″N/141°03′02.1″E"  
+        },
+        {
+            "id": 230, 
+            "org": "MOE",
+            "station": "",
+            "coordinates": "37°25′32.45″N/141°02′45.8″E"  
+        },
+        {
+            "id": 231, 
+            "org": "MOE",
+            "station": "E-S14",
+            "coordinates": "37°25′12″N/141°02′31.2″E"  
+        },
+        {
+            "id": 232, 
+            "org": "MOE",
+            "station": "E-S15",
+            "coordinates": "37°24′36″N/141°02′16.8″E"  
+        },
+        {
+            "id": 233, 
+            "org": "MOE",
+            "station": "",
+            "coordinates": "37°24′10.8″N/141°02′16.8″E"  
+        },
+        {
+            "id": 234, 
+            "org": "MOE",
+            "station": "",
+            "coordinates": "37°52′33.6″N/140°58′48″E"  
+        },
+        {
+            "id": 235, 
+            "org": "MOE",
+            "station": "E-S19",
+            "coordinates": "37°41′52.8″N/141°01′19.2″E"  
+        },
+        {
+            "id": 236, 
+            "org": "MOE",
+            "station": "E-S20",
+            "coordinates": "37°31′08.4″N/141°02′45.6″E"  
+        },
+        {
+            "id": 237, 
+            "org": "MOE",
+            "station": "E-S21",
+            "coordinates": "37°29′56.4″N/141°07′01.2″E"  
+        },
+        {
+            "id": 238, 
+            "org": "MOE",
+            "station": "E-S22",
+            "coordinates": "37°28′26.4″N/141°02′45.6″E"  
+        },
+        {
+            "id": 239, 
+            "org": "MOE",
+            "station": "E-S23",
+            "coordinates": "37°27′50.4″N/141°04′51.6″E"  
+        },
+        {
+            "id": 240, 
+            "org": "MOE",
+            "station": "E-S24",
+            "coordinates": "37°25′44.4″N/141°06′10.8″E"  
+        },
+        {
+            "id": 241, 
+            "org": "MOE",
+            "station": "E-S25",
+            "coordinates": "37°25′44.4″N/141°09′32.4″E"  
+        },
+        {
+            "id": 242, 
+            "org": "MOE",
+            "station": "E-S26",
+            "coordinates": "37°23′34.8″N/141°04′55.2″E"  
+        },
+        {
+            "id": 243, 
+            "org": "MOE",
+            "station": "E-S27",
+            "coordinates": "37°23′02.4″N/141°02′45.6″E"  
+        },
+        {
+            "id": 244, 
+            "org": "MOE",
+            "station": "E-S28",
+            "coordinates": "37°21′28.8″N/141°07′01.2″E"  
+        },
+        {
+            "id": 245, 
+            "org": "MOE",
+            "station": "E-S29",
+            "coordinates": "37°20′16.8″N/141°02′45.6″E"  
+        },
+        {
+            "id": 246, 
+            "org": "MOE",
+            "station": "E-S30",
+            "coordinates": "37°09′36″N/141°00′50.4″E"  
+        },
+        {
+            "id": 247, 
+            "org": "MOE",
+            "station": "E-S31",
+            "coordinates": "36°58′55.2″N/140°58′44.4″E"  
+        },
+        {
+            "id": 248, 
+            "org": "MOE",
+            "station": "",
+            "coordinates": "37°52′37.2″N/140°56′06″E"  
+        },
+        {
+            "id": 249, 
+            "org": "MOE",
+            "station": "",
+            "coordinates": "37°49′51.6″N/140°57′54″E"  
+        },
+        {
+            "id": 250, 
+            "org": "MOE",
+            "station": "",
+            "coordinates": "37°39′32.4″N/141°01′12″E"  
+        },
+        {
+            "id": 251, 
+            "org": "MOE",
+            "station": "",
+            "coordinates": "37°14′31.2″N/141°00′50.4″E"  
+        },
+        {
+            "id": 252, 
+            "org": "MOE",
+            "station": "",
+            "coordinates": "37°07′37.2″N/140°59′52.8″E"  
+        },
+        {
+            "id": 253, 
+            "org": "MOE",
+            "station": "",
+            "coordinates": "36°51′57.6″N/140°47′24″E"  
+        },
+        {
+            "id": 286, 
+            "org": "MOE",
+            "station": "",
+            "coordinates": "37°47′23.03″N/141°00′33.12″E"  
+        },
+        {
+            "id": 287, 
+            "org": "MOE",
+            "station": "",
+            "coordinates": "37°36′33.62″N/141°02′30.84″E"  
+        },
+        {
+            "id": 288, 
+            "org": "MOE",
+            "station": "",
+            "coordinates": "37°14′52.15″N/141°02′05.64″E"  
+        },
+        {
+            "id": 289, 
+            "org": "MOE",
+            "station": "",
+            "coordinates": "37°04′08.94″N/141°00′06.48″E"  
+        },
+        {
+            "id": 336, 
+            "org": "Fukushima Prefecture",
+            "station": "",
+            "coordinates": "37°50′26.09″N/140°57′41.65″E"  
+        },
+        {
+            "id": 337, 
+            "org": "Fukushima Prefecture",
+            "station": "",
+            "coordinates": "36°56′11.74″N/140°53′30.40″E"  
+        },
+        {
+            "id": 338, 
+            "org": "Fukushima Prefecture",
+            "station": "",
+            "coordinates": "36°55′26.44″N/140°52′36.55″E"  
+        },
+        {
+            "id": 339, 
+            "org": "Fukushima Prefecture",
+            "station": "",
+            "coordinates": "37°52′28.59″N/140°56′11.13″E"  
+        },
+        {
+            "id": 340, 
+            "org": "Fukushima Prefecture",
+            "station": "",
+            "coordinates": "37°49′44.03″N/140°58′26.67″E"  
+        },
+        {
+            "id": 341, 
+            "org": "Fukushima Prefecture",
+            "station": "",
+            "coordinates": "37°41′04.74″N/141°00′49.75″E"  
+        },
+        {
+            "id": 342, 
+            "org": "Fukushima Prefecture",
+            "station": "",
+            "coordinates": "37°28′54.48″N/141°02′31.02″E"  
+        },
+        {
+            "id": 343, 
+            "org": "Fukushima Prefecture",
+            "station": "",
+            "coordinates": "37°20′12.77″N/141°01′40.37″E"  
+        },
+        {
+            "id": 344, 
+            "org": "Fukushima Prefecture",
+            "station": "",
+            "coordinates": "37°08′55.46″N/141°00′05.58″E"  
+        },
+        {
+            "id": 345, 
+            "org": "Fukushima Prefecture",
+            "station": "",
+            "coordinates": "37°06′23.87″N/140°59′44.74″E"  
+        },
+        {
+            "id": 346, 
+            "org": "Fukushima Prefecture",
+            "station": "",
+            "coordinates": "37°00′34.99″N/140°58′49.05″E"  
+        },
+        {
+            "id": 347, 
+            "org": "Fukushima Prefecture",
+            "station": "",
+            "coordinates": "36°58′03.50″N/140°57′35.71″E"  
+        },
+        {
+            "id": 348, 
+            "org": "Fukushima Prefecture",
+            "station": "",
+            "coordinates": "36°57′31.50″N/140°57′05.47″E"  
+        },
+        {
+            "id": 349, 
+            "org": "Fukushima Prefecture",
+            "station": "",
+            "coordinates": "36°56′20.69″N/140°54′51.84″E"  
+        },
+        {
+            "id": 350, 
+            "org": "Fukushima Prefecture",
+            "station": "",
+            "coordinates": "36°54′41.87″N/140°50′11.11″E"  
+        },
+        {
+            "id": 351, 
+            "org": "Fukushima Prefecture",
+            "station": "",
+            "coordinates": "36°51′38.93″N/140°47′28.51″E"  
+        },
+        {
+            "id": 352, 
+            "org": "Fukushima Prefecture",
+            "station": "",
+            "coordinates": "37°52′38.10″N/140°57′09.11″E"  
+        },
+        {
+            "id": 353, 
+            "org": "Fukushima Prefecture",
+            "station": "",
+            "coordinates": "37°49′20.86″N/140°58′22.21″E"  
+        },
+        {
+            "id": 354, 
+            "org": "Fukushima Prefecture",
+            "station": "",
+            "coordinates": "37°47′47.94″N/140°59′45.74″E"  
+        },
+        {
+            "id": 355, 
+            "org": "Fukushima Prefecture",
+            "station": "",
+            "coordinates": "37°43′19.16″N/141°01′07.75″E"  
+        },
+        {
+            "id": 356, 
+            "org": "Fukushima Prefecture",
+            "station": "",
+            "coordinates": "37°05′47.51″N/140°59′35.48″E"  
+        },
+        {
+            "id": 357, 
+            "org": "Fukushima Prefecture",
+            "station": "",
+            "coordinates": "36°58′10.38″N/140°58′13.40″E"  
+        },
+        {
+            "id": 358, 
+            "org": "Fukushima Prefecture",
+            "station": "",
+            "coordinates": "36°51′50.69″N/140°47′44.56″E"  
+        }
+    ],
+
+    "Fish":
+    [
+        {
+            "id": 256,
+            "org": "MOE",
+            "station": "",
+            "coordinates": "37°26′21.06″N/141°02′37.19″E"
+        },
+        {
+            "id": 257,
+            "org": "MOE",
+            "station": "",
+            "coordinates": "37°25′30″N/141°03′00″E"
+        },
+        {
+            "id": 258,
+            "org": "MOE",
+            "station": "",
+            "coordinates": "37°24′46.96″N/141°02′37.19″E"
+        },
+        {
+            "id": 259,
+            "org": "NRA",
+            "station": "",
+            "coordinates": "37°47′47.76″N/141°08′56.79″E"
+        },
+        {
+            "id": 260,
+            "org": "NRA",
+            "station": "",
+            "coordinates": "37°29′33.35″N/141°16′04.23″E"
+        },
+        {
+            "id": 261,
+            "org": "NRA",
+            "station": "",
+            "coordinates": "37°08′12.79″N/141°11′21.73″E"
+        },
+        {
+            "id": 262,
+            "org": "NRA",
+            "station": "",
+            "coordinates": "37°12′41.13″N/141°10′42.14″E"
+        },
+        {
+            "id": 265,
+            "org": "TEPCO",
+            "station": "T-S1",
+            "coordinates": "37°35′05″N/141°02′32″E"
+        },
+        {
+            "id": 266, 
+            "org": "TEPCO",
+            "station": "T-S2",
+            "coordinates": "37°33′10″N/141°03′45″E"
+        },
+        {
+            "id": 267, 
+            "org": "TEPCO",
+            "station": "T-S3",
+            "coordinates": "37°27′30″N/141°04′44″E"
+        },
+        {
+            "id": 268, 
+            "org": "TEPCO",
+            "station": "T-S4",
+            "coordinates": "37°25′43″N/141°04′57″E"
+        },
+        {
+            "id": 269, 
+            "org": "TEPCO",
+            "station": "T-S5",
+            "coordinates": "37°15′54″N/141°02′22″E"
+        },
+        {
+            "id": 270, 
+            "org": "TEPCO",
+            "station": "T-S7",
+            "coordinates": "37°18′40″N/141°02′50″E"
+        },
+        {
+            "id": 271, 
+            "org": "TEPCO",
+            "station": "T-S8",
+            "coordinates": "37°23′00″N/141°04′44″E"
+        },
+        {
+            "id": 272, 
+            "org": "TEPCO",
+            "station": "T-B1",
+            "coordinates": "37°32′00″N/141°13′00″E"
+        },
+        {
+            "id": 273, 
+            "org": "TEPCO",
+            "station": "T-B2",
+            "coordinates": "37°31′00″N/141°14′00″E"
+        },
+        {
+            "id": 274, 
+            "org": "TEPCO",
+            "station": "T-B3",
+            "coordinates": "37°24′28″N/141°09′15″E"
+        },
+        {
+            "id": 275, 
+            "org": "TEPCO",
+            "station": "T-B4",
+            "coordinates": "37°20′54″N/141°08′55″E"
+        },
+        {
+            "id": 276,
+            "org": "Fukushima Prefecture",
+            "station": "",
+            "coordinates": "37°52′26.51″N/141°06′00″E"
+        },
+        {
+            "id": 277,
+            "org": "Fukushima Prefecture",
+            "station": "",
+            "coordinates": "36°58′43.98″N/141°06′00″E"
+        },
+        {
+            "id": 278,
+            "org": "Fukushima Prefecture",
+            "station": "",
+            "coordinates": "37°37′35.37″N/141°06′00″E"
+        },
+        {
+            "id": 279,
+            "org": "Fukushima Prefecture",
+            "station": "",
+            "coordinates": "37°12′56.43″N/141°06′00″E"
+        },
+        {
+            "id": 280,
+            "org": "Fukushima Prefecture",
+            "station": "",
+            "coordinates": "37°47′01.75″N/141°06′00″E"
+        },
+        {
+            "id": 281,
+            "org": "Fukushima Prefecture",
+            "station": "",
+            "coordinates": "37°20′26.33″N/141°06′00″E"
+        },
+        {
+            "id": 282,
+            "org": "Fukushima Prefecture",
+            "station": "",
+            "coordinates": "37°29′27.56″N/141°06′00″E"
+        },
+        {
+            "id": 283,
+            "org": "Fukushima Prefecture",
+            "station": "",
+            "coordinates": "37°16′43.39″N/141°06′00″E"
+        },
+        {
+            "id": 284,
+            "org": "Fukushima Prefecture",
+            "station": "",
+            "coordinates": "37°24′07.82″N/141°06′00″E"
+        },
+        {
+            "id": 285,
+            "org": "Fukushima Prefecture",
+            "station": "",
+            "coordinates": "37°26′52.47″N/141°06′00″E"
+        },
+        {
+            "id": 293,
+            "org": "FA",
+            "station": "",
+            "coordinates": "36°55′32.35″N/141°03′05.25″E"
+        },
+        {
+            "id": 294,
+            "org": "FA",
+            "station": "",
+            "coordinates": "37°42′06.89″N/141°05′22.70″E"
+        },
+        {
+            "id": 295,
+            "org": "FA",
+            "station": "",
+            "coordinates": "37°52′24.24″N/141°03′31.08″E"
+        },
+        {
+            "id": 296,
+            "org": "FA",
+            "station": "",
+            "coordinates": "36°58′28.82″N/141°05′25.47″E"
+        },
+        {
+            "id": 297,
+            "org": "FA",
+            "station": "",
+            "coordinates": "37°08′00″N/141°00′00″E"
+        },
+        {
+            "id": 298,
+            "org": "FA",
+            "station": "",
+            "coordinates": "36°59′04.19″N/141°03′45.63″E"
+        },
+        {
+            "id": 299,
+            "org": "FA",
+            "station": "",
+            "coordinates": "36°52′47.18″N/140°57′16.61″E"
+        },
+        {
+            "id": 300,
+            "org": "FA",
+            "station": "",
+            "coordinates": "36°51′58.28″N/140°53′59.53″E"
+        },
+        {
+            "id": 301,
+            "org": "FA",
+            "station": "",
+            "coordinates": "37°07′00″N/141°11′00″E"
+        },
+        {
+            "id": 302,
+            "org": "FA",
+            "station": "",
+            "coordinates": "37°08′00″N/141°08′00″E"
+        },
+        {
+            "id": 303,
+            "org": "FA",
+            "station": "",
+            "coordinates": "37°11′00″N/141°06′00″E"
+        },
+        {
+            "id": 325,
+            "org": "FA",
+            "station": "",
+            "coordinates": "37°47′17.58″N/141°05′44.12″E"
+        },
+        {
+            "id": 335,
+            "org": "FA",
+            "station": "",
+            "coordinates": "37°38′05.37″N/141°05′45″E"
+        },
+        {
+            "id": 368,
+            "org": "NRA",
+            "station": "",
+            "coordinates": "37°10′26.96″N/141°11′01.93″E"
+        },
+        {
+            "id": 369,
+            "org": "NRA",
+            "station": "",
+            "coordinates": "37°37′35.37″N/141°06′00″E"
+        }
+    ],
+
+    "Seaweed":
+    [
+        {
+            "id": 359,
+            "org": "TEPCO",
+            "station": "",
+            "coordinates": "37°25′23.11″N/141°02′08.92″E"
+        },
+        {
+            "id": 360,
+            "org": "TEPCO",
+            "station": "",
+            "coordinates": "37°28′55.57″N/141°02′36.56″E"
+        },
+        {
+            "id": 361,
+            "org": "TEPCO",
+            "station": "",
+            "coordinates": "37°20′13.83″N/141°01′42.99″E"
+        },
+        {
+            "id": 362,
+            "org": "MOE",
+            "station": "",
+            "coordinates": "337°28′54.83″N/141°02′31.96″E"
+        },
+        {
+            "id": 363,
+            "org": "MOE",
+            "station": "",
+            "coordinates": "37°20′13.23″N/141°01′40.63″E"
+        },
+        {
+            "id": 364,
+            "org": "FA",
+            "station": "",
+            "coordinates": "37°48′12.35″N/140°58′34.56″E"
+        },
+        {
+            "id": 365,
+            "org": "Fukushima Prefecture",
+            "station": "",
+            "coordinates": "36°58′43.98″N/141°06′00″E"
+        },
+        {
+            "id": 366,
+            "org": "Fukushima Prefecture",
+            "station": "",
+            "coordinates": "37°47′01.75″N/141°06′00″E"
+        }
+    ]
+}
