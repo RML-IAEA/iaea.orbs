@@ -1,7 +1,31 @@
-﻿File Creation Date,2024-11-08
+﻿File Creation Date,2024-11-26
 Sampling Location,
 
 Date and time of Sampling,Sample,Radionuclide,Dt,ND,Unit
+2024/10/22,Olive flounder,Cs-134,,7.9,Bq/kg
+2024/10/22,Jack mackerel,Cs-134,,8.7,Bq/kg
+2024/10/22,Willowy flounder,Cs-134,,7.3,Bq/kg
+2024/10/22,Brown hakeling,Cs-134,,9.7,Bq/kg
+2024/10/22,Scorpionfish,Cs-134,,8.7,Bq/kg
+2024/10/22,Littlemouth flounder,Cs-134,,7.7,Bq/kg
+2024/10/22,Roundnose flounder,Cs-134,,8.4,Bq/kg
+2024/10/22,Blackthroat seaperch,Cs-134,,7.2,Bq/kg
+2024/10/22,Yellow goosefish,Cs-134,,8.9,Bq/kg
+2024/10/22,Sea raven,Cs-134,,9.4,Bq/kg
+2024/10/22,Japanese spanish mackerel,Cs-134,,9.4,Bq/kg
+2024/10/22,Rikuzen flounder,Cs-134,,9,Bq/kg
+2024/10/22,Olive flounder,Cs-137,,7,Bq/kg
+2024/10/22,Jack mackerel,Cs-137,,7.9,Bq/kg
+2024/10/22,Willowy flounder,Cs-137,,7.9,Bq/kg
+2024/10/22,Brown hakeling,Cs-137,,7.6,Bq/kg
+2024/10/22,Scorpionfish,Cs-137,,8.7,Bq/kg
+2024/10/22,Littlemouth flounder,Cs-137,,7.7,Bq/kg
+2024/10/22,Roundnose flounder,Cs-137,,5.9,Bq/kg
+2024/10/22,Blackthroat seaperch,Cs-137,,5.9,Bq/kg
+2024/10/22,Yellow goosefish,Cs-137,,8.3,Bq/kg
+2024/10/22,Sea raven,Cs-137,,8,Bq/kg
+2024/10/22,Japanese spanish mackerel,Cs-137,,6.5,Bq/kg
+2024/10/22,Rikuzen flounder,Cs-137,,8.2,Bq/kg
 2024/09/10,Jack mackerel,Cs-134,,8,Bq/kg
 2024/09/10,Sea bass,Cs-134,,9.8,Bq/kg
 2024/09/10,Sea bass,Cs-134,,8.6,Bq/kg
@@ -113,11 +137,11 @@ Date and time of Sampling,Sample,Radionuclide,Dt,ND,Unit
 2023/09/26,Conger eel,Cs-137,,7.7,Bq/kg-fresh
 2023/09/26,Microstomus achne,Cs-137,,9.3,Bq/kg-fresh
 2023/09/20,Brown hakeling,Cs-134,,10,Bq/kg-fresh
-2023/09/20,Microstomus achne,Cs-134,,8.4,Bq/kg-fresh
 2023/09/20,Yellow goosefish,Cs-134,,11,Bq/kg-fresh
+2023/09/20,Microstomus achne,Cs-134,,8.4,Bq/kg-fresh
 2023/09/20,Brown hakeling,Cs-137,,9,Bq/kg-fresh
-2023/09/20,Microstomus achne,Cs-137,,6.6,Bq/kg-fresh
 2023/09/20,Yellow goosefish,Cs-137,,7.7,Bq/kg-fresh
+2023/09/20,Microstomus achne,Cs-137,,6.6,Bq/kg-fresh
 2023/08/22,Anchovy,Cs-134,,6.8,Bq/kg-fresh
 2023/08/22,Anchovy,Cs-134,,9.3,Bq/kg-fresh
 2023/08/22,Anchovy,Cs-137,,7.9,Bq/kg-fresh
@@ -278,24 +302,24 @@ Date and time of Sampling,Sample,Radionuclide,Dt,ND,Unit
 2022/06/19,Brown hakeling,Cs-134,,8.1,Bq/kg-fresh
 2022/06/19,Scorpionfish,Cs-134,,7.8,Bq/kg-fresh
 2022/06/19,Chub mackerel,Cs-134,,9.2,Bq/kg-fresh
-2022/06/19,Microstomus achne,Cs-134,,8.1,Bq/kg-fresh
 2022/06/19,Yellow goosefish,Cs-134,,8.1,Bq/kg-fresh
+2022/06/19,Rikuzen flounder,Cs-134,,9.4,Bq/kg-fresh
+2022/06/19,Microstomus achne,Cs-134,,8.1,Bq/kg-fresh
 2022/06/19,Greeneye,Cs-134,,7.4,Bq/kg-fresh
 2022/06/19,Roughsclae sole,Cs-134,,8.5,Bq/kg-fresh
 2022/06/19,Pointhead flounder,Cs-134,,6.8,Bq/kg-fresh
 2022/06/19,Blackfin flounder,Cs-134,,8.5,Bq/kg-fresh
-2022/06/19,Rikuzen flounder,Cs-134,,9.4,Bq/kg-fresh
 2022/06/19,Willowy flounder,Cs-137,,6.4,Bq/kg-fresh
 2022/06/19,Brown hakeling,Cs-137,,7.4,Bq/kg-fresh
 2022/06/19,Scorpionfish,Cs-137,,7.1,Bq/kg-fresh
 2022/06/19,Chub mackerel,Cs-137,,8.1,Bq/kg-fresh
-2022/06/19,Microstomus achne,Cs-137,,8.6,Bq/kg-fresh
 2022/06/19,Yellow goosefish,Cs-137,,7.6,Bq/kg-fresh
+2022/06/19,Rikuzen flounder,Cs-137,,8,Bq/kg-fresh
+2022/06/19,Microstomus achne,Cs-137,,8.6,Bq/kg-fresh
 2022/06/19,Greeneye,Cs-137,,7.2,Bq/kg-fresh
 2022/06/19,Roughsclae sole,Cs-137,,7.1,Bq/kg-fresh
 2022/06/19,Pointhead flounder,Cs-137,,8.3,Bq/kg-fresh
 2022/06/19,Blackfin flounder,Cs-137,,7.1,Bq/kg-fresh
-2022/06/19,Rikuzen flounder,Cs-137,,8,Bq/kg-fresh
 2022/06/12,Black rockfish,Cs-134,,7.6,Bq/kg-fresh
 2022/06/12,Black rockfish,Cs-137,,7.5,Bq/kg-fresh
 2022/06/05,Littlemouth flounder,Cs-134,,9.9,Bq/kg-fresh
@@ -322,16 +346,16 @@ Date and time of Sampling,Sample,Radionuclide,Dt,ND,Unit
 2022/03/14,Black rockfish,Cs-137,,8.3,Bq/kg-fresh
 2022/03/13,Brown hakeling,Cs-134,,8.7,Bq/kg-fresh
 2022/03/13,Scorpionfish,Cs-134,,8.3,Bq/kg-fresh
+2022/03/13,Rikuzen flounder,Cs-134,,8.3,Bq/kg-fresh
 2022/03/13,Microstomus achne,Cs-134,,9,Bq/kg-fresh
 2022/03/13,Blackfin flounder,Cs-134,,8.3,Bq/kg-fresh
-2022/03/13,Rikuzen flounder,Cs-134,,8.3,Bq/kg-fresh
 2022/03/13,Flathead flounder,Cs-134,,6.3,Bq/kg-fresh
 2022/03/13,Alaska pollack,Cs-134,,7.8,Bq/kg-fresh
 2022/03/13,Brown hakeling,Cs-137,,7.9,Bq/kg-fresh
 2022/03/13,Scorpionfish,Cs-137,,7.5,Bq/kg-fresh
+2022/03/13,Rikuzen flounder,Cs-137,,8.5,Bq/kg-fresh
 2022/03/13,Microstomus achne,Cs-137,,7.8,Bq/kg-fresh
 2022/03/13,Blackfin flounder,Cs-137,,8.3,Bq/kg-fresh
-2022/03/13,Rikuzen flounder,Cs-137,,8.5,Bq/kg-fresh
 2022/03/13,Flathead flounder,Cs-137,,8.1,Bq/kg-fresh
 2022/03/13,Alaska pollack,Cs-137,,6.9,Bq/kg-fresh
 2022/02/23,White croaker,Cs-134,,8.5,Bq/kg-fresh
@@ -394,25 +418,25 @@ Date and time of Sampling,Sample,Radionuclide,Dt,ND,Unit
 2021/05/25,Pacific cod,Cs-134,,6.3,Bq/kg-fresh
 2021/05/25,Scorpionfish,Cs-134,,9.9,Bq/kg-fresh
 2021/05/25,True sardine,Cs-134,,9,Bq/kg-fresh
+2021/05/25,Sea raven,Cs-134,,7.6,Bq/kg-fresh
+2021/05/25,Rikuzen flounder,Cs-134,,8.4,Bq/kg-fresh
 2021/05/25,Greeneye,Cs-134,,8.1,Bq/kg-fresh
 2021/05/25,Roughsclae sole,Cs-134,,7.5,Bq/kg-fresh
 2021/05/25,Blackfin flounder,Cs-134,,6.9,Bq/kg-fresh
-2021/05/25,Rikuzen flounder,Cs-134,,8.4,Bq/kg-fresh
-2021/05/25,Sea raven,Cs-134,,7.6,Bq/kg-fresh
 2021/05/25,Brown hakeling,Cs-137,,7.9,Bq/kg-fresh
 2021/05/25,Pacific cod,Cs-137,,7.6,Bq/kg-fresh
 2021/05/25,Scorpionfish,Cs-137,,8.2,Bq/kg-fresh
 2021/05/25,True sardine,Cs-137,,7.7,Bq/kg-fresh
+2021/05/25,Sea raven,Cs-137,,6.9,Bq/kg-fresh
+2021/05/25,Rikuzen flounder,Cs-137,,7.3,Bq/kg-fresh
 2021/05/25,Greeneye,Cs-137,,8.3,Bq/kg-fresh
 2021/05/25,Roughsclae sole,Cs-137,,7,Bq/kg-fresh
 2021/05/25,Blackfin flounder,Cs-137,,6.3,Bq/kg-fresh
-2021/05/25,Rikuzen flounder,Cs-137,,7.3,Bq/kg-fresh
-2021/05/25,Sea raven,Cs-137,,6.9,Bq/kg-fresh
 2021/05/18,Brown hakeling,Cs-134,,8.2,Bq/kg-fresh
 2021/05/18,Scorpionfish,Cs-134,,8.3,Bq/kg-fresh
-2021/05/18,Microstomus achne,Cs-134,,7.9,Bq/kg-fresh
 2021/05/18,Rikuzen flounder,Cs-134,,8.4,Bq/kg-fresh
+2021/05/18,Microstomus achne,Cs-134,,7.9,Bq/kg-fresh
 2021/05/18,Brown hakeling,Cs-137,,6.8,Bq/kg-fresh
 2021/05/18,Scorpionfish,Cs-137,,7.7,Bq/kg-fresh
-2021/05/18,Microstomus achne,Cs-137,,8.4,Bq/kg-fresh
 2021/05/18,Rikuzen flounder,Cs-137,,8.1,Bq/kg-fresh
+2021/05/18,Microstomus achne,Cs-137,,8.4,Bq/kg-fresh
