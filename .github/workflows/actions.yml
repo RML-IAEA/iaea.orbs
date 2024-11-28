@@ -2,7 +2,7 @@ name: obrs data
 
 on:
   schedule:
-    - cron: '0 0 * * *' #every day at midnight
+    - cron: '0 * * * *' #every day at midnight
 
 jobs:
   build:
@@ -27,13 +27,13 @@ jobs:
           
       - name: commit files
         run: |
-          git config --local user.email ${{SECRET.MAIL}}
-          git config --local user.name ${{SECRET.NAME}}
+          git config --local user.email ${{secrets.MAIL}}
+          git config --local user.name ${{secrets.NAME}}
           git add -A
           git diff-index --quiet HEAD || (git commit -a -m "updated logs" --allow-empty)
           
       - name: push changes
         uses: ad-m/github-push-action@v0.6.0
         with:
-          github_token: ${{SECRET.TOKEN}}
+          github_token: ${{secrets.TOKEN}}
           branch: main
