@@ -26,11 +26,14 @@ jobs:
           
       - name: execute py script # run main.py
         run: python main.py
-          
-      - name: commit files
-        run: |
+
+      - name: Configure Git
+      run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
+
+      - name: Commit changes
+        run: |
           git add -A
           git diff-index --quiet HEAD || (git commit -a -m "updated logs" --allow-empty) || echo "Commit failed"
           
