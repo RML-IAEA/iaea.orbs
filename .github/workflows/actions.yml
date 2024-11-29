@@ -2,7 +2,7 @@ name: obrs data
 
 on:
   schedule:
-    - cron: '0 * * * *' #every day at midnight
+    - cron: '0 0 * * *' #every day at midnight
 
 jobs:
   build:
