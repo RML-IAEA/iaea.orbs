@@ -80,7 +80,7 @@ class DataProcessor:
             return ""
 
     def process_seawater_data(self, lines: List[str]) -> List[Dict[str, Any]]:
-        """Process seawater specific data."""
+        """Process seawater specific data"""
         try:
             depths = [value.strip() for value in lines[3].split(",") if value.strip()]
             nuclides_line = lines[4].split(",")
@@ -107,6 +107,9 @@ class DataProcessor:
                 data = full_data.iloc[:, start_index:end_index]
                 data.columns = columns_by_depth
                 data = data.replace({"-": None, "": None})
+                for column in columns_by_depth:
+                    if column not in ["begperiod"]:
+                        data[column] = pd.to_numeric(data[column], errors='coerce')
 
                 filtered_data = [row for row in data.to_dict(orient="records")
                                if any(value not in [None, "-", ""] for value in row.values())]
@@ -142,8 +145,8 @@ class DataProcessor:
                 "id": station["id"],
                 "org": org,
                 "station": station_name,
-                "lat": parsed_lat,
-                "lon": parsed_lon,
+                "lat": float(parsed_lat),
+                "lon": float(parsed_lon),
             }
 
             if sample_type == "Seawater":
