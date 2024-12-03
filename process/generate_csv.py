@@ -24,6 +24,7 @@ def extract_fish_and_seaweed_measurements(station_coord, sample_type, output_pat
             flattened_data.append(record)
 
     df = pd.DataFrame(flattened_data)
+    df[["lat", "lon", "Dt", "ND"]] = df[["lat", "lon", "Dt", "ND"]].apply(pd.to_numeric, errors='coerce')
     df.to_csv(output_path, index=False)
 
 
@@ -53,4 +54,6 @@ def extract_seawater_measurements(station_coord, output_path):
                 flattened_data.append(record)
 
     df = pd.DataFrame(flattened_data)
+    df[["lat", "lon", "Cs-134", "Cs-134_nd", "Cs-137", "Cs-137_nd", "H-3", "H-3_nd"]] = \
+        df[["lat", "lon", "Cs-134", "Cs-134_nd", "Cs-137", "Cs-137_nd", "H-3", "H-3_nd"]].apply(pd.to_numeric, errors='coerce')
     df.to_csv(output_path, index=False)
