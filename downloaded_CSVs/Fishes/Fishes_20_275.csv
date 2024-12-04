@@ -1,7 +1,17 @@
-﻿File Creation Date,2024-12-02
+﻿File Creation Date,2024-12-03
 Sampling Location,Around 10km offshore of 2F site (T-B4) (Fish)
 
 Date and time of Sampling,Sample,Radionuclide,Dt,ND,Unit
+2024/10/26,Takifugu snyderi (muscle),Cs-134,,3.7,Bq/kg-fresh
+2024/10/26,Crimson sea bream (muscle),Cs-134,,4.0,Bq/kg-fresh
+2024/10/26,Red sea bream (muscle),Cs-134,,3.6,Bq/kg-fresh
+2024/10/26,Smooth dogfish (muscle),Cs-134,,3.6,Bq/kg-fresh
+2024/10/26,Searobin (muscle),Cs-134,,3.5,Bq/kg-fresh
+2024/10/26,Takifugu snyderi (muscle),Cs-137,,3.5,Bq/kg-fresh
+2024/10/26,Crimson sea bream (muscle),Cs-137,,3.4,Bq/kg-fresh
+2024/10/26,Red sea bream (muscle),Cs-137,,3.5,Bq/kg-fresh
+2024/10/26,Smooth dogfish (muscle),Cs-137,,3.8,Bq/kg-fresh
+2024/10/26,Searobin (muscle),Cs-137,,3.7,Bq/kg-fresh
 2024/9/14,Takifugu snyderi (muscle),Cs-134,,3.9,Bq/kg-fresh
 2024/9/14,Crimson sea bream (muscle),Cs-134,,4.0,Bq/kg-fresh
 2024/9/14,Red sea bream (muscle),Cs-134,,3.3,Bq/kg-fresh
@@ -52,6 +62,10 @@ Date and time of Sampling,Sample,Radionuclide,Dt,ND,Unit
 2024/6/8,Marbled sole (muscle),Cs-137,,3.4,Bq/kg-fresh
 2024/6/8,John dory (muscle),Cs-137,,3.5,Bq/kg-fresh
 2024/6/8,Searobin (muscle),Cs-137,,3.4,Bq/kg-fresh
+2024/6/8,Flatfish (muscle),H-3:TFWT,,0.081,Bq/L
+2024/6/8,Flatfish (muscle),H-3:TFWT,,0.062,Bq/kg-fresh
+2024/6/8,Flatfish (muscle),H-3:OBT,,0.27,Bq/L
+2024/6/8,Flatfish (muscle),H-3:OBT,,0.035,Bq/kg-fresh
 2024/5/11,Lepidotrigla microptena (muscle),Cs-134,,3.8,Bq/kg-fresh
 2024/5/11,Common skete (muscle),Cs-134,,3.8,Bq/kg-fresh
 2024/5/11,Takifugu snyderi (muscle),Cs-134,,3.9,Bq/kg-fresh

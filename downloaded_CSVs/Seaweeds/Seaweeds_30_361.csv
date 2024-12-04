@@ -1,9 +1,13 @@
-﻿File Creation Date,2024-12-02
+﻿File Creation Date,2024-12-03
 Sampling Location,
 
 Date and time of Sampling,Sample,Radionuclide,Dt,ND,Unit
 2024/7/18,Ulva australis,Cs-134,,0.18,Bq/kg-fresh
 2024/7/18,Ulva australis,Cs-137,0.66,,Bq/kg-fresh
+2024/7/18,Ulva australis,H-3:TFWT,0.37,,Bq/L
+2024/7/18,Ulva australis,H-3:TFWT,0.31,,Bq/kg-fresh
+2024/7/18,Ulva australis,H-3:OBT,,0.32,Bq/L
+2024/7/18,Ulva australis,H-3:OBT,,0.015,Bq/kg-fresh
 2024/7/18,Ulva australis,I-129,,0.010,Bq/kg-fresh
 2024/5/28,Ulva australis,Cs-134,,0.25,Bq/kg-fresh
 2024/5/28,Ulva australis,Cs-137,12,,Bq/kg-fresh

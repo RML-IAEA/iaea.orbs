@@ -1,7 +1,17 @@
-﻿File Creation Date,2024-12-02
+﻿File Creation Date,2024-12-03
 Sampling Location,Around 2km offshore of 2F site (T-S7) (Fish)
 
 Date and time of Sampling,Sample,Radionuclide,Dt,ND,Unit
+2024/10/17,Common skete (muscle),Cs-134,,3.5,Bq/kg-fresh
+2024/10/17,Flatfish (muscle),Cs-134,,3.6,Bq/kg-fresh
+2024/10/17,Japanese angel shark  (muscle),Cs-134,,4.0,Bq/kg-fresh
+2024/10/17,Red sea bream (muscle),Cs-134,,3.2,Bq/kg-fresh
+2024/10/17,White croaker (muscle),Cs-134,,3.6,Bq/kg-fresh
+2024/10/17,Common skete (muscle),Cs-137,,4.1,Bq/kg-fresh
+2024/10/17,Flatfish (muscle),Cs-137,,3.3,Bq/kg-fresh
+2024/10/17,Japanese angel shark  (muscle),Cs-137,,3.9,Bq/kg-fresh
+2024/10/17,Red sea bream (muscle),Cs-137,,3.4,Bq/kg-fresh
+2024/10/17,White croaker (muscle),Cs-137,,3.4,Bq/kg-fresh
 2024/9/20,Common skete (muscle),Cs-134,,3.0,Bq/kg-fresh
 2024/9/20,Flathead (muscle),Cs-134,,3.4,Bq/kg-fresh
 2024/9/20,Chub mackerel (muscle),Cs-134,,4.5,Bq/kg-fresh
@@ -48,6 +58,10 @@ Date and time of Sampling,Sample,Radionuclide,Dt,ND,Unit
 2024/6/28,Black rockfish (muscle),Cs-137,,3.8,Bq/kg-fresh
 2024/6/28,Black rockfish (muscle),Cs-137,,3.7,Bq/kg-fresh
 2024/6/28,Red sea bream (muscle),Cs-137,,3.6,Bq/kg-fresh
+2024/6/28,Flatfish (muscle),H-3:TFWT,0.089,,Bq/L
+2024/6/28,Flatfish (muscle),H-3:TFWT,0.068,,Bq/kg-fresh
+2024/6/28,Flatfish (muscle),H-3:OBT,,0.29,Bq/L
+2024/6/28,Flatfish (muscle),H-3:OBT,,0.037,Bq/kg-fresh
 2024/6/7,Stone flounder (muscle),Cs-134,,4.5,Bq/kg-fresh
 2024/6/7,Common skete (muscle),Cs-134,,3.0,Bq/kg-fresh
 2024/6/7,Flatfish (muscle),Cs-134,,3.1,Bq/kg-fresh
