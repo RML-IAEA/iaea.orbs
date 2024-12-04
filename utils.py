@@ -19,6 +19,10 @@ def get_logger():
     return logger
 
 
+def float_data(measure, key):
+    return float(measure.get(key, 0)) if measure.get(key) is not None else None
+
+
 def load_json_data(data_path):
     """
     Load data from a JSON file
