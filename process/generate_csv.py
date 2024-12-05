@@ -75,5 +75,6 @@ def extract_seawater_measurements(station_coord, output_path):
                 flattened_data.append(record)
 
     df = pd.DataFrame(flattened_data)
-    df = df.dropna(axis=1, how='all') 
+    df = df.dropna(axis=1, how='all')
+    df = df[df['begperiod'].notna()] 
     df.to_csv(output_path, index=False)
