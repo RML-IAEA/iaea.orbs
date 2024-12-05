@@ -4,11 +4,10 @@ from typing import Optional, Dict, List, Any
 import numpy as np
 import pandas as pd
 
-from utils import get_logger
+from utils import logger
 from utils import load_json_data
 from utils import parse_dms_coordinates
 
-logger = get_logger()
 
 class StationMatcher:
     @staticmethod

@@ -19,8 +19,39 @@ def get_logger():
     return logger
 
 
+logger = get_logger()
+
+
 def float_data(measure, key):
-    return float(measure.get(key, 0)) if measure.get(key) is not None else None
+    """
+    Safely convert measurement values to float, handling various formats
+    Returns:
+        float or None: Converted float value, or None if conversion fails
+    """
+    if not measure or key not in measure:
+        return None
+
+    value = measure[key]
+    if value is None or value == '':
+        return None
+
+    value = str(value).strip()
+
+    if '±' in value:
+        parts = value.split('±')
+        try:
+            return float(parts[0].strip()), float(parts[1].strip())
+        except (ValueError, TypeError, IndexError):
+            logger.error("Could not convert value with uncertainty: '%s'", value)
+            return None, None
+
+
+    value = value.replace('%', '')
+    try:
+        return float(value)
+    except (ValueError, TypeError):
+        logger.error("Could not convert value: '%s'", value)
+        return None
 
 
 def load_json_data(data_path):

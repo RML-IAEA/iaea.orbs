@@ -3,11 +3,10 @@ from process.download_orbs import download_dataset
 from process.generate_csv import extract_fish_and_seaweed_measurements
 from process.generate_csv import extract_seawater_measurements
 from process.generate_json import DataProcessor
-from utils import get_logger
+from utils import logger
 from utils import load_json_data
 from utils import save_json
 
-logger = get_logger()
 
 def main():
     """Main function that orchestrates the data processing"""

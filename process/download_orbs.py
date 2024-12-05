@@ -5,9 +5,8 @@ import random
 import requests
 from typing import List
 
-from utils import get_logger
+from utils import logger
 
-logger = get_logger()
 
 @dataclass
 class DownloadConfig:
@@ -74,9 +73,8 @@ def download_dataset(base_url: str, config: DownloadConfig, output_dir: str) -> 
         download_csv(base_url, config, file_num, str(category_dir))
         file_num += 1
 
-    # Log the complete list of skipped files at the end
     if config.skipped_files:
-        logger.warning("Skipped not found files for '%s': %s", config.category, config.skipped_files)
+        logger.warning("Skipped not found files for '%s': %s",
+                       config.category, config.skipped_files)
 
     return config.skipped_files
-
