@@ -1,5 +1,35 @@
 import pandas as pd
-from utils import float_data
+from utils import logger
+
+
+def float_data(measure, key):
+    """
+    Safely convert measurement values to float, handling various formats
+    """
+    if not measure or key not in measure:
+        return None
+
+    value = measure[key]
+    if value is None or value == '':
+        return None
+
+    value = str(value).strip()
+
+    if '±' in value:
+        parts = value.split('±')
+        try:
+            return float(parts[0].strip()), float(parts[1].strip())
+        except (ValueError, TypeError, IndexError):
+            logger.error("Could not convert value with uncertainty: '%s'", value)
+            return None, None
+
+
+    value = value.replace('%', '')
+    try:
+        return float(value)
+    except (ValueError, TypeError):
+        logger.error("Could not convert value: '%s'", value)
+        return None
 
 
 def extract_fish_and_seaweed_measurements(station_coord, sample_type, output_path):
@@ -76,5 +106,5 @@ def extract_seawater_measurements(station_coord, output_path):
 
     df = pd.DataFrame(flattened_data)
     df = df.dropna(axis=1, how='all')
-    df = df[df['begperiod'].notna()] 
+    df = df[df['begperiod'].notna()]
     df.to_csv(output_path, index=False)
