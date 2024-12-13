@@ -5,7 +5,7 @@ import random
 import requests
 from typing import List
 
-from utils import logger
+from iaea.orbs import logger
 
 
 @dataclass

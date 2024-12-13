@@ -297,68 +297,68 @@
         },
         {
             "id": 51, 
-            "org": "Fukushima Prefecture",
+            "org": "Fukushima Pref.",
             "station": "",
             "coordinates": "37°25′7.00″N/141°2′7.00″E"  
         },
         {
             "id": 52, 
-            "org": "Fukushima Prefecture",
+            "org": "Fukushima Pref.",
             "station": "",
             "coordinates": "37°25′51.00″N/141°2′7.00″E"  
         },
         {
             "id": 53, 
-            "org": "Fukushima Prefecture",
+            "org": "Fukushima Pref.",
             "station": "",
             "coordinates": "37°25′27.00″N/141°2′30.00″E"  
         },
         {
             "id": 54, 
-            "org": "Fukushima Prefecture",
+            "org": "Fukushima Pref.",
             "station": "",
             "coordinates": "37°25′27.00″N/141°3′26.00″E"  
         },
         {
             "id": 55, 
-            "org": "Fukushima Prefecture",
+            "org": "Fukushima Pref.",
             "station": "",
             "coordinates": "37°23′7.00″N/141°3′26.00″E"  
         },
         {
             "id": 56, 
-            "org": "Fukushima Prefecture",
+            "org": "Fukushima Pref.",
             "station": "",
             "coordinates": "37°27′28.00″N/141°3′32.00″E"  
         },
         {
             "id": 57, 
-            "org": "Fukushima Prefecture",
+            "org": "Fukushima Pref.",
             "station": "",
             "coordinates": "37°26′50.42″N/141°2′27.66″E"  
         },
         {
             "id": 58, 
-            "org": "Fukushima Prefecture",
+            "org": "Fukushima Pref.",
             "station": "",
             "coordinates": "37°26′13.28″N/141°2′48.91″E"  
         },
         {
             "id": 59, 
-            "org": "Fukushima Prefecture",
+            "org": "Fukushima Pref.",
             "station": "",
             "coordinates": "37°25′13.18″N/141°2′48.60″E"  
         },
         {
             "id": 60, 
-            "org": "Fukushima Prefecture",
+            "org": "Fukushima Pref.",
             "station": "",
             "coordinates": "37°18′47.40″N/141°1′31.80″E"  
         },
         {
             "id": 61, 
-            "org": "Fukushima Prefecture",
-            "station": "",
+            "org": "Fukushima Pref.",
+            "station": "F-P11",
             "coordinates": "37°18′21.90″N/141°1′34.70″E"  
         },
         {
@@ -370,13 +370,13 @@
         {
             "id": 179, 
             "org": "NRA",
-            "station": "",
+            "station": "K-T2",
             "coordinates": "37°35′00″N/141°25′00″E"  
         },
         {
             "id": 180, 
             "org": "NRA",
-            "station": "",
+            "station": "M-C1",
             "coordinates": "37°30′00″N/141°20′00″E"  
         },
         {
@@ -544,13 +544,13 @@
         {
             "id": 216, 
             "org": "NRA",
-            "station": "",
+            "station": "T-D5",
             "coordinates": "37°25′00″N/141°04′18″E"  
         },
         {
             "id": 217, 
             "org": "NRA",
-            "station": "",
+            "station": "T-D9",
             "coordinates": "37°20′00″N/141°04′18″E"  
         },
         {
@@ -789,139 +789,139 @@
         },
         {
             "id": 336, 
-            "org": "Fukushima Prefecture",
-            "station": "",
+            "org": "Fukushima Pref.",
+            "station": "F-P13",
             "coordinates": "37°50′26.09″N/140°57′41.65″E"  
         },
         {
             "id": 337, 
-            "org": "Fukushima Prefecture",
-            "station": "",
+            "org": "Fukushima Pref.",
+            "station": "F-P14",
             "coordinates": "36°56′11.74″N/140°53′30.40″E"  
         },
         {
             "id": 338, 
-            "org": "Fukushima Prefecture",
-            "station": "",
+            "org": "Fukushima Pref.",
+            "station": "F-P15",
             "coordinates": "36°55′26.44″N/140°52′36.55″E"  
         },
         {
             "id": 339, 
-            "org": "Fukushima Prefecture",
-            "station": "",
+            "org": "Fukushima Pref.",
+            "station": "F-P29",
             "coordinates": "37°52′28.59″N/140°56′11.13″E"  
         },
         {
             "id": 340, 
-            "org": "Fukushima Prefecture",
-            "station": "",
+            "org": "Fukushima Pref.",
+            "station": "F-P30",
             "coordinates": "37°49′44.03″N/140°58′26.67″E"  
         },
         {
             "id": 341, 
-            "org": "Fukushima Prefecture",
+            "org": "Fukushima Pref.",
             "station": "",
             "coordinates": "37°41′04.74″N/141°00′49.75″E"  
         },
         {
             "id": 342, 
-            "org": "Fukushima Prefecture",
-            "station": "",
+            "org": "Fukushima Pref.",
+            "station": "F-P39",
             "coordinates": "37°28′54.48″N/141°02′31.02″E"  
         },
         {
             "id": 343, 
-            "org": "Fukushima Prefecture",
+            "org": "Fukushima Pref.",
             "station": "",
             "coordinates": "37°20′12.77″N/141°01′40.37″E"  
         },
         {
             "id": 344, 
-            "org": "Fukushima Prefecture",
+            "org": "Fukushima Pref.",
             "station": "",
             "coordinates": "37°08′55.46″N/141°00′05.58″E"  
         },
         {
             "id": 345, 
-            "org": "Fukushima Prefecture",
+            "org": "Fukushima Pref.",
             "station": "",
             "coordinates": "37°06′23.87″N/140°59′44.74″E"  
         },
         {
             "id": 346, 
-            "org": "Fukushima Prefecture",
+            "org": "Fukushima Pref.",
             "station": "",
             "coordinates": "37°00′34.99″N/140°58′49.05″E"  
         },
         {
             "id": 347, 
-            "org": "Fukushima Prefecture",
+            "org": "Fukushima Pref.",
             "station": "",
             "coordinates": "36°58′03.50″N/140°57′35.71″E"  
         },
         {
             "id": 348, 
-            "org": "Fukushima Prefecture",
+            "org": "Fukushima Pref.",
             "station": "",
             "coordinates": "36°57′31.50″N/140°57′05.47″E"  
         },
         {
             "id": 349, 
-            "org": "Fukushima Prefecture",
+            "org": "Fukushima Pref.",
             "station": "",
             "coordinates": "36°56′20.69″N/140°54′51.84″E"  
         },
         {
             "id": 350, 
-            "org": "Fukushima Prefecture",
+            "org": "Fukushima Pref.",
             "station": "",
             "coordinates": "36°54′41.87″N/140°50′11.11″E"  
         },
         {
             "id": 351, 
-            "org": "Fukushima Prefecture",
+            "org": "Fukushima Pref.",
             "station": "",
             "coordinates": "36°51′38.93″N/140°47′28.51″E"  
         },
         {
             "id": 352, 
-            "org": "Fukushima Prefecture",
+            "org": "Fukushima Pref.",
             "station": "",
             "coordinates": "37°52′38.10″N/140°57′09.11″E"  
         },
         {
             "id": 353, 
-            "org": "Fukushima Prefecture",
+            "org": "Fukushima Pref.",
             "station": "",
             "coordinates": "37°49′20.86″N/140°58′22.21″E"  
         },
         {
             "id": 354, 
-            "org": "Fukushima Prefecture",
+            "org": "Fukushima Pref.",
             "station": "",
             "coordinates": "37°47′47.94″N/140°59′45.74″E"  
         },
         {
             "id": 355, 
-            "org": "Fukushima Prefecture",
+            "org": "Fukushima Pref.",
             "station": "",
             "coordinates": "37°43′19.16″N/141°01′07.75″E"  
         },
         {
             "id": 356, 
-            "org": "Fukushima Prefecture",
+            "org": "Fukushima Pref.",
             "station": "",
             "coordinates": "37°05′47.51″N/140°59′35.48″E"  
         },
         {
             "id": 357, 
-            "org": "Fukushima Prefecture",
+            "org": "Fukushima Pref.",
             "station": "",
             "coordinates": "36°58′10.38″N/140°58′13.40″E"  
         },
         {
             "id": 358, 
-            "org": "Fukushima Prefecture",
+            "org": "Fukushima Pref.",
             "station": "",
             "coordinates": "36°51′50.69″N/140°47′44.56″E"  
         }
@@ -1039,61 +1039,61 @@
         },
         {
             "id": 276,
-            "org": "Fukushima Prefecture",
+            "org": "Fukushima Pref.",
             "station": "",
             "coordinates": "37°52′26.51″N/141°06′00″E"
         },
         {
             "id": 277,
-            "org": "Fukushima Prefecture",
+            "org": "Fukushima Pref.",
             "station": "",
             "coordinates": "36°58′43.98″N/141°06′00″E"
         },
         {
             "id": 278,
-            "org": "Fukushima Prefecture",
+            "org": "Fukushima Pref.",
             "station": "",
             "coordinates": "37°37′35.37″N/141°06′00″E"
         },
         {
             "id": 279,
-            "org": "Fukushima Prefecture",
+            "org": "Fukushima Pref.",
             "station": "",
             "coordinates": "37°12′56.43″N/141°06′00″E"
         },
         {
             "id": 280,
-            "org": "Fukushima Prefecture",
+            "org": "Fukushima Pref.",
             "station": "",
             "coordinates": "37°47′01.75″N/141°06′00″E"
         },
         {
             "id": 281,
-            "org": "Fukushima Prefecture",
+            "org": "Fukushima Pref.",
             "station": "",
             "coordinates": "37°20′26.33″N/141°06′00″E"
         },
         {
             "id": 282,
-            "org": "Fukushima Prefecture",
+            "org": "Fukushima Pref.",
             "station": "",
             "coordinates": "37°29′27.56″N/141°06′00″E"
         },
         {
             "id": 283,
-            "org": "Fukushima Prefecture",
+            "org": "Fukushima Pref.",
             "station": "",
             "coordinates": "37°16′43.39″N/141°06′00″E"
         },
         {
             "id": 284,
-            "org": "Fukushima Prefecture",
+            "org": "Fukushima Pref.",
             "station": "",
             "coordinates": "37°24′07.82″N/141°06′00″E"
         },
         {
             "id": 285,
-            "org": "Fukushima Prefecture",
+            "org": "Fukushima Pref.",
             "station": "",
             "coordinates": "37°26′52.47″N/141°06′00″E"
         },
@@ -1229,13 +1229,13 @@
         },
         {
             "id": 365,
-            "org": "Fukushima Prefecture",
+            "org": "Fukushima Pref.",
             "station": "",
             "coordinates": "36°58′43.98″N/141°06′00″E"
         },
         {
             "id": 366,
-            "org": "Fukushima Prefecture",
+            "org": "Fukushima Pref.",
             "station": "",
             "coordinates": "37°47′01.75″N/141°06′00″E"
         }

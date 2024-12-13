@@ -1,0 +1,110 @@
+[build-system]
+requires = [ "setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "iaea.orbs"
+version = "0.0.1"
+description = "Data extracter from the Overacting Radiation-Monitoring Data Browsing System (ORBS) in Japan's coastal oceans"
+readme = "README.md"
+requires-python = ">=3.8"
+classifiers = [
+    "Programming Language :: Python",
+    "Programming Language :: Python :: 3.8",
+    "Programming Language :: Python :: 3.9",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
+    "Programming Language :: Python :: 3 :: Only",
+    "Intended Audience :: Developers",
+    "Intended Audience :: Lab Managers",
+    "Topic :: Parsing",
+]
+
+authors = [
+  {name = "Paul Mcginnity", email = "p.mc-ginnity@iaea.org" }
+]
+
+maintainers = [
+  {name = "Paul Mcginnity", email = "p.mc-ginnity@iaea.org" },
+  {name="Tim", email = "Github-RML-IAEA@iaea.org"},
+]
+
+dependencies = [
+    "pandas==2.2.3",
+    "requests",
+    "dms2dec==0.1",
+]
+
+[project.optional-dependencies]
+dev = [
+    "black",
+    "isort",
+    "pylint",
+    "Flake8-pyproject==1.2.3"
+]
+
+[project.scripts]
+generate-data = "iaea.orbs.main:main"
+
+
+[project.urls]
+repository = "https://github.com/RML-IAEA/iaea.orbs.git"
+
+[tool.setuptools]
+include-package-data = true
+
+[tool.setuptools.packages.find]
+where = ["src"]
+exclude = ['.gitignore']
+
+[tool.setuptools.package-data]
+"iaea.orbs" = ["stations/*"]
+
+[tool.pyright]
+exclude = ["venv"]
+
+[tool.isort]
+skip = [".dockerignore", "venv", ".env", "docker", ".git", ".vscode"]
+skip_gitignore = true
+include_trailing_comma = true
+profile = "black"
+
+
+[tool.black]
+force-exclude = '''
+venv
+'''
+exclude = '''
+(
+    /(
+      \.eggs
+    | \.eggs-info
+    | \.git
+    | \.tox
+    | \.venv
+    | build
+    | dist
+    | site
+    | site.tox
+    )/
+)
+'''
+
+[tool.pylint.main]
+ignore = [".tox", ".git", "venv", ".env"]
+max-line-length = 100
+disable = ["redefined-outer-name"]
+
+
+[tool.flake8]
+ignore = ['E501', 'E241']
+per-file-ignores = [
+    '__init__.py:F401',
+    'venv',
+    '.git',
+    'pyc',
+]
+max-line-length = 100
+count = true

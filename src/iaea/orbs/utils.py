@@ -1,3 +1,4 @@
+from os.path import exists, join
 import json
 import logging
 from dms2dec.dms_convert import dms2dec
@@ -20,6 +21,19 @@ def get_logger():
 
 
 logger = get_logger()
+
+
+def generate_output_path(output_dir, sample_type, file_format):
+    return join(output_dir, f"{sample_type.lower()}_data.{file_format}")
+
+
+def check_directory_exists(directories: list):
+    """
+    Check if the specified directories exist
+    """
+    for directory in directories:
+        if not exists(directory):
+            raise FileNotFoundError(f"No such directory: '{directory}'")
 
 
 def load_json_data(data_path):
