@@ -11,7 +11,7 @@ from iaea.orbs.utils import load_json_data
 from iaea.orbs.utils import parse_dms_coordinates
 
 
-STATIONS_POINTS = pkg_resources.resource_filename(
+STATIONS_POINTS = resource_filename(
     "iaea.orbs", "stations/station_points.csv"
 )
 ALPES_SEAWATER_DATA = resource_filename(
