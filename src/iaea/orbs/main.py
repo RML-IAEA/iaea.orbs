@@ -1,7 +1,7 @@
 
 import argparse
 from os.path import join
-import pkg_resources
+from pkg_resources import resource_filename
 
 from iaea.orbs import logger
 from iaea.orbs import HelpFormatter
@@ -15,7 +15,7 @@ from iaea.orbs.utils import generate_output_path
 from iaea.orbs.utils import load_json_data
 
 
-STATIONS_INFO = pkg_resources.resource_filename(
+STATIONS_INFO = resource_filename(
     "iaea.orbs", "stations/station_by_id.json" )
 
 FISH_KEY = "Fish"

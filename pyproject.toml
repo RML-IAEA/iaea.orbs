@@ -32,9 +32,10 @@ maintainers = [
 ]
 
 dependencies = [
+    "dms2dec==0.1",
     "pandas==2.2.3",
     "requests",
-    "dms2dec==0.1",
+    "setuptools"
 ]
 
 [project.optional-dependencies]

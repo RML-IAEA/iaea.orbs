@@ -3,7 +3,7 @@ from os import listdir
 from typing import Optional, Dict, List, Any
 import numpy as np
 import pandas as pd
-import pkg_resources
+from pkg_resources import resource_filename
 
 from iaea.orbs import logger
 from iaea.orbs.utils import generate_output_path
@@ -14,7 +14,7 @@ from iaea.orbs.utils import parse_dms_coordinates
 STATIONS_POINTS = pkg_resources.resource_filename(
     "iaea.orbs", "stations/station_points.csv"
 )
-ALPES_SEAWATER_DATA =  pkg_resources.resource_filename(
+ALPES_SEAWATER_DATA = resource_filename(
     "iaea.orbs",  "stations/alps_seawater_data.csv"
 )
 
