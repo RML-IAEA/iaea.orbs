@@ -45,6 +45,7 @@ def extract_seawater_measurements(station_coord, output_path):
                     "station": station.get("station"),
                     "lat": station.get("lat", None),
                     "lon": station.get("lon", None),
+                    "depth": depth_info.get("depth", None),
                     "begperiod": measurement.get("begperiod"),
                     "Cs-134": measurement.get("Cs-134", None),
                     "Cs-134_unc": measurement.get("Cs-134_unc", None),
