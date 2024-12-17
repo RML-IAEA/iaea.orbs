@@ -208,10 +208,9 @@ class DataProcessor:
             nuclides_line = lines[4].split(",")
             depth_data = []
 
-            # Use list comprehension for more concise code
             depth_data = [
                 {
-                    "depth": depth,
+                    "depth": self._process_depth(depth),
                     "data": self._process_depth_data(lines, depths, nuclides_line, depth)
                 }
                 for depth in depths
@@ -221,6 +220,13 @@ class DataProcessor:
         except Exception as e:
             logger.error("Error processing seawater data: %s", e)
             return []
+
+    def _process_depth(self, depth):
+        if "surface" in depth.lower():
+            return "Surface"
+        if "bottom" in depth.lower():
+            return "Bottom"
+        return depth
 
     def _process_depth_data(self, lines, depths, nuclides_line, current_depth):
 
