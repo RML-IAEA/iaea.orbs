@@ -8,6 +8,7 @@ version = "0.0.1"
 description = "Data extracter from the Overacting Radiation-Monitoring Data Browsing System (ORBS) in Japan's coastal oceans"
 readme = "README.md"
 requires-python = ">=3.8"
+license = {text = "MIT License"}
 classifiers = [
     "Programming Language :: Python",
     "Programming Language :: Python :: 3.8",
