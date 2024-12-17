@@ -51,7 +51,7 @@ generate-data = "iaea.orbs.main:main"
 
 [project.urls]
 repository = "https://github.com/RML-IAEA/iaea.orbs.git"
-
+changelog = "https://github.com/RML-IAEA/iaea.orbs/blob/main/changes.rst"
 
 [tool.setuptools]
 include-package-data = true
