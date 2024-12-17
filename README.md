@@ -9,7 +9,7 @@ The package allows downloading, processing, and transforming CSV data related to
 
 - Download datasets from `ORBS` for seawater, fish, and seaweed measurements
 - Process and transform raw `CSV` files with manually created [Station by ID JSON file](stations/station_by_id.json)
-- Extract Seawater station names and coordinates from [Alps Seawater PDF](stations/R6zahyo.pdf) , [Extracted file](stations/station_points.csv)
+- Extract Seawater station names and coordinates from [Alps Seawater PDF](src/iaea/orbs/stations/R6zahyo.pdf) , [Extracted file](src/iaea/orbs/stations/station_points.csv)
 - Generate Fully Data `JSON` output
 - Generate structured `CSV` files from `JSON` output
 
@@ -26,7 +26,7 @@ pip install .
 
 ## Running
 
-The `generate-data` commande allows you to download each station's `CSV` file from `ORBS`and generate the `JSON`  and `CSV` files for sample types : `Fish`, `Seawater`, `Seaweed`.
+The `generate-data` script allows you to download each station's `CSV` file from `ORBS`and generate the `JSON`  and `CSV` files for sample types : `Fish`, `Seawater`, `Seaweed`.
 
 ```sh
 generate-data -h
