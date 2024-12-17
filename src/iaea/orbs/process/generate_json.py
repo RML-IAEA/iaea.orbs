@@ -156,7 +156,6 @@ class DataProcessor:
         Update DataFrame with separate columns for value and uncertainty (if applicable)
         """
         if column not in df.columns:
-            logger.warning("Nuclide column '%s' not found in DataFrame", column)
             return df
         parsed_data = df[column].apply(parse_column_value)
         df[column] = parsed_data.apply(lambda x: x[0]
