@@ -21,7 +21,7 @@ The package allows downloading, processing, and transforming CSV data related to
 ## Installation
 
 ```sh
-pip install .
+pip install -e .
 ```
 
 ## Running
