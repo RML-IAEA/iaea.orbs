@@ -8,7 +8,7 @@ The package allows downloading, processing, and transforming CSV data related to
 ## Features
 
 - Download datasets from `ORBS` for seawater, fish, and seaweed measurements
-- Process and transform raw `CSV` files with manually created [Station by ID JSON file](stations/station_by_id.json)
+- Process and transform raw `CSV` files with manually created [Station by ID JSON file](src/iaea/orbs/stations/station_by_id.json)
 - Extract Seawater station names and coordinates from [Alps Seawater PDF](src/iaea/orbs/stations/R6zahyo.pdf) , [Extracted file](src/iaea/orbs/stations/station_points.csv)
 - Generate Fully Data `JSON` output
 - Generate structured `CSV` files from `JSON` output
