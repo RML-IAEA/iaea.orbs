@@ -27,7 +27,7 @@ authors = [
 
 maintainers = [
   {name = "Paul Mcginnity", email = "p.mc-ginnity@iaea.org" },
-  {name="Tim", email = "Github-RML-IAEA@iaea.org"},
+  {name="RML", email = "Github-RML-IAEA@iaea.org"},
 ]
 
 dependencies = [
