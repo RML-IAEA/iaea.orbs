@@ -7,8 +7,17 @@
     "lon":141.0413888889,
     "depth_data":[
       {
-        "depth":"Sea surface to a depth of 0.5 m",
+        "depth":"Surface",
         "data":[
+          {
+            "begperiod":"2024\/12\/15 6:33",
+            "Cs-134":null,
+            "Cs-134_nd":0.36,
+            "Cs-137":null,
+            "Cs-137_nd":0.31,
+            "H-3":null,
+            "H-3_nd":null
+          },
           {
             "begperiod":"2024\/12\/14 6:30",
             "Cs-134":null,
@@ -11910,8 +11919,17 @@
     "lon":141.0344444444,
     "depth_data":[
       {
-        "depth":"Sea surface to a depth of 0.5 m",
+        "depth":"Surface",
         "data":[
+          {
+            "begperiod":"2024\/12\/15 7:18",
+            "Cs-134":null,
+            "Cs-134_nd":0.64,
+            "Cs-137":null,
+            "Cs-137_nd":0.62,
+            "H-3":null,
+            "H-3_nd":null
+          },
           {
             "begperiod":"2024\/12\/14 7:21",
             "Cs-134":null,
@@ -24092,8 +24110,17 @@
     "lon":141.0336111111,
     "depth_data":[
       {
-        "depth":"Sea surface to a depth of 0.5 m",
+        "depth":"Surface",
         "data":[
+          {
+            "begperiod":"2024\/12\/15 6:20",
+            "Cs-134":null,
+            "Cs-134_nd":0.68,
+            "Cs-137":null,
+            "Cs-137_nd":0.57,
+            "H-3":null,
+            "H-3_nd":null
+          },
           {
             "begperiod":"2024\/12\/14 6:20",
             "Cs-134":null,
@@ -36229,7 +36256,7 @@
     "lon":141.0402777778,
     "depth_data":[
       {
-        "depth":"Sea surface to a depth of 0.5 m",
+        "depth":"Surface",
         "data":[
           {
             "begperiod":"2024\/12\/9 7:15",
@@ -36257,7 +36284,7 @@
             "Cs-134_nd":0.22,
             "Cs-137_nd":0.31,
             "H-3":null,
-            "H-3_nd":null
+            "H-3_nd":0.33
           },
           {
             "begperiod":"2024\/11\/11 7:03",
@@ -37685,7 +37712,7 @@
     "lon":141.0466666667,
     "depth_data":[
       {
-        "depth":"Sea surface to a depth of 0.5 m",
+        "depth":"Surface",
         "data":[
           {
             "begperiod":"2024\/12\/9 7:32",
@@ -39141,7 +39168,7 @@
     "lon":141.0466666667,
     "depth_data":[
       {
-        "depth":"Sea surface to a depth of 0.5 m",
+        "depth":"Surface",
         "data":[
           {
             "begperiod":"2024\/12\/9 8:19",
@@ -40597,7 +40624,7 @@
     "lon":141.0402777778,
     "depth_data":[
       {
-        "depth":"Sea surface to a depth of 0.5 m",
+        "depth":"Surface",
         "data":[
           {
             "begperiod":"2024\/12\/9 8:12",
@@ -42053,7 +42080,7 @@
     "lon":141.0466666667,
     "depth_data":[
       {
-        "depth":"Sea surface to a depth of 0.5 m",
+        "depth":"Surface",
         "data":[
           {
             "begperiod":"2024\/12\/9 8:07",
@@ -43509,7 +43536,7 @@
     "lon":141.0505555556,
     "depth_data":[
       {
-        "depth":"Sea surface to a depth of 0.5 m",
+        "depth":"Surface",
         "data":[
           {
             "begperiod":"2024\/12\/9 7:25",
@@ -43537,7 +43564,7 @@
             "Cs-134_nd":0.3,
             "Cs-137_nd":0.31,
             "H-3":null,
-            "H-3_nd":null
+            "H-3_nd":0.35
           },
           {
             "begperiod":"2024\/11\/11 7:15",
@@ -44573,7 +44600,7 @@
     "lon":141.0505555556,
     "depth_data":[
       {
-        "depth":"Sea surface to a depth of 0.5 m",
+        "depth":"Surface",
         "data":[
           {
             "begperiod":"2024\/12\/9 7:39",
@@ -44601,7 +44628,7 @@
             "Cs-134_nd":0.32,
             "Cs-137_nd":0.3,
             "H-3":null,
-            "H-3_nd":null
+            "H-3_nd":0.35
           },
           {
             "begperiod":"2024\/11\/11 7:30",
@@ -45637,7 +45664,7 @@
     "lon":141.0505555556,
     "depth_data":[
       {
-        "depth":"Sea surface to a depth of 0.5 m",
+        "depth":"Surface",
         "data":[
           {
             "begperiod":"2024\/12\/9 8:01",
@@ -45665,7 +45692,7 @@
             "Cs-134_nd":0.38,
             "Cs-137_nd":0.37,
             "H-3":null,
-            "H-3_nd":null
+            "H-3_nd":0.35
           },
           {
             "begperiod":"2024\/11\/11 8:01",
@@ -46701,7 +46728,7 @@
     "lon":141.0263888889,
     "depth_data":[
       {
-        "depth":"Sea surface to a depth of 0.5 m",
+        "depth":"Surface",
         "data":[
           {
             "begperiod":"2024\/11\/19 11:30",
@@ -48243,7 +48270,7 @@
     "lon":141.0405555556,
     "depth_data":[
       {
-        "depth":"Sea surface to a depth of 0.5 m",
+        "depth":"Surface",
         "data":[
           {
             "begperiod":"2024\/11\/19 14:00",
@@ -49793,7 +49820,7 @@
     "lon":141.0722222222,
     "depth_data":[
       {
-        "depth":"Sea surface to a depth of 0.5 m",
+        "depth":"Surface",
         "data":[
           {
             "begperiod":"2024\/11\/25 8:29",
@@ -51904,7 +51931,7 @@
     "lon":141.0722222222,
     "depth_data":[
       {
-        "depth":"Sea surface to a depth of 0.5 m",
+        "depth":"Surface",
         "data":[
           {
             "begperiod":"2024\/11\/25 9:00",
@@ -54204,7 +54231,7 @@
     "lon":141.0722222222,
     "depth_data":[
       {
-        "depth":"Sea surface to a depth of 0.5 m",
+        "depth":"Surface",
         "data":[
           {
             "begperiod":"2024\/11\/9 8:29",
@@ -56131,7 +56158,7 @@
     "lon":141.2,
     "depth_data":[
       {
-        "depth":"Sea surface to a depth of 0.5 m",
+        "depth":"Surface",
         "data":[
           {
             "begperiod":"2024\/11\/22 7:39",
@@ -58053,7 +58080,7 @@
     "lon":141.0138888889,
     "depth_data":[
       {
-        "depth":"Sea surface to a depth of 0.5 m",
+        "depth":"Surface",
         "data":[
           {
             "begperiod":"2024\/11\/19 10:00",
@@ -59219,7 +59246,7 @@
     "lon":141.0625,
     "depth_data":[
       {
-        "depth":"Sea surface to a depth of 0.5 m",
+        "depth":"Surface",
         "data":[
           {
             "begperiod":"2024\/11\/25 8:08",
@@ -60963,7 +60990,7 @@
     "lon":141.0472222222,
     "depth_data":[
       {
-        "depth":"Sea surface to a depth of 0.5 m",
+        "depth":"Surface",
         "data":[
           {
             "begperiod":"2024\/11\/22 9:15",
@@ -62577,7 +62604,7 @@
     "lon":141.0788888889,
     "depth_data":[
       {
-        "depth":"Sea surface to a depth of 0.5 m",
+        "depth":"Surface",
         "data":[
           {
             "begperiod":"2024\/10\/1 6:02",
@@ -63091,7 +63118,7 @@
     "lon":141.0422222222,
     "depth_data":[
       {
-        "depth":"Sea surface to a depth of 0.5 m",
+        "depth":"Surface",
         "data":[
           {
             "begperiod":"2024\/9\/4 12:15",
@@ -63626,7 +63653,7 @@
     "lon":141.0625,
     "depth_data":[
       {
-        "depth":"Sea surface to a depth of 0.5 m",
+        "depth":"Surface",
         "data":[
           {
             "begperiod":"2024\/9\/4 12:40",
@@ -63780,7 +63807,7 @@
     "lon":141.0788888889,
     "depth_data":[
       {
-        "depth":"Sea surface to a depth of 0.5 m",
+        "depth":"Surface",
         "data":[
           {
             "begperiod":"2024\/10\/25 9:42",
@@ -64375,7 +64402,7 @@
     "lon":141.0825,
     "depth_data":[
       {
-        "depth":"Sea surface to a depth of 0.5 m",
+        "depth":"Surface",
         "data":[
           {
             "begperiod":"2024\/10\/25 10:18",
@@ -65018,7 +65045,7 @@
     "lon":141.0394444444,
     "depth_data":[
       {
-        "depth":"Sea surface to a depth of 0.5 m",
+        "depth":"Surface",
         "data":[
           {
             "begperiod":"2024\/10\/16 9:46",
@@ -65517,7 +65544,7 @@
     "lon":141.0472222222,
     "depth_data":[
       {
-        "depth":"Sea surface to a depth of 0.5 m",
+        "depth":"Surface",
         "data":[
           {
             "begperiod":"2024\/10\/16 9:12",
@@ -66016,7 +66043,7 @@
     "lon":141.2166666667,
     "depth_data":[
       {
-        "depth":"Sea surface to a depth of 0.5 m",
+        "depth":"Surface",
         "data":[
           {
             "begperiod":"2024\/10\/22 6:40",
@@ -66551,7 +66578,7 @@
     "lon":141.2333333333,
     "depth_data":[
       {
-        "depth":"Sea surface to a depth of 0.5 m",
+        "depth":"Surface",
         "data":[
           {
             "begperiod":"2024\/10\/22 6:10",
@@ -67086,7 +67113,7 @@
     "lon":141.1541666667,
     "depth_data":[
       {
-        "depth":"Sea surface to a depth of 0.5 m",
+        "depth":"Surface",
         "data":[
           {
             "begperiod":"2024\/10\/26 6:00",
@@ -67537,7 +67564,7 @@
     "lon":141.1486111111,
     "depth_data":[
       {
-        "depth":"Sea surface to a depth of 0.5 m",
+        "depth":"Surface",
         "data":[
           {
             "begperiod":"2024\/10\/26 6:45",
@@ -67988,7 +68015,7 @@
     "lon":141.2,
     "depth_data":[
       {
-        "depth":"Sea surface to a depth of 0.5 m",
+        "depth":"Surface",
         "data":[
           {
             "begperiod":"2024\/9\/13 7:01",
@@ -68475,7 +68502,7 @@
     "lon":141.0425,
     "depth_data":[
       {
-        "depth":"Sea surface to a depth of 0.5 m",
+        "depth":"Surface",
         "data":[
           {
             "begperiod":"2024\/10\/25 10:37",
@@ -69079,7 +69106,7 @@
     "lon":141.0225,
     "depth_data":[
       {
-        "depth":"Sea surface to a depth of 0.5 m",
+        "depth":"Surface",
         "data":[
           {
             "begperiod":"2024\/10\/25 9:32",
@@ -69638,7 +69665,7 @@
     "lon":141.0833333333,
     "depth_data":[
       {
-        "depth":"Sea surface to a depth of 0.5 m",
+        "depth":"Surface",
         "data":[
           {
             "begperiod":"2024\/10\/25 10:01",
@@ -70197,7 +70224,7 @@
     "lon":140.9222222222,
     "depth_data":[
       {
-        "depth":"Sea surface to a depth of 0.5 m",
+        "depth":"Surface",
         "data":[
           {
             "begperiod":"2024\/9\/13 9:36",
@@ -70691,7 +70718,7 @@
     "lon":141.0833333333,
     "depth_data":[
       {
-        "depth":"Sea surface to a depth of 0.5 m",
+        "depth":"Surface",
         "data":[
           {
             "begperiod":"2024\/9\/13 8:30",
@@ -71178,7 +71205,7 @@
     "lon":141.0375,
     "depth_data":[
       {
-        "depth":"Sea surface to a depth of 0.5 m",
+        "depth":"Surface",
         "data":[
           {
             "begperiod":"2024\/9\/12 4:48",
@@ -71701,7 +71728,7 @@
     "lon":141.0069444444,
     "depth_data":[
       {
-        "depth":"Sea surface to a depth of 0.5 m",
+        "depth":"Surface",
         "data":[
           {
             "begperiod":"2024\/9\/12 5:35",
@@ -72224,7 +72251,7 @@
     "lon":141.0,
     "depth_data":[
       {
-        "depth":"Sea surface to a depth of 0.5 m",
+        "depth":"Surface",
         "data":[
           {
             "begperiod":"2024\/9\/12 6:18",
@@ -72747,7 +72774,7 @@
     "lon":141.0352777778,
     "depth_data":[
       {
-        "depth":"Sea surface water",
+        "depth":"Surface",
         "data":[
           {
             "begperiod":"2024\/08\/21",
@@ -73048,7 +73075,7 @@
     "lon":141.0352777778,
     "depth_data":[
       {
-        "depth":"Sea surface water",
+        "depth":"Surface",
         "data":[
           {
             "begperiod":"2024\/08\/21",
@@ -73390,7 +73417,7 @@
     "lon":141.0416666667,
     "depth_data":[
       {
-        "depth":"Sea surface water",
+        "depth":"Surface",
         "data":[
           {
             "begperiod":"2024\/08\/21",
@@ -73732,7 +73759,7 @@
     "lon":141.0572222222,
     "depth_data":[
       {
-        "depth":"Sea surface water",
+        "depth":"Surface",
         "data":[
           {
             "begperiod":"2024\/08\/21",
@@ -74033,7 +74060,7 @@
     "lon":141.0572222222,
     "depth_data":[
       {
-        "depth":"Sea surface water",
+        "depth":"Surface",
         "data":[
           {
             "begperiod":"2024\/08\/21",
@@ -74375,7 +74402,7 @@
     "lon":141.0588888889,
     "depth_data":[
       {
-        "depth":"Sea surface water",
+        "depth":"Surface",
         "data":[
           {
             "begperiod":"2024\/08\/21",
@@ -74717,7 +74744,7 @@
     "lon":141.0410166667,
     "depth_data":[
       {
-        "depth":"Sea surface water",
+        "depth":"Surface",
         "data":[
           {
             "begperiod":"2024\/08\/21",
@@ -74857,7 +74884,7 @@
     "lon":141.0469194444,
     "depth_data":[
       {
-        "depth":"Sea surface water",
+        "depth":"Surface",
         "data":[
           {
             "begperiod":"2024\/08\/21",
@@ -74997,7 +75024,7 @@
     "lon":141.0468333333,
     "depth_data":[
       {
-        "depth":"Sea surface water",
+        "depth":"Surface",
         "data":[
           {
             "begperiod":"2024\/08\/21",
@@ -75137,7 +75164,7 @@
     "lon":141.0255,
     "depth_data":[
       {
-        "depth":"Sea surface water",
+        "depth":"Surface",
         "data":[
           {
             "begperiod":"2024\/02\/15",
@@ -75223,7 +75250,7 @@
     "lon":141.0263055556,
     "depth_data":[
       {
-        "depth":"Sea surface water",
+        "depth":"Surface",
         "data":[
           {
             "begperiod":"2024\/02\/15",
@@ -81724,7 +81751,7 @@
     "lon":141.042,
     "depth_data":[
       {
-        "depth":"Surface layer",
+        "depth":"Surface",
         "data":[
           {
             "begperiod":"2024\/05\/21",
@@ -81765,7 +81792,7 @@
         ]
       },
       {
-        "depth":"Bottom layer",
+        "depth":"Bottom",
         "data":[
           {
             "begperiod":"2024\/05\/21",
@@ -81815,7 +81842,7 @@
     "lon":141.04,
     "depth_data":[
       {
-        "depth":"Surface layer",
+        "depth":"Surface",
         "data":[
           {
             "begperiod":"2023\/01\/18",
@@ -81836,7 +81863,7 @@
         ]
       },
       {
-        "depth":"Bottom layer",
+        "depth":"Bottom",
         "data":[
           {
             "begperiod":"2023\/01\/18",
@@ -81866,7 +81893,7 @@
     "lon":141.04,
     "depth_data":[
       {
-        "depth":"Surface layer",
+        "depth":"Surface",
         "data":[
           {
             "begperiod":"2024\/05\/21",
@@ -81991,7 +82018,7 @@
         ]
       },
       {
-        "depth":"Bottom layer",
+        "depth":"Bottom",
         "data":[
           {
             "begperiod":"2024\/05\/21",
@@ -82089,7 +82116,7 @@
     "lon":141.039,
     "depth_data":[
       {
-        "depth":"Surface layer",
+        "depth":"Surface",
         "data":[
           {
             "begperiod":"2024\/05\/21",
@@ -82130,7 +82157,7 @@
         ]
       },
       {
-        "depth":"Bottom layer",
+        "depth":"Bottom",
         "data":[
           {
             "begperiod":"2024\/05\/21",
@@ -82180,7 +82207,7 @@
     "lon":141.0461805556,
     "depth_data":[
       {
-        "depth":"Surface layer",
+        "depth":"Surface",
         "data":[
           {
             "begperiod":"2024\/05\/21",
@@ -82230,7 +82257,7 @@
         ]
       },
       {
-        "depth":"Bottom layer",
+        "depth":"Bottom",
         "data":[
           {
             "begperiod":"2024\/05\/21",
@@ -82289,7 +82316,7 @@
     "lon":141.0416666667,
     "depth_data":[
       {
-        "depth":"Surface layer",
+        "depth":"Surface",
         "data":[
           {
             "begperiod":"2023\/01\/17",
@@ -82314,7 +82341,7 @@
         ]
       },
       {
-        "depth":"Bottom layer",
+        "depth":"Bottom",
         "data":[
           {
             "begperiod":"2023\/01\/17",
@@ -82344,7 +82371,7 @@
     "lon":141.0506944444,
     "depth_data":[
       {
-        "depth":"Surface layer",
+        "depth":"Surface",
         "data":[
           {
             "begperiod":"2023\/01\/17",
@@ -82365,7 +82392,7 @@
         ]
       },
       {
-        "depth":"Bottom layer",
+        "depth":"Bottom",
         "data":[
           {
             "begperiod":"2023\/01\/17",
@@ -82395,7 +82422,7 @@
     "lon":141.0415972222,
     "depth_data":[
       {
-        "depth":"Surface layer",
+        "depth":"Surface",
         "data":[
           {
             "begperiod":"2023\/01\/17",
@@ -82416,7 +82443,7 @@
         ]
       },
       {
-        "depth":"Bottom layer",
+        "depth":"Bottom",
         "data":[
           {
             "begperiod":"2023\/01\/17",
@@ -82446,7 +82473,7 @@
     "lon":141.0506388889,
     "depth_data":[
       {
-        "depth":"Surface layer",
+        "depth":"Surface",
         "data":[
           {
             "begperiod":"2024\/05\/21",
@@ -82571,7 +82598,7 @@
         ]
       },
       {
-        "depth":"Bottom layer",
+        "depth":"Bottom",
         "data":[
           {
             "begperiod":"2024\/05\/21",
@@ -82675,7 +82702,7 @@
     "lon":141.0415277778,
     "depth_data":[
       {
-        "depth":"Surface layer",
+        "depth":"Surface",
         "data":[
           {
             "begperiod":"2023\/01\/17",
@@ -82696,7 +82723,7 @@
         ]
       },
       {
-        "depth":"Bottom layer",
+        "depth":"Bottom",
         "data":[
           {
             "begperiod":"2023\/01\/17",
@@ -82730,7 +82757,7 @@
     "lon":141.0505833333,
     "depth_data":[
       {
-        "depth":"Surface layer",
+        "depth":"Surface",
         "data":[
           {
             "begperiod":"2023\/01\/17",
@@ -82755,7 +82782,7 @@
         ]
       },
       {
-        "depth":"Bottom layer",
+        "depth":"Bottom",
         "data":[
           {
             "begperiod":"2023\/01\/17",
@@ -82785,7 +82812,7 @@
     "lon":141.0460555556,
     "depth_data":[
       {
-        "depth":"Surface layer",
+        "depth":"Surface",
         "data":[
           {
             "begperiod":"2024\/05\/21",
@@ -82835,7 +82862,7 @@
         ]
       },
       {
-        "depth":"Bottom layer",
+        "depth":"Bottom",
         "data":[
           {
             "begperiod":"2024\/05\/21",
@@ -82894,7 +82921,7 @@
     "lon":141.042,
     "depth_data":[
       {
-        "depth":"Surface layer",
+        "depth":"Surface",
         "data":[
           {
             "begperiod":"2024\/05\/21",
@@ -82935,7 +82962,7 @@
         ]
       },
       {
-        "depth":"Bottom layer",
+        "depth":"Bottom",
         "data":[
           {
             "begperiod":"2024\/05\/21",
@@ -82994,7 +83021,7 @@
     "lon":141.038,
     "depth_data":[
       {
-        "depth":"Surface layer",
+        "depth":"Surface",
         "data":[
           {
             "begperiod":"2024\/05\/22",
@@ -83089,7 +83116,7 @@
         ]
       },
       {
-        "depth":"Bottom layer",
+        "depth":"Bottom",
         "data":[
           {
             "begperiod":"2024\/05\/22",
@@ -83187,7 +83214,7 @@
     "lon":141.038,
     "depth_data":[
       {
-        "depth":"Surface layer",
+        "depth":"Surface",
         "data":[
           {
             "begperiod":"2024\/05\/22",
@@ -83237,7 +83264,7 @@
         ]
       },
       {
-        "depth":"Bottom layer",
+        "depth":"Bottom",
         "data":[
           {
             "begperiod":"2024\/05\/22",
@@ -83296,7 +83323,7 @@
     "lon":140.98,
     "depth_data":[
       {
-        "depth":"Surface layer",
+        "depth":"Surface",
         "data":[
           {
             "begperiod":"2024\/05\/21",
@@ -83333,7 +83360,7 @@
         ]
       },
       {
-        "depth":"Bottom layer",
+        "depth":"Bottom",
         "data":[
           {
             "begperiod":"2023\/01\/17",
@@ -83363,7 +83390,7 @@
     "lon":141.022,
     "depth_data":[
       {
-        "depth":"Surface layer",
+        "depth":"Surface",
         "data":[
           {
             "begperiod":"2024\/05\/21",
@@ -83400,7 +83427,7 @@
         ]
       },
       {
-        "depth":"Bottom layer",
+        "depth":"Bottom",
         "data":[
           {
             "begperiod":"2024\/05\/21",
@@ -83446,7 +83473,7 @@
     "lon":141.046,
     "depth_data":[
       {
-        "depth":"Surface layer",
+        "depth":"Surface",
         "data":[
           {
             "begperiod":"2024\/05\/21",
@@ -83483,7 +83510,7 @@
         ]
       },
       {
-        "depth":"Bottom layer",
+        "depth":"Bottom",
         "data":[
           {
             "begperiod":"2024\/05\/21",
@@ -83529,7 +83556,7 @@
     "lon":141.117,
     "depth_data":[
       {
-        "depth":"Surface layer",
+        "depth":"Surface",
         "data":[
           {
             "begperiod":"2024\/05\/23",
@@ -83566,7 +83593,7 @@
         ]
       },
       {
-        "depth":"Bottom layer",
+        "depth":"Bottom",
         "data":[
           {
             "begperiod":"2024\/05\/23",
@@ -83612,7 +83639,7 @@
     "lon":141.046,
     "depth_data":[
       {
-        "depth":"Surface layer",
+        "depth":"Surface",
         "data":[
           {
             "begperiod":"2024\/05\/21",
@@ -83649,7 +83676,7 @@
         ]
       },
       {
-        "depth":"Bottom layer",
+        "depth":"Bottom",
         "data":[
           {
             "begperiod":"2024\/05\/21",
@@ -83695,7 +83722,7 @@
     "lon":141.081,
     "depth_data":[
       {
-        "depth":"Surface layer",
+        "depth":"Surface",
         "data":[
           {
             "begperiod":"2024\/05\/23",
@@ -83732,7 +83759,7 @@
         ]
       },
       {
-        "depth":"Bottom layer",
+        "depth":"Bottom",
         "data":[
           {
             "begperiod":"2024\/05\/23",
@@ -83778,7 +83805,7 @@
     "lon":141.103,
     "depth_data":[
       {
-        "depth":"Surface layer",
+        "depth":"Surface",
         "data":[
           {
             "begperiod":"2024\/05\/23",
@@ -83823,7 +83850,7 @@
         ]
       },
       {
-        "depth":"Bottom layer",
+        "depth":"Bottom",
         "data":[
           {
             "begperiod":"2024\/05\/23",
@@ -83869,7 +83896,7 @@
     "lon":141.159,
     "depth_data":[
       {
-        "depth":"Surface layer",
+        "depth":"Surface",
         "data":[
           {
             "begperiod":"2024\/05\/23",
@@ -83906,7 +83933,7 @@
         ]
       },
       {
-        "depth":"Bottom layer",
+        "depth":"Bottom",
         "data":[
           {
             "begperiod":"2024\/05\/23",
@@ -83952,7 +83979,7 @@
     "lon":141.082,
     "depth_data":[
       {
-        "depth":"Surface layer",
+        "depth":"Surface",
         "data":[
           {
             "begperiod":"2024\/05\/22",
@@ -83989,7 +84016,7 @@
         ]
       },
       {
-        "depth":"Bottom layer",
+        "depth":"Bottom",
         "data":[
           {
             "begperiod":"2024\/05\/22",
@@ -84043,7 +84070,7 @@
     "lon":141.046,
     "depth_data":[
       {
-        "depth":"Surface layer",
+        "depth":"Surface",
         "data":[
           {
             "begperiod":"2024\/05\/22",
@@ -84080,7 +84107,7 @@
         ]
       },
       {
-        "depth":"Bottom layer",
+        "depth":"Bottom",
         "data":[
           {
             "begperiod":"2024\/05\/22",
@@ -84126,7 +84153,7 @@
     "lon":141.117,
     "depth_data":[
       {
-        "depth":"Surface layer",
+        "depth":"Surface",
         "data":[
           {
             "begperiod":"2024\/05\/22",
@@ -84163,7 +84190,7 @@
         ]
       },
       {
-        "depth":"Bottom layer",
+        "depth":"Bottom",
         "data":[
           {
             "begperiod":"2024\/05\/22",
@@ -84209,7 +84236,7 @@
     "lon":141.046,
     "depth_data":[
       {
-        "depth":"Surface layer",
+        "depth":"Surface",
         "data":[
           {
             "begperiod":"2024\/05\/22",
@@ -84246,7 +84273,7 @@
         ]
       },
       {
-        "depth":"Bottom layer",
+        "depth":"Bottom",
         "data":[
           {
             "begperiod":"2024\/05\/22",
@@ -84292,7 +84319,7 @@
     "lon":141.014,
     "depth_data":[
       {
-        "depth":"Surface layer",
+        "depth":"Surface",
         "data":[
           {
             "begperiod":"2024\/05\/30",
@@ -84329,7 +84356,7 @@
         ]
       },
       {
-        "depth":"Bottom layer",
+        "depth":"Bottom",
         "data":[
           {
             "begperiod":"2024\/05\/30",
@@ -84375,7 +84402,7 @@
     "lon":140.979,
     "depth_data":[
       {
-        "depth":"Surface layer",
+        "depth":"Surface",
         "data":[
           {
             "begperiod":"2024\/05\/30",
@@ -84420,7 +84447,7 @@
         ]
       },
       {
-        "depth":"Bottom layer",
+        "depth":"Bottom",
         "data":[
           {
             "begperiod":"2023\/01\/18",
@@ -84450,7 +84477,7 @@
     "lon":140.935,
     "depth_data":[
       {
-        "depth":"Surface layer",
+        "depth":"Surface",
         "data":[
           {
             "begperiod":"2024\/07\/30",
@@ -84488,7 +84515,7 @@
     "lon":140.965,
     "depth_data":[
       {
-        "depth":"Surface layer",
+        "depth":"Surface",
         "data":[
           {
             "begperiod":"2024\/07\/30",
@@ -84526,7 +84553,7 @@
     "lon":141.02,
     "depth_data":[
       {
-        "depth":"Surface layer",
+        "depth":"Surface",
         "data":[
           {
             "begperiod":"2024\/07\/30",
@@ -84564,7 +84591,7 @@
     "lon":141.014,
     "depth_data":[
       {
-        "depth":"Surface layer",
+        "depth":"Surface",
         "data":[
           {
             "begperiod":"2024\/07\/30",
@@ -84602,7 +84629,7 @@
     "lon":140.998,
     "depth_data":[
       {
-        "depth":"Surface layer",
+        "depth":"Surface",
         "data":[
           {
             "begperiod":"2024\/07\/30",
@@ -84646,7 +84673,7 @@
     "lon":140.79,
     "depth_data":[
       {
-        "depth":"Surface layer",
+        "depth":"Surface",
         "data":[
           {
             "begperiod":"2024\/07\/30",
@@ -84684,7 +84711,7 @@
     "lon":141.0092,
     "depth_data":[
       {
-        "depth":"Surface layer",
+        "depth":"Surface",
         "data":[
           {
             "begperiod":"2024\/05\/21",
@@ -84718,7 +84745,7 @@
     "lon":141.0419,
     "depth_data":[
       {
-        "depth":"Surface layer",
+        "depth":"Surface",
         "data":[
           {
             "begperiod":"2024\/05\/21",
@@ -84739,7 +84766,7 @@
         ]
       },
       {
-        "depth":"Bottom layer",
+        "depth":"Bottom",
         "data":[
           {
             "begperiod":"2024\/05\/21",
@@ -84769,7 +84796,7 @@
     "lon":141.0349,
     "depth_data":[
       {
-        "depth":"Surface layer",
+        "depth":"Surface",
         "data":[
           {
             "begperiod":"2024\/05\/30",
@@ -84790,7 +84817,7 @@
         ]
       },
       {
-        "depth":"Bottom layer",
+        "depth":"Bottom",
         "data":[
           {
             "begperiod":"2024\/05\/30",
@@ -84820,7 +84847,7 @@
     "lon":141.0018,
     "depth_data":[
       {
-        "depth":"Surface layer",
+        "depth":"Surface",
         "data":[
           {
             "begperiod":"2024\/05\/30",
@@ -84854,7 +84881,7 @@
     "lon":140.9615694444,
     "depth_data":[
       {
-        "depth":"Surface layer",
+        "depth":"Surface",
         "data":[
           {
             "begperiod":"2024\/03\/04",
@@ -85048,7 +85075,7 @@
     "lon":140.8917777778,
     "depth_data":[
       {
-        "depth":"Surface layer",
+        "depth":"Surface",
         "data":[
           {
             "begperiod":"2024\/03\/01",
@@ -85278,7 +85305,7 @@
     "lon":140.8768194444,
     "depth_data":[
       {
-        "depth":"Surface layer",
+        "depth":"Surface",
         "data":[
           {
             "begperiod":"2024\/03\/01",
@@ -87999,7 +88026,7 @@
     "lon":140.9525305556,
     "depth_data":[
       {
-        "depth":"Surface layer",
+        "depth":"Surface",
         "data":[
           {
             "begperiod":"2024\/07\/05",
@@ -88241,7 +88268,7 @@
     "lon":140.9728361111,
     "depth_data":[
       {
-        "depth":"Surface layer",
+        "depth":"Surface",
         "data":[
           {
             "begperiod":"2024\/07\/18",
@@ -88445,7 +88472,7 @@
     "lon":140.9960388889,
     "depth_data":[
       {
-        "depth":"Surface layer",
+        "depth":"Surface",
         "data":[
           {
             "begperiod":"2024\/07\/05",
@@ -88687,7 +88714,7 @@
     "lon":141.0188194444,
     "depth_data":[
       {
-        "depth":"Surface layer",
+        "depth":"Surface",
         "data":[
           {
             "begperiod":"2024\/07\/05",
@@ -88929,7 +88956,7 @@
     "lon":140.9931888889,
     "depth_data":[
       {
-        "depth":"Surface layer",
+        "depth":"Surface",
         "data":[
           {
             "begperiod":"2024\/07\/08",
@@ -89209,7 +89236,7 @@
     "lon":140.9703888889,
     "depth_data":[
       {
-        "depth":"Surface layer",
+        "depth":"Surface",
         "data":[
           {
             "begperiod":"2024\/07\/08",
@@ -89489,7 +89516,7 @@
     "lon":140.7957111111,
     "depth_data":[
       {
-        "depth":"Surface layer",
+        "depth":"Surface",
         "data":[
           {
             "begperiod":"2024\/07\/08",
