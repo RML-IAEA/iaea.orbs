@@ -1,7 +1,29 @@
-﻿File Creation Date,2024-12-18
+﻿File Creation Date,2024-12-19
 Sampling Location,
 
 Date and time of Sampling,Sample,Radionuclide,Dt,ND,Unit
+2024/11/29,Anchovy,Cs-134,,8.1,Bq/kg
+2024/11/29,Anchovy,Cs-134,,8.7,Bq/kg
+2024/11/29,Anchovy,Cs-137,,6.7,Bq/kg
+2024/11/29,Anchovy,Cs-137,,9.0,Bq/kg
+2024/11/24,Flathead,Cs-134,,8.6,Bq/kg
+2024/11/24,Marbled rockfish,Cs-134,,7.1,Bq/kg
+2024/11/24,Anchovy,Cs-134,,11.0,Bq/kg
+2024/11/24,Olive flounder,Cs-134,,6.9,Bq/kg
+2024/11/24,Sebastes cheni,Cs-134,,7.9,Bq/kg
+2024/11/24,Black Scraper,Cs-134,,7.9,Bq/kg
+2024/11/24,Spottedtail morwong,Cs-134,,8.5,Bq/kg
+2024/11/24,Flathead,Cs-137,,6.8,Bq/kg
+2024/11/24,Marbled rockfish,Cs-137,,6.8,Bq/kg
+2024/11/24,Anchovy,Cs-137,,8.9,Bq/kg
+2024/11/24,Olive flounder,Cs-137,,7.7,Bq/kg
+2024/11/24,Sebastes cheni,Cs-137,,7.2,Bq/kg
+2024/11/24,Black Scraper,Cs-137,,7.6,Bq/kg
+2024/11/24,Spottedtail morwong,Cs-137,,7.2,Bq/kg
+2024/11/23,Honnibe crocker,Cs-134,,7.9,Bq/kg
+2024/11/23,Japanese amberjack,Cs-134,,9.8,Bq/kg
+2024/11/23,Honnibe crocker,Cs-137,,8.3,Bq/kg
+2024/11/23,Japanese amberjack,Cs-137,,6.9,Bq/kg
 2024/11/22,Ridged-eye flounder,Cs-134,,11.0,Bq/kg
 2024/11/22,Redwing searobin,Cs-134,,8.7,Bq/kg
 2024/11/22,White croaker,Cs-134,,8.7,Bq/kg
@@ -23,7 +45,9 @@ Date and time of Sampling,Sample,Radionuclide,Dt,ND,Unit
 2024/11/22,Sea conger,Cs-137,,6.5,Bq/kg
 2024/11/22,Grub fish,Cs-137,,8.8,Bq/kg
 2024/11/20,Long barbeled grunter,Cs-134,,6.8,Bq/kg
+2024/11/20,Sebastes inermis,Cs-134,,9.1,Bq/kg
 2024/11/20,Long barbeled grunter,Cs-137,,6.9,Bq/kg
+2024/11/20,Sebastes inermis,Cs-137,,7.0,Bq/kg
 2024/11/17,Smooth dogfish,Cs-134,,9.5,Bq/kg
 2024/11/17,Flathead,Cs-134,,8.9,Bq/kg
 2024/11/17,Brown hakeling,Cs-134,,9.2,Bq/kg
