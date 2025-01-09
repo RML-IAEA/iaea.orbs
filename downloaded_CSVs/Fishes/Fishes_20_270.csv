@@ -1,7 +1,19 @@
-﻿File Creation Date,2025-01-07
+﻿File Creation Date,2025-01-08
 Sampling Location,Around 2km offshore of 2F site (T-S7) (Fish)
 
 Date and time of Sampling,Sample,Radionuclide,Dt,ND,Unit
+2024/12/4,Common skete (muscle),Cs-134,,4.1,Bq/kg-fresh
+2024/12/4,Flatfish (muscle),Cs-134,,2.4,Bq/kg-fresh
+2024/12/4,Flatfish (muscle),Cs-134,,3.2,Bq/kg-fresh
+2024/12/4,Searobin (muscle),Cs-134,,3.1,Bq/kg-fresh
+2024/12/4,Red sea bream (muscle),Cs-134,,4.4,Bq/kg-fresh
+2024/12/4,John dory (muscle),Cs-134,,3.6,Bq/kg-fresh
+2024/12/4,Common skete (muscle),Cs-137,,3.3,Bq/kg-fresh
+2024/12/4,Flatfish (muscle),Cs-137,,3.2,Bq/kg-fresh
+2024/12/4,Flatfish (muscle),Cs-137,,3.5,Bq/kg-fresh
+2024/12/4,Searobin (muscle),Cs-137,,3.8,Bq/kg-fresh
+2024/12/4,Red sea bream (muscle),Cs-137,,3.5,Bq/kg-fresh
+2024/12/4,John dory (muscle),Cs-137,,3.4,Bq/kg-fresh
 2024/10/17,Common skete (muscle),Cs-134,,3.5,Bq/kg-fresh
 2024/10/17,Flatfish (muscle),Cs-134,,3.6,Bq/kg-fresh
 2024/10/17,Japanese angel shark  (muscle),Cs-134,,4.0,Bq/kg-fresh
@@ -46,6 +58,10 @@ Date and time of Sampling,Sample,Radionuclide,Dt,ND,Unit
 2024/7/19,Flatfish (muscle),Cs-137,,3.9,Bq/kg-fresh
 2024/7/19,Searobin (muscle),Cs-137,,3.3,Bq/kg-fresh
 2024/7/19,Microstomus achne (muscle),Cs-137,,3.5,Bq/kg-fresh
+2024/7/19,Flatfish (muscle),H-3:TFWT,0.17,,Bq/L
+2024/7/19,Flatfish (muscle),H-3:TFWT,0.13,,Bq/kg-fresh
+2024/7/19,Flatfish (muscle),H-3:OBT,,0.26,Bq/L
+2024/7/19,Flatfish (muscle),H-3:OBT,,0.035,Bq/kg-fresh
 2024/6/28,Common skete (muscle),Cs-134,,3.5,Bq/kg-fresh
 2024/6/28,Flatfish (muscle),Cs-134,,3.2,Bq/kg-fresh
 2024/6/28,Flatfish (muscle),Cs-134,,3.9,Bq/kg-fresh

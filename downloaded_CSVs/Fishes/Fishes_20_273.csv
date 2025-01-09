@@ -1,7 +1,23 @@
-﻿File Creation Date,2025-01-07
+﻿File Creation Date,2025-01-08
 Sampling Location,Around 18km offshore of Ukedo River (T-B2) (Fish)
 
 Date and time of Sampling,Sample,Radionuclide,Dt,ND,Unit
+2024/11/12,Ridged-eye flounder (muscle),Cs-134,,3.2,Bq/kg-fresh
+2024/11/12,Lepidotrigla microptena (muscle),Cs-134,,3.9,Bq/kg-fresh
+2024/11/12,White croaker (muscle),Cs-134,,3.1,Bq/kg-fresh
+2024/11/12,Crimson sea bream (muscle),Cs-134,,4.3,Bq/kg-fresh
+2024/11/12,John dory (muscle),Cs-134,,4.7,Bq/kg-fresh
+2024/11/12,Takifugu snyderi (muscle),Cs-134,,3.5,Bq/kg-fresh
+2024/11/12,Red sea bream (muscle),Cs-134,,4.4,Bq/kg-fresh
+2024/11/12,Searobin (muscle),Cs-134,,3.8,Bq/kg-fresh
+2024/11/12,Ridged-eye flounder (muscle),Cs-137,,3.9,Bq/kg-fresh
+2024/11/12,Lepidotrigla microptena (muscle),Cs-137,,3.9,Bq/kg-fresh
+2024/11/12,White croaker (muscle),Cs-137,,3.5,Bq/kg-fresh
+2024/11/12,Crimson sea bream (muscle),Cs-137,,4.0,Bq/kg-fresh
+2024/11/12,John dory (muscle),Cs-137,,3.5,Bq/kg-fresh
+2024/11/12,Takifugu snyderi (muscle),Cs-137,,3.8,Bq/kg-fresh
+2024/11/12,Red sea bream (muscle),Cs-137,,4.0,Bq/kg-fresh
+2024/11/12,Searobin (muscle),Cs-137,,3.2,Bq/kg-fresh
 2024/10/22,Common skete (muscle),Cs-134,,3.7,Bq/kg-fresh
 2024/10/22,Lepidotrigla microptena (muscle),Cs-134,,3.3,Bq/kg-fresh
 2024/10/22,White croaker (muscle),Cs-134,,2.9,Bq/kg-fresh
@@ -56,6 +72,10 @@ Date and time of Sampling,Sample,Radionuclide,Dt,ND,Unit
 2024/6/25,Jack mackerel (muscle),Cs-137,,3.0,Bq/kg-fresh
 2024/6/25,John dory (muscle),Cs-137,,3.3,Bq/kg-fresh
 2024/6/25,Hairtail (muscle),Cs-137,,3.5,Bq/kg-fresh
+2024/6/25,Flatfish (muscle),H-3:TFWT,0.071,,Bq/L
+2024/6/25,Flatfish (muscle),H-3:TFWT,0.054,,Bq/kg-fresh
+2024/6/25,Flatfish (muscle),H-3:OBT,,0.26,Bq/L
+2024/6/25,Flatfish (muscle),H-3:OBT,,0.035,Bq/kg-fresh
 2024/6/11,Common skete (muscle),Cs-134,,3.6,Bq/kg-fresh
 2024/6/11,Marbled sole (muscle),Cs-134,,3.4,Bq/kg-fresh
 2024/6/11,Roundnose flounder (muscle),Cs-134,,3.1,Bq/kg-fresh
