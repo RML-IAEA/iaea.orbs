@@ -1,4 +1,4 @@
-﻿File Creation Date,2025-01-30
+﻿File Creation Date,2025-01-31
 Sampling Location,Around 2km offshore of 2F site (T-S7) (Fish)
 
 Date and time of Sampling,Sample,Radionuclide,Dt,ND,Unit
@@ -48,6 +48,10 @@ Date and time of Sampling,Sample,Radionuclide,Dt,ND,Unit
 2024/8/2,Drumfish (muscle),Cs-137,,4.1,Bq/kg-fresh
 2024/8/2,Japanese amberjack (muscle),Cs-137,,3.4,Bq/kg-fresh
 2024/8/2,Red sea bream (muscle),Cs-137,,3.9,Bq/kg-fresh
+2024/8/2,Flatfish (muscle),H-3:TFWT,0.11,,Bq/L
+2024/8/2,Flatfish (muscle),H-3:TFWT,0.081,,Bq/kg-fresh
+2024/8/2,Flatfish (muscle),H-3:OBT,,0.26,Bq/L
+2024/8/2,Flatfish (muscle),H-3:OBT,,0.033,Bq/kg-fresh
 2024/7/19,Common skete (muscle),Cs-134,,3.5,Bq/kg-fresh
 2024/7/19,Flatfish (muscle),Cs-134,,4.0,Bq/kg-fresh
 2024/7/19,Flatfish (muscle),Cs-134,,4.2,Bq/kg-fresh
