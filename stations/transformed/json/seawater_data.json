@@ -10,6 +10,15 @@
         "depth":"Surface",
         "data":[
           {
+            "begperiod":"2025\/2\/17 7:17",
+            "Cs-134":null,
+            "Cs-134_nd":0.3,
+            "Cs-137":null,
+            "Cs-137_nd":0.3,
+            "H-3":null,
+            "H-3_nd":null
+          },
+          {
             "begperiod":"2025\/2\/16 6:42",
             "Cs-134":null,
             "Cs-134_nd":0.27,
@@ -12470,6 +12479,15 @@
       {
         "depth":"Surface",
         "data":[
+          {
+            "begperiod":"2025\/2\/17 7:06",
+            "Cs-134":null,
+            "Cs-134_nd":0.9,
+            "Cs-137":null,
+            "Cs-137_nd":0.65,
+            "H-3":null,
+            "H-3_nd":null
+          },
           {
             "begperiod":"2025\/2\/16 7:00",
             "Cs-134":null,
@@ -25220,6 +25238,15 @@
         "depth":"Surface",
         "data":[
           {
+            "begperiod":"2025\/2\/17 7:48",
+            "Cs-134":null,
+            "Cs-134_nd":0.72,
+            "Cs-137":null,
+            "Cs-137_nd":0.61,
+            "H-3":null,
+            "H-3_nd":null
+          },
+          {
             "begperiod":"2025\/2\/16 8:20",
             "Cs-134":null,
             "Cs-134_nd":0.73,
@@ -37924,6 +37951,13 @@
         "depth":"Surface",
         "data":[
           {
+            "begperiod":"2025\/2\/17 7:12",
+            "Cs-134_nd":0.38,
+            "Cs-137_nd":0.28,
+            "H-3":null,
+            "H-3_nd":null
+          },
+          {
             "begperiod":"2025\/2\/10 7:25",
             "Cs-134_nd":0.31,
             "Cs-137_nd":0.31,
@@ -39442,6 +39476,13 @@
       {
         "depth":"Surface",
         "data":[
+          {
+            "begperiod":"2025\/2\/17 7:27",
+            "Cs-134_nd":0.25,
+            "Cs-137_nd":0.3,
+            "H-3":null,
+            "H-3_nd":null
+          },
           {
             "begperiod":"2025\/2\/10 7:39",
             "Cs-134_nd":0.37,
@@ -40962,6 +41003,13 @@
         "depth":"Surface",
         "data":[
           {
+            "begperiod":"2025\/2\/17 7:37",
+            "Cs-134_nd":0.33,
+            "Cs-137_nd":0.3,
+            "H-3":null,
+            "H-3_nd":null
+          },
+          {
             "begperiod":"2025\/2\/10 7:48",
             "Cs-134_nd":0.29,
             "Cs-137_nd":0.24,
@@ -42480,6 +42528,13 @@
       {
         "depth":"Surface",
         "data":[
+          {
+            "begperiod":"2025\/2\/17 8:03",
+            "Cs-134_nd":0.3,
+            "Cs-137_nd":0.3,
+            "H-3":null,
+            "H-3_nd":null
+          },
           {
             "begperiod":"2025\/2\/10 8:16",
             "Cs-134_nd":0.31,
@@ -44000,6 +44055,13 @@
         "depth":"Surface",
         "data":[
           {
+            "begperiod":"2025\/2\/17 7:59",
+            "Cs-134_nd":0.31,
+            "Cs-137_nd":0.32,
+            "H-3":null,
+            "H-3_nd":null
+          },
+          {
             "begperiod":"2025\/2\/10 8:12",
             "Cs-134_nd":0.34,
             "Cs-137_nd":0.33,
@@ -45519,6 +45581,13 @@
         "depth":"Surface",
         "data":[
           {
+            "begperiod":"2025\/2\/17 7:20",
+            "Cs-134_nd":0.3,
+            "Cs-137_nd":0.29,
+            "H-3":null,
+            "H-3_nd":null
+          },
+          {
             "begperiod":"2025\/2\/10 7:32",
             "Cs-134_nd":0.24,
             "Cs-137_nd":0.32,
@@ -46646,6 +46715,13 @@
         "depth":"Surface",
         "data":[
           {
+            "begperiod":"2025\/2\/17 7:32",
+            "Cs-134_nd":0.34,
+            "Cs-137_nd":0.29,
+            "H-3":null,
+            "H-3_nd":null
+          },
+          {
             "begperiod":"2025\/2\/10 7:43",
             "Cs-134_nd":0.39,
             "Cs-137_nd":0.25,
@@ -47772,6 +47848,13 @@
       {
         "depth":"Surface",
         "data":[
+          {
+            "begperiod":"2025\/2\/17 7:54",
+            "Cs-134_nd":0.36,
+            "Cs-137_nd":0.3,
+            "H-3":null,
+            "H-3_nd":null
+          },
           {
             "begperiod":"2025\/2\/10 8:07",
             "Cs-134_nd":0.3,
