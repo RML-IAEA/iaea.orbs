@@ -1284,6 +1284,26 @@
     "lon":141.0422111111,
     "data":[
       {
+        "begperiod":"2024\/11\/07",
+        "Sample":"Narrow iodine seaweed",
+        "Radionuclide":"I-129",
+        "Dt":null,
+        "ND":0.07,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2024\/11\/07",
+        "Sample":"Ahnfeltiopsis paradoxa (Suringar) Masuda",
+        "Radionuclide":"I-129",
+        "Dt":null,
+        "ND":0.09,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
         "begperiod":"2024\/09\/10",
         "Sample":"Narrow iodine seaweed",
         "Radionuclide":"I-129",
@@ -1492,6 +1512,26 @@
     "lat":37.3370083333,
     "lon":141.0279527778,
     "data":[
+      {
+        "begperiod":"2024\/11\/07",
+        "Sample":"Sea oak",
+        "Radionuclide":"I-129",
+        "Dt":null,
+        "ND":0.06,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2024\/11\/07",
+        "Sample":"Ahnfeltiopsis paradoxa (Suringar) Masuda",
+        "Radionuclide":"I-129",
+        "Dt":null,
+        "ND":0.09,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
       {
         "begperiod":"2024\/09\/10",
         "Sample":"Sea oak",
@@ -1779,6 +1819,66 @@
     "lat":37.7838194444,
     "lon":141.1,
     "data":[
+      {
+        "begperiod":"2025\/01\/21",
+        "Sample":"Monostroma nitidum Wittrock",
+        "Radionuclide":"Cs-134",
+        "Dt":null,
+        "ND":3.3,
+        "Unit":"Bq\/kg",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2025\/01\/21",
+        "Sample":"Monostroma nitidum Wittrock",
+        "Radionuclide":"Cs-137",
+        "Dt":null,
+        "ND":2.1,
+        "Unit":"Bq\/kg",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2025\/01\/14",
+        "Sample":"Monostroma nitidum Wittrock",
+        "Radionuclide":"Cs-134",
+        "Dt":null,
+        "ND":2.7,
+        "Unit":"Bq\/kg",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2025\/01\/14",
+        "Sample":"Monostroma nitidum Wittrock",
+        "Radionuclide":"Cs-137",
+        "Dt":null,
+        "ND":3.1,
+        "Unit":"Bq\/kg",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2025\/01\/09",
+        "Sample":"Monostroma nitidum Wittrock",
+        "Radionuclide":"Cs-134",
+        "Dt":null,
+        "ND":3.9,
+        "Unit":"Bq\/kg",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2025\/01\/09",
+        "Sample":"Monostroma nitidum Wittrock",
+        "Radionuclide":"Cs-137",
+        "Dt":null,
+        "ND":2.5,
+        "Unit":"Bq\/kg",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
       {
         "begperiod":"2024\/12\/24",
         "Sample":"Monostroma nitidum Wittrock",
