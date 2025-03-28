@@ -174,6 +174,12 @@ id,org,lat,lon,begperiod,Sample,Radionuclide,Dt,ND,Unit
 364,FA,37.8034305556,140.9762666667,2023/01/27,Monostroma nitidum,H-3,,0.29,Bq/kg
 365,Fukushima Pref.,36.9788833333,141.1,2024/05/05,Wakame,Cs-134,,3.8,Bq/kg
 365,Fukushima Pref.,36.9788833333,141.1,2024/05/05,Wakame,Cs-137,,2.8,Bq/kg
+366,Fukushima Pref.,37.7838194444,141.1,2025/02/18,Monostroma nitidum Wittrock,Cs-134,,3.2,Bq/kg
+366,Fukushima Pref.,37.7838194444,141.1,2025/02/18,Monostroma nitidum Wittrock,Cs-137,,3.0,Bq/kg
+366,Fukushima Pref.,37.7838194444,141.1,2025/02/13,Monostroma nitidum Wittrock,Cs-134,,2.8,Bq/kg
+366,Fukushima Pref.,37.7838194444,141.1,2025/02/13,Monostroma nitidum Wittrock,Cs-137,,2.8,Bq/kg
+366,Fukushima Pref.,37.7838194444,141.1,2025/02/06,Monostroma nitidum Wittrock,Cs-134,,3.9,Bq/kg
+366,Fukushima Pref.,37.7838194444,141.1,2025/02/06,Monostroma nitidum Wittrock,Cs-137,,3.0,Bq/kg
 366,Fukushima Pref.,37.7838194444,141.1,2025/01/21,Monostroma nitidum Wittrock,Cs-134,,3.3,Bq/kg
 366,Fukushima Pref.,37.7838194444,141.1,2025/01/21,Monostroma nitidum Wittrock,Cs-137,,2.1,Bq/kg
 366,Fukushima Pref.,37.7838194444,141.1,2025/01/14,Monostroma nitidum Wittrock,Cs-134,,2.7,Bq/kg
