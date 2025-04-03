@@ -1,7 +1,21 @@
-﻿File Creation Date,2025-04-01
+﻿File Creation Date,2025-04-02
 Sampling Location,Around 4km offshore of Kumagawa (T-S8) (Fish)
 
 Date and time of Sampling,Sample,Radionuclide,Dt,ND,Unit
+2025/2/6,Lepidotrigla microptena (muscle),Cs-134,,3.5,Bq/kg-fresh
+2025/2/6,Roundnose flounder (muscle),Cs-134,,3.6,Bq/kg-fresh
+2025/2/6,Stone flounder (muscle),Cs-134,,3.5,Bq/kg-fresh
+2025/2/6,Common skete (muscle),Cs-134,,3.3,Bq/kg-fresh
+2025/2/6,Searobin (muscle),Cs-134,,3.6,Bq/kg-fresh
+2025/2/6,Red sea bream (muscle),Cs-134,,3.9,Bq/kg-fresh
+2025/2/6,Flathead (muscle),Cs-134,,3.4,Bq/kg-fresh
+2025/2/6,Lepidotrigla microptena (muscle),Cs-137,,3.6,Bq/kg-fresh
+2025/2/6,Roundnose flounder (muscle),Cs-137,,3.4,Bq/kg-fresh
+2025/2/6,Stone flounder (muscle),Cs-137,,4.2,Bq/kg-fresh
+2025/2/6,Common skete (muscle),Cs-137,,3.4,Bq/kg-fresh
+2025/2/6,Searobin (muscle),Cs-137,,3.9,Bq/kg-fresh
+2025/2/6,Red sea bream (muscle),Cs-137,,3.7,Bq/kg-fresh
+2025/2/6,Flathead (muscle),Cs-137,,3.7,Bq/kg-fresh
 2025/1/16,Flatfish (muscle),Cs-134,,3.6,Bq/kg-fresh
 2025/1/16,Yellow goosefish (whole),Cs-134,,2.8,Bq/kg-fresh
 2025/1/16,Common skete (muscle),Cs-134,,3.6,Bq/kg-fresh
@@ -40,6 +54,10 @@ Date and time of Sampling,Sample,Radionuclide,Dt,ND,Unit
 2024/10/22,White croaker (muscle),Cs-137,,2.7,Bq/kg-fresh
 2024/10/22,Japanese eagle ray (muscle),Cs-137,,3.0,Bq/kg-fresh
 2024/10/22,Japanese amberjack (muscle),Cs-137,,3.5,Bq/kg-fresh
+2024/10/22,Flatfish (muscle),H-3:TFWT,0.42,,Bq/L
+2024/10/22,Flatfish (muscle),H-3:TFWT,0.33,,Bq/kg-fresh
+2024/10/22,Flatfish (muscle),H-3:OBT,,0.28,Bq/L
+2024/10/22,Flatfish (muscle),H-3:OBT,,0.037,Bq/kg-fresh
 2024/9/20,Common skete (muscle),Cs-134,,4.0,Bq/kg-fresh
 2024/9/20,Red sea bream (muscle),Cs-134,,3.9,Bq/kg-fresh
 2024/9/20,White croaker (muscle),Cs-134,,3.5,Bq/kg-fresh
