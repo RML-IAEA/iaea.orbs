@@ -1,4 +1,4 @@
-﻿File Creation Date,2025-04-30
+﻿File Creation Date,2025-05-01
 Sampling Location,Around 2km offshore of Kido River (T-S5) (Fish)
 
 Date and time of Sampling,Sample,Radionuclide,Dt,ND,Unit
@@ -26,6 +26,10 @@ Date and time of Sampling,Sample,Radionuclide,Dt,ND,Unit
 2024/12/4,Japanese angel shark  (muscle),Cs-137,,4.0,Bq/kg-fresh
 2024/12/4,Common skete (muscle),Cs-137,,3.3,Bq/kg-fresh
 2024/12/4,Flatfish (muscle),Cs-137,,4.7,Bq/kg-fresh
+2024/12/4,Flatfish (muscle),H-3:TFWT,,0.069,Bq/L
+2024/12/4,Flatfish (muscle),H-3:TFWT,,0.055,Bq/kg-fresh
+2024/12/4,Flatfish (muscle),H-3:OBT,,0.24,Bq/L
+2024/12/4,Flatfish (muscle),H-3:OBT,,0.032,Bq/kg-fresh
 2024/10/17,Common skete (muscle),Cs-134,,4.0,Bq/kg-fresh
 2024/10/17,Searobin (muscle),Cs-134,,3.1,Bq/kg-fresh
 2024/10/17,Red sea bream (muscle),Cs-134,,2.8,Bq/kg-fresh

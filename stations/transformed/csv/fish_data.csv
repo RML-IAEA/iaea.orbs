@@ -505,6 +505,10 @@ id,org,station,lat,lon,begperiod,Sample,Radionuclide,Dt,Dt_unc,ND,Unit
 265,TEPCO,T-S1,37.5847222222,141.0422222222,2024/12/5,Stone flounder (muscle),Cs-137,,,5.6,Bq/kg-fresh
 265,TEPCO,T-S1,37.5847222222,141.0422222222,2024/12/5,Black sea bream (muscle),Cs-137,,,3.5,Bq/kg-fresh
 265,TEPCO,T-S1,37.5847222222,141.0422222222,2024/12/5,John dory (muscle),Cs-137,,,3.9,Bq/kg-fresh
+265,TEPCO,T-S1,37.5847222222,141.0422222222,2024/12/5,Stone flounder (muscle),H-3:TFWT,,,0.072,Bq/L
+265,TEPCO,T-S1,37.5847222222,141.0422222222,2024/12/5,Stone flounder (muscle),H-3:TFWT,,,0.057,Bq/kg-fresh
+265,TEPCO,T-S1,37.5847222222,141.0422222222,2024/12/5,Stone flounder (muscle),H-3:OBT,,,0.25,Bq/L
+265,TEPCO,T-S1,37.5847222222,141.0422222222,2024/12/5,Stone flounder (muscle),H-3:OBT,,,0.034,Bq/kg-fresh
 265,TEPCO,T-S1,37.5847222222,141.0422222222,2024/10/29,Common skete (muscle),Cs-134,,,3.6,Bq/kg-fresh
 265,TEPCO,T-S1,37.5847222222,141.0422222222,2024/10/29,Blue crab (whole),Cs-134,,,3.8,Bq/kg-fresh
 265,TEPCO,T-S1,37.5847222222,141.0422222222,2024/10/29,Flatfish (muscle),Cs-134,,,5.8,Bq/kg-fresh
@@ -1573,6 +1577,20 @@ id,org,station,lat,lon,begperiod,Sample,Radionuclide,Dt,Dt_unc,ND,Unit
 266,TEPCO,T-S2,37.5527777778,141.0625,2021/3/25,Flatfish (muscle),Cs-137,,,3.0,Bq/kg-fresh
 266,TEPCO,T-S2,37.5527777778,141.0625,2021/3/25,Marbled sole (muscle),Cs-137,,,4.7,Bq/kg-fresh
 266,TEPCO,T-S2,37.5527777778,141.0625,2021/3/25,Ridged-eye flounder (muscle),Cs-137,,,3.8,Bq/kg-fresh
+267,TEPCO,T-S3,37.4583333333,141.0788888889,2025/3/27,Common skete (muscle),Cs-134,,,4.0,Bq/kg-fresh
+267,TEPCO,T-S3,37.4583333333,141.0788888889,2025/3/27,Flatfish (muscle),Cs-134,,,4.0,Bq/kg-fresh
+267,TEPCO,T-S3,37.4583333333,141.0788888889,2025/3/27,Roundnose flounder (muscle),Cs-134,,,3.7,Bq/kg-fresh
+267,TEPCO,T-S3,37.4583333333,141.0788888889,2025/3/27,Stingray (muscle),Cs-134,,,4.4,Bq/kg-fresh
+267,TEPCO,T-S3,37.4583333333,141.0788888889,2025/3/27,Yellow goosefish (whole),Cs-134,,,3.4,Bq/kg-fresh
+267,TEPCO,T-S3,37.4583333333,141.0788888889,2025/3/27,Marbled sole (muscle),Cs-134,,,3.3,Bq/kg-fresh
+267,TEPCO,T-S3,37.4583333333,141.0788888889,2025/3/27,Pointhead flounder (muscle),Cs-134,,,5.6,Bq/kg-fresh
+267,TEPCO,T-S3,37.4583333333,141.0788888889,2025/3/27,Common skete (muscle),Cs-137,,,3.2,Bq/kg-fresh
+267,TEPCO,T-S3,37.4583333333,141.0788888889,2025/3/27,Flatfish (muscle),Cs-137,,,3.6,Bq/kg-fresh
+267,TEPCO,T-S3,37.4583333333,141.0788888889,2025/3/27,Roundnose flounder (muscle),Cs-137,,,3.7,Bq/kg-fresh
+267,TEPCO,T-S3,37.4583333333,141.0788888889,2025/3/27,Stingray (muscle),Cs-137,,,3.6,Bq/kg-fresh
+267,TEPCO,T-S3,37.4583333333,141.0788888889,2025/3/27,Yellow goosefish (whole),Cs-137,,,3.8,Bq/kg-fresh
+267,TEPCO,T-S3,37.4583333333,141.0788888889,2025/3/27,Marbled sole (muscle),Cs-137,,,3.2,Bq/kg-fresh
+267,TEPCO,T-S3,37.4583333333,141.0788888889,2025/3/27,Pointhead flounder (muscle),Cs-137,,,7.1,Bq/kg-fresh
 267,TEPCO,T-S3,37.4583333333,141.0788888889,2025/2/27,Roundnose flounder (muscle),Cs-134,,,3.3,Bq/kg-fresh
 267,TEPCO,T-S3,37.4583333333,141.0788888889,2025/2/27,Lepidotrigla microptena (muscle),Cs-134,,,3.8,Bq/kg-fresh
 267,TEPCO,T-S3,37.4583333333,141.0788888889,2025/2/27,Smooth dogfish (muscle),Cs-134,,,3.2,Bq/kg-fresh
@@ -1617,6 +1635,10 @@ id,org,station,lat,lon,begperiod,Sample,Radionuclide,Dt,Dt_unc,ND,Unit
 267,TEPCO,T-S3,37.4583333333,141.0788888889,2024/11/15,Searobin (muscle),Cs-137,,,3.8,Bq/kg-fresh
 267,TEPCO,T-S3,37.4583333333,141.0788888889,2024/11/15,Flathead (muscle),Cs-137,,,2.6,Bq/kg-fresh
 267,TEPCO,T-S3,37.4583333333,141.0788888889,2024/11/15,John dory (muscle),Cs-137,,,4.3,Bq/kg-fresh
+267,TEPCO,T-S3,37.4583333333,141.0788888889,2024/11/15,Flatfish (muscle),H-3:TFWT,0.076,,,Bq/L
+267,TEPCO,T-S3,37.4583333333,141.0788888889,2024/11/15,Flatfish (muscle),H-3:TFWT,0.061,,,Bq/kg-fresh
+267,TEPCO,T-S3,37.4583333333,141.0788888889,2024/11/15,Flatfish (muscle),H-3:OBT,,,0.25,Bq/L
+267,TEPCO,T-S3,37.4583333333,141.0788888889,2024/11/15,Flatfish (muscle),H-3:OBT,,,0.031,Bq/kg-fresh
 267,TEPCO,T-S3,37.4583333333,141.0788888889,2024/11/7,Flatfish (muscle),Cs-134,,,4.5,Bq/kg-fresh
 267,TEPCO,T-S3,37.4583333333,141.0788888889,2024/11/7,Flatfish (muscle),Cs-134,,,4.9,Bq/kg-fresh
 267,TEPCO,T-S3,37.4583333333,141.0788888889,2024/11/7,Searobin (muscle),Cs-134,,,3.7,Bq/kg-fresh
@@ -2147,6 +2169,20 @@ id,org,station,lat,lon,begperiod,Sample,Radionuclide,Dt,Dt_unc,ND,Unit
 267,TEPCO,T-S3,37.4583333333,141.0788888889,2021/3/5,Common skete (muscle),Cs-137,,,3.3,Bq/kg-fresh
 267,TEPCO,T-S3,37.4583333333,141.0788888889,2021/3/5,Flatfish (muscle),Cs-137,,,4.0,Bq/kg-fresh
 267,TEPCO,T-S3,37.4583333333,141.0788888889,2021/3/5,Roundnose flounder (muscle),Cs-137,,,3.4,Bq/kg-fresh
+268,TEPCO,T-S4,37.4286111111,141.0825,2025/3/27,Black rockfish (muscle),Cs-134,,,4.2,Bq/kg-fresh
+268,TEPCO,T-S4,37.4286111111,141.0825,2025/3/27,Flatfish (muscle),Cs-134,,,3.7,Bq/kg-fresh
+268,TEPCO,T-S4,37.4286111111,141.0825,2025/3/27,Searobin (muscle),Cs-134,,,4.1,Bq/kg-fresh
+268,TEPCO,T-S4,37.4286111111,141.0825,2025/3/27,Roundnose flounder (muscle),Cs-134,,,3.0,Bq/kg-fresh
+268,TEPCO,T-S4,37.4286111111,141.0825,2025/3/27,Common skete (muscle),Cs-134,,,3.4,Bq/kg-fresh
+268,TEPCO,T-S4,37.4286111111,141.0825,2025/3/27,Smooth dogfish (muscle),Cs-134,,,3.6,Bq/kg-fresh
+268,TEPCO,T-S4,37.4286111111,141.0825,2025/3/27,Pointhead flounder (muscle),Cs-134,,,2.6,Bq/kg-fresh
+268,TEPCO,T-S4,37.4286111111,141.0825,2025/3/27,Black rockfish (muscle),Cs-137,,,3.8,Bq/kg-fresh
+268,TEPCO,T-S4,37.4286111111,141.0825,2025/3/27,Flatfish (muscle),Cs-137,,,3.7,Bq/kg-fresh
+268,TEPCO,T-S4,37.4286111111,141.0825,2025/3/27,Searobin (muscle),Cs-137,,,3.4,Bq/kg-fresh
+268,TEPCO,T-S4,37.4286111111,141.0825,2025/3/27,Roundnose flounder (muscle),Cs-137,,,3.5,Bq/kg-fresh
+268,TEPCO,T-S4,37.4286111111,141.0825,2025/3/27,Common skete (muscle),Cs-137,,,3.3,Bq/kg-fresh
+268,TEPCO,T-S4,37.4286111111,141.0825,2025/3/27,Smooth dogfish (muscle),Cs-137,6.4,,,Bq/kg-fresh
+268,TEPCO,T-S4,37.4286111111,141.0825,2025/3/27,Pointhead flounder (muscle),Cs-137,,,3.8,Bq/kg-fresh
 268,TEPCO,T-S4,37.4286111111,141.0825,2025/2/27,Japanese angel shark  (muscle),Cs-134,,,3.3,Bq/kg-fresh
 268,TEPCO,T-S4,37.4286111111,141.0825,2025/2/27,Yellow goosefish (whole),Cs-134,,,3.2,Bq/kg-fresh
 268,TEPCO,T-S4,37.4286111111,141.0825,2025/2/27,Japanese angel shark  (muscle),Cs-137,,,4.2,Bq/kg-fresh
@@ -2763,6 +2799,10 @@ id,org,station,lat,lon,begperiod,Sample,Radionuclide,Dt,Dt_unc,ND,Unit
 269,TEPCO,T-S5,37.265,141.0394444444,2024/12/4,Japanese angel shark  (muscle),Cs-137,,,4.0,Bq/kg-fresh
 269,TEPCO,T-S5,37.265,141.0394444444,2024/12/4,Common skete (muscle),Cs-137,,,3.3,Bq/kg-fresh
 269,TEPCO,T-S5,37.265,141.0394444444,2024/12/4,Flatfish (muscle),Cs-137,,,4.7,Bq/kg-fresh
+269,TEPCO,T-S5,37.265,141.0394444444,2024/12/4,Flatfish (muscle),H-3:TFWT,,,0.069,Bq/L
+269,TEPCO,T-S5,37.265,141.0394444444,2024/12/4,Flatfish (muscle),H-3:TFWT,,,0.055,Bq/kg-fresh
+269,TEPCO,T-S5,37.265,141.0394444444,2024/12/4,Flatfish (muscle),H-3:OBT,,,0.24,Bq/L
+269,TEPCO,T-S5,37.265,141.0394444444,2024/12/4,Flatfish (muscle),H-3:OBT,,,0.032,Bq/kg-fresh
 269,TEPCO,T-S5,37.265,141.0394444444,2024/10/17,Common skete (muscle),Cs-134,,,4.0,Bq/kg-fresh
 269,TEPCO,T-S5,37.265,141.0394444444,2024/10/17,Searobin (muscle),Cs-134,,,3.1,Bq/kg-fresh
 269,TEPCO,T-S5,37.265,141.0394444444,2024/10/17,Red sea bream (muscle),Cs-134,,,2.8,Bq/kg-fresh
@@ -3299,6 +3339,10 @@ id,org,station,lat,lon,begperiod,Sample,Radionuclide,Dt,Dt_unc,ND,Unit
 270,TEPCO,T-S7,37.3111111111,141.0472222222,2024/12/4,Searobin (muscle),Cs-137,,,3.8,Bq/kg-fresh
 270,TEPCO,T-S7,37.3111111111,141.0472222222,2024/12/4,Red sea bream (muscle),Cs-137,,,3.5,Bq/kg-fresh
 270,TEPCO,T-S7,37.3111111111,141.0472222222,2024/12/4,John dory (muscle),Cs-137,,,3.4,Bq/kg-fresh
+270,TEPCO,T-S7,37.3111111111,141.0472222222,2024/12/4,Flatfish (muscle),H-3:TFWT,0.074,,,Bq/L
+270,TEPCO,T-S7,37.3111111111,141.0472222222,2024/12/4,Flatfish (muscle),H-3:TFWT,0.057,,,Bq/kg-fresh
+270,TEPCO,T-S7,37.3111111111,141.0472222222,2024/12/4,Flatfish (muscle),H-3:OBT,,,0.25,Bq/L
+270,TEPCO,T-S7,37.3111111111,141.0472222222,2024/12/4,Flatfish (muscle),H-3:OBT,,,0.031,Bq/kg-fresh
 270,TEPCO,T-S7,37.3111111111,141.0472222222,2024/10/17,Common skete (muscle),Cs-134,,,3.5,Bq/kg-fresh
 270,TEPCO,T-S7,37.3111111111,141.0472222222,2024/10/17,Flatfish (muscle),Cs-134,,,3.6,Bq/kg-fresh
 270,TEPCO,T-S7,37.3111111111,141.0472222222,2024/10/17,Japanese angel shark  (muscle),Cs-134,,,4.0,Bq/kg-fresh
@@ -3794,6 +3838,18 @@ id,org,station,lat,lon,begperiod,Sample,Radionuclide,Dt,Dt_unc,ND,Unit
 270,TEPCO,T-S7,37.3111111111,141.0472222222,2021/3/9,Marbled sole (muscle),Cs-137,,,3.4,Bq/kg-fresh
 270,TEPCO,T-S7,37.3111111111,141.0472222222,2021/3/9,Flathead (muscle),Cs-137,,,3.6,Bq/kg-fresh
 270,TEPCO,T-S7,37.3111111111,141.0472222222,2021/3/9,Roundnose flounder (muscle),Cs-137,,,3.7,Bq/kg-fresh
+271,TEPCO,T-S8,37.3833333333,141.0788888889,2025/3/27,Lepidotrigla microptena (muscle),Cs-134,,,3.3,Bq/kg-fresh
+271,TEPCO,T-S8,37.3833333333,141.0788888889,2025/3/27,Flatfish (muscle),Cs-134,,,3.4,Bq/kg-fresh
+271,TEPCO,T-S8,37.3833333333,141.0788888889,2025/3/27,Roundnose flounder (muscle),Cs-134,,,3.3,Bq/kg-fresh
+271,TEPCO,T-S8,37.3833333333,141.0788888889,2025/3/27,Common skete (muscle),Cs-134,,,3.5,Bq/kg-fresh
+271,TEPCO,T-S8,37.3833333333,141.0788888889,2025/3/27,Smooth dogfish (muscle),Cs-134,,,4.4,Bq/kg-fresh
+271,TEPCO,T-S8,37.3833333333,141.0788888889,2025/3/27,Japanese angel shark  (muscle),Cs-134,,,4.1,Bq/kg-fresh
+271,TEPCO,T-S8,37.3833333333,141.0788888889,2025/3/27,Lepidotrigla microptena (muscle),Cs-137,,,3.3,Bq/kg-fresh
+271,TEPCO,T-S8,37.3833333333,141.0788888889,2025/3/27,Flatfish (muscle),Cs-137,,,3.4,Bq/kg-fresh
+271,TEPCO,T-S8,37.3833333333,141.0788888889,2025/3/27,Roundnose flounder (muscle),Cs-137,,,3.2,Bq/kg-fresh
+271,TEPCO,T-S8,37.3833333333,141.0788888889,2025/3/27,Common skete (muscle),Cs-137,,,3.6,Bq/kg-fresh
+271,TEPCO,T-S8,37.3833333333,141.0788888889,2025/3/27,Smooth dogfish (muscle),Cs-137,,,3.7,Bq/kg-fresh
+271,TEPCO,T-S8,37.3833333333,141.0788888889,2025/3/27,Japanese angel shark  (muscle),Cs-137,3.4,,,Bq/kg-fresh
 271,TEPCO,T-S8,37.3833333333,141.0788888889,2025/2/6,Lepidotrigla microptena (muscle),Cs-134,,,3.5,Bq/kg-fresh
 271,TEPCO,T-S8,37.3833333333,141.0788888889,2025/2/6,Roundnose flounder (muscle),Cs-134,,,3.6,Bq/kg-fresh
 271,TEPCO,T-S8,37.3833333333,141.0788888889,2025/2/6,Stone flounder (muscle),Cs-134,,,3.5,Bq/kg-fresh
@@ -6137,6 +6193,20 @@ id,org,station,lat,lon,begperiod,Sample,Radionuclide,Dt,Dt_unc,ND,Unit
 273,TEPCO,T-B2,37.5166666667,141.2333333333,2021/3/19,Roundnose flounder (muscle),Cs-137,,,3.7,Bq/kg-fresh
 273,TEPCO,T-B2,37.5166666667,141.2333333333,2021/3/19,Ridged-eye flounder (muscle),Cs-137,,,3.6,Bq/kg-fresh
 273,TEPCO,T-B2,37.5166666667,141.2333333333,2021/3/19,Willowy flounder (muscle),Cs-137,,,3.4,Bq/kg-fresh
+274,TEPCO,T-B3,37.4077777778,141.1541666667,2025/3/22,Lepidotrigla microptena (muscle),Cs-134,,,3.9,Bq/kg-fresh
+274,TEPCO,T-B3,37.4077777778,141.1541666667,2025/3/22,Yellow goosefish (whole),Cs-134,,,4.2,Bq/kg-fresh
+274,TEPCO,T-B3,37.4077777778,141.1541666667,2025/3/22,Flatfish (muscle),Cs-134,,,3.2,Bq/kg-fresh
+274,TEPCO,T-B3,37.4077777778,141.1541666667,2025/3/22,Flatfish (muscle),Cs-134,,,3.7,Bq/kg-fresh
+274,TEPCO,T-B3,37.4077777778,141.1541666667,2025/3/22,Searobin (muscle),Cs-134,,,4.2,Bq/kg-fresh
+274,TEPCO,T-B3,37.4077777778,141.1541666667,2025/3/22,Common skete (muscle),Cs-134,,,3.3,Bq/kg-fresh
+274,TEPCO,T-B3,37.4077777778,141.1541666667,2025/3/22,True sardine (muscle),Cs-134,,,3.1,Bq/kg-fresh
+274,TEPCO,T-B3,37.4077777778,141.1541666667,2025/3/22,Lepidotrigla microptena (muscle),Cs-137,,,3.7,Bq/kg-fresh
+274,TEPCO,T-B3,37.4077777778,141.1541666667,2025/3/22,Yellow goosefish (whole),Cs-137,,,3.8,Bq/kg-fresh
+274,TEPCO,T-B3,37.4077777778,141.1541666667,2025/3/22,Flatfish (muscle),Cs-137,,,3.0,Bq/kg-fresh
+274,TEPCO,T-B3,37.4077777778,141.1541666667,2025/3/22,Flatfish (muscle),Cs-137,,,4.4,Bq/kg-fresh
+274,TEPCO,T-B3,37.4077777778,141.1541666667,2025/3/22,Searobin (muscle),Cs-137,,,3.5,Bq/kg-fresh
+274,TEPCO,T-B3,37.4077777778,141.1541666667,2025/3/22,Common skete (muscle),Cs-137,,,3.4,Bq/kg-fresh
+274,TEPCO,T-B3,37.4077777778,141.1541666667,2025/3/22,True sardine (muscle),Cs-137,,,3.1,Bq/kg-fresh
 274,TEPCO,T-B3,37.4077777778,141.1541666667,2025/2/15,Lepidotrigla microptena (muscle),Cs-134,,,3.3,Bq/kg-fresh
 274,TEPCO,T-B3,37.4077777778,141.1541666667,2025/2/15,Takifugu snyderi (muscle),Cs-134,,,3.4,Bq/kg-fresh
 274,TEPCO,T-B3,37.4077777778,141.1541666667,2025/2/15,Flatfish (muscle),Cs-134,,,2.9,Bq/kg-fresh
@@ -6889,6 +6959,22 @@ id,org,station,lat,lon,begperiod,Sample,Radionuclide,Dt,Dt_unc,ND,Unit
 274,TEPCO,T-B3,37.4077777778,141.1541666667,2021/3/18,Roundnose flounder (muscle),Cs-137,,,3.4,Bq/kg-fresh
 274,TEPCO,T-B3,37.4077777778,141.1541666667,2021/3/18,Ridged-eye flounder (muscle),Cs-137,,,4.0,Bq/kg-fresh
 274,TEPCO,T-B3,37.4077777778,141.1541666667,2021/3/18,Sea bass (muscle),Cs-137,,,4.0,Bq/kg-fresh
+275,TEPCO,T-B4,37.3483333333,141.1486111111,2025/3/22,Lepidotrigla microptena (muscle),Cs-134,,,3.7,Bq/kg-fresh
+275,TEPCO,T-B4,37.3483333333,141.1486111111,2025/3/22,Common skete (muscle),Cs-134,,,3.8,Bq/kg-fresh
+275,TEPCO,T-B4,37.3483333333,141.1486111111,2025/3/22,Flatfish (muscle),Cs-134,,,4.5,Bq/kg-fresh
+275,TEPCO,T-B4,37.3483333333,141.1486111111,2025/3/22,Flatfish (muscle),Cs-134,,,3.6,Bq/kg-fresh
+275,TEPCO,T-B4,37.3483333333,141.1486111111,2025/3/22,Roundnose flounder (muscle),Cs-134,,,3.3,Bq/kg-fresh
+275,TEPCO,T-B4,37.3483333333,141.1486111111,2025/3/22,Ridged-eye flounder (muscle),Cs-134,,,3.9,Bq/kg-fresh
+275,TEPCO,T-B4,37.3483333333,141.1486111111,2025/3/22,Searobin (muscle),Cs-134,,,3.0,Bq/kg-fresh
+275,TEPCO,T-B4,37.3483333333,141.1486111111,2025/3/22,True sardine (muscle),Cs-134,,,3.9,Bq/kg-fresh
+275,TEPCO,T-B4,37.3483333333,141.1486111111,2025/3/22,Lepidotrigla microptena (muscle),Cs-137,,,3.9,Bq/kg-fresh
+275,TEPCO,T-B4,37.3483333333,141.1486111111,2025/3/22,Common skete (muscle),Cs-137,,,3.6,Bq/kg-fresh
+275,TEPCO,T-B4,37.3483333333,141.1486111111,2025/3/22,Flatfish (muscle),Cs-137,,,3.9,Bq/kg-fresh
+275,TEPCO,T-B4,37.3483333333,141.1486111111,2025/3/22,Flatfish (muscle),Cs-137,,,3.3,Bq/kg-fresh
+275,TEPCO,T-B4,37.3483333333,141.1486111111,2025/3/22,Roundnose flounder (muscle),Cs-137,,,4.1,Bq/kg-fresh
+275,TEPCO,T-B4,37.3483333333,141.1486111111,2025/3/22,Ridged-eye flounder (muscle),Cs-137,,,3.4,Bq/kg-fresh
+275,TEPCO,T-B4,37.3483333333,141.1486111111,2025/3/22,Searobin (muscle),Cs-137,,,3.0,Bq/kg-fresh
+275,TEPCO,T-B4,37.3483333333,141.1486111111,2025/3/22,True sardine (muscle),Cs-137,,,3.4,Bq/kg-fresh
 275,TEPCO,T-B4,37.3483333333,141.1486111111,2025/2/15,Lepidotrigla microptena (muscle),Cs-134,,,3.2,Bq/kg-fresh
 275,TEPCO,T-B4,37.3483333333,141.1486111111,2025/2/15,Takifugu snyderi (muscle),Cs-134,,,3.0,Bq/kg-fresh
 275,TEPCO,T-B4,37.3483333333,141.1486111111,2025/2/15,Flatfish (muscle),Cs-134,,,3.5,Bq/kg-fresh

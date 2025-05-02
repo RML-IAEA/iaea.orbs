@@ -1,4 +1,4 @@
-﻿File Creation Date,2025-04-30
+﻿File Creation Date,2025-05-01
 Sampling Location,Around 2km offshore of 2F site (T-S7) (Fish)
 
 Date and time of Sampling,Sample,Radionuclide,Dt,ND,Unit
@@ -22,6 +22,10 @@ Date and time of Sampling,Sample,Radionuclide,Dt,ND,Unit
 2024/12/4,Searobin (muscle),Cs-137,,3.8,Bq/kg-fresh
 2024/12/4,Red sea bream (muscle),Cs-137,,3.5,Bq/kg-fresh
 2024/12/4,John dory (muscle),Cs-137,,3.4,Bq/kg-fresh
+2024/12/4,Flatfish (muscle),H-3:TFWT,0.074,,Bq/L
+2024/12/4,Flatfish (muscle),H-3:TFWT,0.057,,Bq/kg-fresh
+2024/12/4,Flatfish (muscle),H-3:OBT,,0.25,Bq/L
+2024/12/4,Flatfish (muscle),H-3:OBT,,0.031,Bq/kg-fresh
 2024/10/17,Common skete (muscle),Cs-134,,3.5,Bq/kg-fresh
 2024/10/17,Flatfish (muscle),Cs-134,,3.6,Bq/kg-fresh
 2024/10/17,Japanese angel shark  (muscle),Cs-134,,4.0,Bq/kg-fresh
