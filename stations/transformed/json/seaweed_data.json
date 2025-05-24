@@ -1791,6 +1791,26 @@
     "lon":141.1,
     "data":[
       {
+        "begperiod":"2025\/04\/19",
+        "Sample":"Wakame",
+        "Radionuclide":"Cs-134",
+        "Dt":null,
+        "ND":4.0,
+        "Unit":"Bq\/kg",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2025\/04\/19",
+        "Sample":"Wakame",
+        "Radionuclide":"Cs-137",
+        "Dt":null,
+        "ND":4.4,
+        "Unit":"Bq\/kg",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
         "begperiod":"2024\/05\/05",
         "Sample":"Wakame",
         "Radionuclide":"Cs-134",
@@ -1819,6 +1839,46 @@
     "lat":37.7838194444,
     "lon":141.1,
     "data":[
+      {
+        "begperiod":"2025\/04\/21",
+        "Sample":"Monostroma nitidum Wittrock",
+        "Radionuclide":"Cs-134",
+        "Dt":null,
+        "ND":4.9,
+        "Unit":"Bq\/kg",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2025\/04\/21",
+        "Sample":"Monostroma nitidum Wittrock",
+        "Radionuclide":"Cs-137",
+        "Dt":null,
+        "ND":4.5,
+        "Unit":"Bq\/kg",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2025\/04\/16",
+        "Sample":"Monostroma nitidum Wittrock",
+        "Radionuclide":"Cs-134",
+        "Dt":null,
+        "ND":3.8,
+        "Unit":"Bq\/kg",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2025\/04\/16",
+        "Sample":"Monostroma nitidum Wittrock",
+        "Radionuclide":"Cs-137",
+        "Dt":null,
+        "ND":2.7,
+        "Unit":"Bq\/kg",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
       {
         "begperiod":"2025\/04\/08",
         "Sample":"Monostroma nitidum Wittrock",
