@@ -1,7 +1,91 @@
-﻿File Creation Date,2025-06-12
+﻿File Creation Date,2025-06-13
 Sampling Location,
 
 Date and time of Sampling,Sample,Radionuclide,Dt,ND,Unit
+2025/05/23,Smooth dogfish,Cs-134,,6.8,Bq/kg
+2025/05/23,Whip stingray,Cs-134,,10.0,Bq/kg
+2025/05/23,Stone flounder,Cs-134,,11.0,Bq/kg
+2025/05/23,Cinnamon flounder,Cs-134,,11.0,Bq/kg
+2025/05/23,Smooth dogfish,Cs-137,,8.4,Bq/kg
+2025/05/23,Whip stingray,Cs-137,,7.2,Bq/kg
+2025/05/23,Stone flounder,Cs-137,,8.6,Bq/kg
+2025/05/23,Cinnamon flounder,Cs-137,,7.8,Bq/kg
+2025/05/20,Black rockfish,Cs-134,,8.6,Bq/kg
+2025/05/20,Red sea bream,Cs-134,,8.7,Bq/kg
+2025/05/20,Black rockfish,Cs-137,,8.7,Bq/kg
+2025/05/20,Red sea bream,Cs-137,,9.6,Bq/kg
+2025/05/18,Yellow goosefish,Cs-134,,11.0,Bq/kg
+2025/05/18,Redwing searobin,Cs-134,,7.7,Bq/kg
+2025/05/18,Fox jacopever,Cs-134,,9.0,Bq/kg
+2025/05/18,White croaker,Cs-134,,9.1,Bq/kg
+2025/05/18,Sea bass,Cs-134,,6.7,Bq/kg
+2025/05/18,Marbled sole,Cs-134,,7.9,Bq/kg
+2025/05/18,Roundnose flounder,Cs-134,,9.9,Bq/kg
+2025/05/18,Willowy flounder,Cs-134,,8.4,Bq/kg
+2025/05/18,True sardine,Cs-134,,8.0,Bq/kg
+2025/05/18,Greenling,Cs-134,,9.2,Bq/kg
+2025/05/18,Crimson sea bream,Cs-134,,9.1,Bq/kg
+2025/05/18,Microstomus achne,Cs-134,,8.3,Bq/kg
+2025/05/18,Olive flounder,Cs-134,,6.7,Bq/kg
+2025/05/18,Bluefin searobin,Cs-134,,8.5,Bq/kg
+2025/05/18,Jack mackerel,Cs-134,,11.0,Bq/kg
+2025/05/18,Globefish,Cs-134,,8.2,Bq/kg
+2025/05/18,Blue mackerel,Cs-134,,7.7,Bq/kg
+2025/05/18,Bluespotted stargazer,Cs-134,,8.6,Bq/kg
+2025/05/18,Bulgyhead wrasse,Cs-134,,8.8,Bq/kg
+2025/05/18,Grub fish,Cs-134,,9.3,Bq/kg
+2025/05/18,Japanese parrot fish,Cs-134,,9.7,Bq/kg
+2025/05/18,Yellow goosefish,Cs-137,,7.7,Bq/kg
+2025/05/18,Redwing searobin,Cs-137,,7.7,Bq/kg
+2025/05/18,Fox jacopever,Cs-137,,8.2,Bq/kg
+2025/05/18,White croaker,Cs-137,,8.7,Bq/kg
+2025/05/18,Sea bass,Cs-137,,8.9,Bq/kg
+2025/05/18,Marbled sole,Cs-137,,8.6,Bq/kg
+2025/05/18,Roundnose flounder,Cs-137,,9.0,Bq/kg
+2025/05/18,Willowy flounder,Cs-137,,7.8,Bq/kg
+2025/05/18,True sardine,Cs-137,,7.8,Bq/kg
+2025/05/18,Greenling,Cs-137,,8.5,Bq/kg
+2025/05/18,Crimson sea bream,Cs-137,,7.0,Bq/kg
+2025/05/18,Microstomus achne,Cs-137,,8.8,Bq/kg
+2025/05/18,Olive flounder,Cs-137,,6.4,Bq/kg
+2025/05/18,Bluefin searobin,Cs-137,,8.3,Bq/kg
+2025/05/18,Jack mackerel,Cs-137,,7.7,Bq/kg
+2025/05/18,Globefish,Cs-137,,11.0,Bq/kg
+2025/05/18,Blue mackerel,Cs-137,,7.4,Bq/kg
+2025/05/18,Bluespotted stargazer,Cs-137,,8.8,Bq/kg
+2025/05/18,Bulgyhead wrasse,Cs-137,,9.4,Bq/kg
+2025/05/18,Grub fish,Cs-137,,8.3,Bq/kg
+2025/05/18,Japanese parrot fish,Cs-137,,8.8,Bq/kg
+2025/05/17,Brown hakeling,Cs-134,,8.2,Bq/kg
+2025/05/17,Japanese amberjack,Cs-134,,9.8,Bq/kg
+2025/05/17,Common skate,Cs-134,,9.6,Bq/kg
+2025/05/17,Conger eel,Cs-134,,9.7,Bq/kg
+2025/05/17,Chub mackerel,Cs-134,,8.0,Bq/kg
+2025/05/17,Pacific barrelfish,Cs-134,,11.0,Bq/kg
+2025/05/17,Scorpionfish,Cs-134,,11.0,Bq/kg
+2025/05/17,Rikuzen flounder,Cs-134,,9.6,Bq/kg
+2025/05/17,Pointhead flounder,Cs-134,,9.9,Bq/kg
+2025/05/17,Deepsea bonefish,Cs-134,,8.5,Bq/kg
+2025/05/17,Roughsclae sole,Cs-134,,7.9,Bq/kg
+2025/05/17,Deep-sea smelt,Cs-134,,9.2,Bq/kg
+2025/05/17,Greeneye,Cs-134,,9.9,Bq/kg
+2025/05/17,Splitfin ocean-basses,Cs-134,,8.8,Bq/kg
+2025/05/17,Japanese armorhead,Cs-134,,7.1,Bq/kg
+2025/05/17,Brown hakeling,Cs-137,,9.2,Bq/kg
+2025/05/17,Japanese amberjack,Cs-137,,8.4,Bq/kg
+2025/05/17,Common skate,Cs-137,,8.7,Bq/kg
+2025/05/17,Conger eel,Cs-137,,9.0,Bq/kg
+2025/05/17,Chub mackerel,Cs-137,,8.0,Bq/kg
+2025/05/17,Pacific barrelfish,Cs-137,,8.9,Bq/kg
+2025/05/17,Scorpionfish,Cs-137,,8.8,Bq/kg
+2025/05/17,Rikuzen flounder,Cs-137,,9.2,Bq/kg
+2025/05/17,Pointhead flounder,Cs-137,,8.1,Bq/kg
+2025/05/17,Deepsea bonefish,Cs-137,,7.9,Bq/kg
+2025/05/17,Roughsclae sole,Cs-137,,7.5,Bq/kg
+2025/05/17,Deep-sea smelt,Cs-137,,7.5,Bq/kg
+2025/05/17,Greeneye,Cs-137,,8.1,Bq/kg
+2025/05/17,Splitfin ocean-basses,Cs-137,,7.2,Bq/kg
+2025/05/17,Japanese armorhead,Cs-137,,7.6,Bq/kg
 2025/05/16,Fox jacopever,Cs-134,,9.6,Bq/kg
 2025/05/16,Anchovy,Cs-134,,9.1,Bq/kg
 2025/05/16,Fox jacopever,Cs-137,,7.6,Bq/kg
@@ -33,8 +117,8 @@ Date and time of Sampling,Sample,Radionuclide,Dt,ND,Unit
 2025/05/11,Yellowbarred red rockfish,Cs-134,,8.1,Bq/kg
 2025/05/11,Cinnamon flounder,Cs-134,,8.4,Bq/kg
 2025/05/11,Splitfin ocean-basses,Cs-134,,9.3,Bq/kg
-2025/05/11,Okhotsk atka mackerel,Cs-134,,8.4,Bq/kg
 2025/05/11,Japanese armorhead,Cs-134,,9.4,Bq/kg
+2025/05/11,Okhotsk atka mackerel,Cs-134,,8.4,Bq/kg
 2025/05/11,Smooth dogfish,Cs-137,,7.5,Bq/kg
 2025/05/11,Brown hakeling,Cs-137,,7.4,Bq/kg
 2025/05/11,Marbled rockfish,Cs-137,,8.3,Bq/kg
@@ -58,8 +142,8 @@ Date and time of Sampling,Sample,Radionuclide,Dt,ND,Unit
 2025/05/11,Yellowbarred red rockfish,Cs-137,,7.0,Bq/kg
 2025/05/11,Cinnamon flounder,Cs-137,,7.5,Bq/kg
 2025/05/11,Splitfin ocean-basses,Cs-137,,9.1,Bq/kg
-2025/05/11,Okhotsk atka mackerel,Cs-137,,8.8,Bq/kg
 2025/05/11,Japanese armorhead,Cs-137,,7.3,Bq/kg
+2025/05/11,Okhotsk atka mackerel,Cs-137,,8.8,Bq/kg
 2025/05/09,Spotbelly rockfish,Cs-134,,8.5,Bq/kg
 2025/05/09,Spotbelly rockfish,Cs-137,,6.9,Bq/kg
 2025/05/08,Japanese parrot fish,Cs-134,,9.3,Bq/kg
