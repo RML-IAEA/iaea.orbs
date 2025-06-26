@@ -1,7 +1,23 @@
-﻿File Creation Date,2025-06-24
+﻿File Creation Date,2025-06-25
 Sampling Location,
 
 Date and time of Sampling,Sample,Radionuclide,Dt,ND,Unit
+2024/10/16,Marbled sole(meat),Cs-134,,,Bq/kg-fresh
+2024/10/16,Marbled sole(meat),Cs-137,0.48±0.014,,Bq/kg-fresh
+2024/05/09,Marbled sole(meat),Cs-134,,,Bq/kg-fresh
+2024/05/09,Olive flounder(meat),Cs-134,,,Bq/kg-fresh
+2024/05/09,Japanese sea bass(meat),Cs-134,,,Bq/kg-fresh
+2024/05/09,Marbled sole(meat),Cs-137,0.6±0.016,,Bq/kg-fresh
+2024/05/09,Olive flounder(meat),Cs-137,0.25±0.012,,Bq/kg-fresh
+2024/05/09,Japanese sea bass(meat),Cs-137,0.85±0.016,,Bq/kg-fresh
+2024/05/09,Olive flounder,H-3:TFWT,0.041±0.0077,,Bq/L-water
+2024/05/09,Marbled sole,H-3:TFWT,0.036±0.01,,Bq/L-water
+2024/05/09,Olive flounder,H-3:TFWT,0.031±0.0059,,Bq/kg-fresh
+2024/05/09,Marbled sole,H-3:TFWT,0.028±0.0081,,Bq/kg-fresh
+2024/05/09,Olive flounder,H-3:OBT,,,Bq/L-combustion water
+2024/05/09,Marbled sole,H-3:OBT,,,Bq/L-combustion water
+2024/05/09,Olive flounder,H-3:OBT,,,Bq/kg-fresh
+2024/05/09,Marbled sole,H-3:OBT,,,Bq/kg-fresh
 2023/12/06,Bluefin searobin(meat),Cs-134,,,Bq/kg-fresh
 2023/12/06,Marbled sole(meat),Cs-134,,,Bq/kg-fresh
 2023/12/06,Bluefin searobin(meat),Cs-137,0.39±0.013,,Bq/kg-fresh

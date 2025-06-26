@@ -1,7 +1,21 @@
-﻿File Creation Date,2025-06-24
+﻿File Creation Date,2025-06-25
 Sampling Location,
 
 Date and time of Sampling,Sample,Radionuclide,Dt,ND,Unit
+2024/11/10,Silver croaker(meat),Cs-134,,,Bq/kg-fresh
+2024/11/10,Crimson sea bream(meat),Cs-134,,,Bq/kg-fresh
+2024/11/10,Ridged-eye flounder (meat),Cs-134,,,Bq/kg-fresh
+2024/11/10,Silver croaker(meat),Cs-137,0.33±0.013,,Bq/kg-fresh
+2024/11/10,Crimson sea bream(meat),Cs-137,0.28±0.014,,Bq/kg-fresh
+2024/11/10,Ridged-eye flounder (meat),Cs-137,0.29±0.016,,Bq/kg-fresh
+2024/05/26,Bigeyed greeneye (whole),Cs-134,,,Bq/kg-fresh
+2024/05/26,Monk fish(meat),Cs-134,,,Bq/kg-fresh
+2024/05/26,Bigeyed greeneye (whole),Cs-137,0.13±0.0098,,Bq/kg-fresh
+2024/05/26,Monk fish(meat),Cs-137,0.12±0.0083,,Bq/kg-fresh
+2024/05/26,Bigeyed greeneye,H-3:TFWT,0.068±0.008,,Bq/L-water
+2024/05/26,Bigeyed greeneye,H-3:TFWT,0.044±0.0052,,Bq/kg-fresh
+2024/05/26,Bigeyed greeneye,H-3:OBT,,,Bq/L-combustion water
+2024/05/26,Bigeyed greeneye,H-3:OBT,,,Bq/kg-fresh
 2023/05/11,Chub mackerel(meat),Cs-134,,,Bq/kg-fresh
 2023/05/11,Slime flounder(meat),Cs-134,,,Bq/kg-fresh
 2023/05/11,Rikuzen flounder(meat),Cs-134,,,Bq/kg-fresh
