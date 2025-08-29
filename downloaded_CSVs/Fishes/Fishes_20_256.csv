@@ -1,7 +1,15 @@
-﻿File Creation Date,2025-08-27
+﻿File Creation Date,2025-08-28
 Sampling Location,
 
 Date and time of Sampling,Sample,Radionuclide,Dt,ND,Unit
+2025/03/25,Mixed fish sample A,H-3:TFWT,0.66,,Bq/L
+2025/03/25,Mixed fish sample B,H-3:TFWT,0.6,,Bq/L
+2025/03/25,Mixed fish sample A,H-3:TFWT,0.5,,Bq/kg-fresh
+2025/03/25,Mixed fish sample B,H-3:TFWT,0.46,,Bq/kg-fresh
+2025/03/25,Mixed fish sample A,H-3:OBT,,0.3,Bq/L
+2025/03/25,Mixed fish sample B,H-3:OBT,,0.3,Bq/L
+2025/03/25,Mixed fish sample A,H-3:OBT,,0.05,Bq/kg-fresh
+2025/03/25,Mixed fish sample B,H-3:OBT,,0.05,Bq/kg-fresh
 2024/11/06,Olive flounder,H-3:TFWT,0.56,,Bq/L
 2024/11/06,Angelfish,H-3:TFWT,0.38,,Bq/L
 2024/11/06,Dusky shark,H-3:TFWT,0.45,,Bq/L

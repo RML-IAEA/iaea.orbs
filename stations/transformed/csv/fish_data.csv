@@ -1,4 +1,12 @@
 id,org,station,lat,lon,begperiod,Sample,Radionuclide,Dt,Dt_unc,ND,Unit
+256,MOE,,37.4391833333,141.0436638889,2025/03/25,Mixed fish sample A,H-3:TFWT,0.66,,,Bq/L
+256,MOE,,37.4391833333,141.0436638889,2025/03/25,Mixed fish sample B,H-3:TFWT,0.6,,,Bq/L
+256,MOE,,37.4391833333,141.0436638889,2025/03/25,Mixed fish sample A,H-3:TFWT,0.5,,,Bq/kg-fresh
+256,MOE,,37.4391833333,141.0436638889,2025/03/25,Mixed fish sample B,H-3:TFWT,0.46,,,Bq/kg-fresh
+256,MOE,,37.4391833333,141.0436638889,2025/03/25,Mixed fish sample A,H-3:OBT,,,0.3,Bq/L
+256,MOE,,37.4391833333,141.0436638889,2025/03/25,Mixed fish sample B,H-3:OBT,,,0.3,Bq/L
+256,MOE,,37.4391833333,141.0436638889,2025/03/25,Mixed fish sample A,H-3:OBT,,,0.05,Bq/kg-fresh
+256,MOE,,37.4391833333,141.0436638889,2025/03/25,Mixed fish sample B,H-3:OBT,,,0.05,Bq/kg-fresh
 256,MOE,,37.4391833333,141.0436638889,2024/11/06,Olive flounder,H-3:TFWT,0.56,,,Bq/L
 256,MOE,,37.4391833333,141.0436638889,2024/11/06,Angelfish,H-3:TFWT,0.38,,,Bq/L
 256,MOE,,37.4391833333,141.0436638889,2024/11/06,Dusky shark,H-3:TFWT,0.45,,,Bq/L
@@ -123,6 +131,10 @@ id,org,station,lat,lon,begperiod,Sample,Radionuclide,Dt,Dt_unc,ND,Unit
 256,MOE,,37.4391833333,141.0436638889,2022/10/22,Olive flounder,H-3:OBT,,,0.05,Bq/kg-fresh
 256,MOE,,37.4391833333,141.0436638889,2022/10/22,Angelfish,H-3:OBT,,,0.05,Bq/kg-fresh
 256,MOE,,37.4391833333,141.0436638889,2022/10/22,Browneye skate,H-3:OBT,,,0.04,Bq/kg-fresh
+257,MOE,,37.425,141.05,2025/03/25,Mixed fish sample,H-3:TFWT,0.34,,,Bq/L
+257,MOE,,37.425,141.05,2025/03/25,Mixed fish sample,H-3:TFWT,0.26,,,Bq/kg-fresh
+257,MOE,,37.425,141.05,2025/03/25,Mixed fish sample,H-3:OBT,,,0.3,Bq/L
+257,MOE,,37.425,141.05,2025/03/25,Mixed fish sample,H-3:OBT,,,0.05,Bq/kg-fresh
 257,MOE,,37.425,141.05,2024/11/06,Mixed fish sample,H-3:TFWT,0.48,,,Bq/L
 257,MOE,,37.425,141.05,2024/11/06,Japanese eagle ray,H-3:TFWT,0.56,,,Bq/L
 257,MOE,,37.425,141.05,2024/11/06,Bluefin searobin,H-3:TFWT,0.34,,,Bq/L
@@ -243,6 +255,10 @@ id,org,station,lat,lon,begperiod,Sample,Radionuclide,Dt,Dt_unc,ND,Unit
 257,MOE,,37.425,141.05,2022/10/22,Olive flounder,H-3:OBT,,,0.04,Bq/kg-fresh
 257,MOE,,37.425,141.05,2022/10/22,Red sea bream,H-3:OBT,,,0.05,Bq/kg-fresh
 257,MOE,,37.425,141.05,2022/10/22,Japanese eagle ray,H-3:OBT,,,0.05,Bq/kg-fresh
+258,MOE,,37.4130444444,141.0436638889,2025/03/25,Mixed fish sample,H-3:TFWT,0.5,,,Bq/L
+258,MOE,,37.4130444444,141.0436638889,2025/03/25,Mixed fish sample,H-3:TFWT,0.39,,,Bq/kg-fresh
+258,MOE,,37.4130444444,141.0436638889,2025/03/25,Mixed fish sample,H-3:OBT,,,0.3,Bq/L
+258,MOE,,37.4130444444,141.0436638889,2025/03/25,Mixed fish sample,H-3:OBT,,,0.04,Bq/kg-fresh
 258,MOE,,37.4130444444,141.0436638889,2024/11/06,Olive flounder,H-3:TFWT,0.74,,,Bq/L
 258,MOE,,37.4130444444,141.0436638889,2024/11/06,Angelfish,H-3:TFWT,0.72,,,Bq/L
 258,MOE,,37.4130444444,141.0436638889,2024/11/06,Browneye skate,H-3:TFWT,0.72,,,Bq/L
