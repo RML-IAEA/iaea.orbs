@@ -1284,6 +1284,26 @@
     "lon":141.0422111111,
     "data":[
       {
+        "begperiod":"2025\/06\/17",
+        "Sample":"Wakame",
+        "Radionuclide":"I-129",
+        "Dt":null,
+        "ND":0.01,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2025\/06\/17",
+        "Sample":"Gulf weed",
+        "Radionuclide":"I-129",
+        "Dt":null,
+        "ND":0.01,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
         "begperiod":"2024\/11\/07",
         "Sample":"Narrow iodine seaweed",
         "Radionuclide":"I-129",
@@ -1512,6 +1532,26 @@
     "lat":37.3370083333,
     "lon":141.0279527778,
     "data":[
+      {
+        "begperiod":"2025\/06\/17",
+        "Sample":"Sea oak",
+        "Radionuclide":"I-129",
+        "Dt":null,
+        "ND":0.02,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2025\/06\/17",
+        "Sample":"Narrow iodine seaweed",
+        "Radionuclide":"I-129",
+        "Dt":null,
+        "ND":0.03,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
       {
         "begperiod":"2024\/11\/07",
         "Sample":"Sea oak",
