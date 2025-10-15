@@ -1,7 +1,21 @@
-﻿File Creation Date,2025-10-10
+﻿File Creation Date,2025-10-14
 Sampling Location,Around 4km offshore of Kumagawa (T-S8) (Fish)
 
 Date and time of Sampling,Sample,Radionuclide,Dt,ND,Unit
+2025/8/19,Flatfish (muscle),Cs-134,,3.3,Bq/kg-fresh
+2025/8/19,Flatfish (muscle),Cs-134,,3.5,Bq/kg-fresh
+2025/8/19,Common skete (muscle),Cs-134,,3.7,Bq/kg-fresh
+2025/8/19,Japanese angel shark  (muscle),Cs-134,,4.0,Bq/kg-fresh
+2025/8/19,Red sea bream (muscle),Cs-134,,3.4,Bq/kg-fresh
+2025/8/19,Stingray (muscle),Cs-134,,3.7,Bq/kg-fresh
+2025/8/19,Jack mackerel (muscle),Cs-134,,3.8,Bq/kg-fresh
+2025/8/19,Flatfish (muscle),Cs-137,,3.5,Bq/kg-fresh
+2025/8/19,Flatfish (muscle),Cs-137,,4.3,Bq/kg-fresh
+2025/8/19,Common skete (muscle),Cs-137,,3.3,Bq/kg-fresh
+2025/8/19,Japanese angel shark  (muscle),Cs-137,,4.3,Bq/kg-fresh
+2025/8/19,Red sea bream (muscle),Cs-137,,4.0,Bq/kg-fresh
+2025/8/19,Stingray (muscle),Cs-137,,4.4,Bq/kg-fresh
+2025/8/19,Jack mackerel (muscle),Cs-137,,3.4,Bq/kg-fresh
 2025/7/4,Flatfish (muscle),Cs-134,,4.0,Bq/kg-fresh
 2025/7/4,Flatfish (muscle),Cs-134,,4.2,Bq/kg-fresh
 2025/7/4,Yellow goosefish (whole),Cs-134,,3.5,Bq/kg-fresh
@@ -68,6 +82,10 @@ Date and time of Sampling,Sample,Radionuclide,Dt,ND,Unit
 2025/5/9,Japanese angel shark  (muscle),Cs-137,,4.0,Bq/kg-fresh
 2025/5/9,Red sea bream (muscle),Cs-137,,3.7,Bq/kg-fresh
 2025/5/9,John dory (muscle),Cs-137,,4.0,Bq/kg-fresh
+2025/5/9,Flatfish (muscle),H-3:TFWT,0.090,,Bq/L
+2025/5/9,Flatfish (muscle),H-3:TFWT,0.067,,Bq/kg-fresh
+2025/5/9,Flatfish (muscle),H-3:OBT,,0.26,Bq/L
+2025/5/9,Flatfish (muscle),H-3:OBT,,0.042,Bq/kg-fresh
 2025/3/27,Lepidotrigla microptena (muscle),Cs-134,,3.3,Bq/kg-fresh
 2025/3/27,Flatfish (muscle),Cs-134,,3.4,Bq/kg-fresh
 2025/3/27,Roundnose flounder (muscle),Cs-134,,3.3,Bq/kg-fresh

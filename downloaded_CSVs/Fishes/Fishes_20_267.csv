@@ -1,7 +1,11 @@
-﻿File Creation Date,2025-10-10
+﻿File Creation Date,2025-10-14
 Sampling Location,Around 3km offshore of Ukedo River (T-S3) (Fish)
 
 Date and time of Sampling,Sample,Radionuclide,Dt,ND,Unit
+2025/8/19,Common skete (muscle),Cs-134,,3.3,Bq/kg-fresh
+2025/8/19,Blue crab (whole),Cs-134,,3.2,Bq/kg-fresh
+2025/8/19,Common skete (muscle),Cs-137,,3.8,Bq/kg-fresh
+2025/8/19,Blue crab (whole),Cs-137,,4.3,Bq/kg-fresh
 2025/7/4,Common skete (muscle),Cs-134,,3.5,Bq/kg-fresh
 2025/7/4,Flatfish (muscle),Cs-134,,3.0,Bq/kg-fresh
 2025/7/4,Flatfish (muscle),Cs-134,,5.3,Bq/kg-fresh
@@ -56,6 +60,10 @@ Date and time of Sampling,Sample,Radionuclide,Dt,ND,Unit
 2025/4/25,Stone flounder (muscle),Cs-137,,4.3,Bq/kg-fresh
 2025/4/25,Yellow goosefish (whole),Cs-137,,3.8,Bq/kg-fresh
 2025/4/25,Black rockfish (muscle),Cs-137,,4.5,Bq/kg-fresh
+2025/4/25,Flatfish (muscle),H-3:TFWT,0.096,,Bq/L
+2025/4/25,Flatfish (muscle),H-3:TFWT,0.074,,Bq/kg-fresh
+2025/4/25,Flatfish (muscle),H-3:OBT,,0.22,Bq/L
+2025/4/25,Flatfish (muscle),H-3:OBT,,0.032,Bq/kg-fresh
 2025/3/27,Common skete (muscle),Cs-134,,4.0,Bq/kg-fresh
 2025/3/27,Flatfish (muscle),Cs-134,,4.0,Bq/kg-fresh
 2025/3/27,Roundnose flounder (muscle),Cs-134,,3.7,Bq/kg-fresh

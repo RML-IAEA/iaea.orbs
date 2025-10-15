@@ -1,4 +1,4 @@
-﻿File Creation Date,2025-10-10
+﻿File Creation Date,2025-10-14
 Sampling Location,Around 10km offshore of 1F site (T-B3) (Fish)
 
 Date and time of Sampling,Sample,Radionuclide,Dt,ND,Unit
@@ -78,6 +78,10 @@ Date and time of Sampling,Sample,Radionuclide,Dt,ND,Unit
 2025/4/19,Sea bass (muscle),Cs-137,,3.5,Bq/kg-fresh
 2025/4/19,Crimson sea bream (muscle),Cs-137,,3.3,Bq/kg-fresh
 2025/4/19,Red sea bream (muscle),Cs-137,,3.5,Bq/kg-fresh
+2025/4/19,Flatfish (muscle),H-3:TFWT,0.082,,Bq/L
+2025/4/19,Flatfish (muscle),H-3:TFWT,0.061,,Bq/kg-fresh
+2025/4/19,Flatfish (muscle),H-3:OBT,,0.26,Bq/L
+2025/4/19,Flatfish (muscle),H-3:OBT,,0.040,Bq/kg-fresh
 2025/3/22,Lepidotrigla microptena (muscle),Cs-134,,3.9,Bq/kg-fresh
 2025/3/22,Yellow goosefish (whole),Cs-134,,4.2,Bq/kg-fresh
 2025/3/22,Flatfish (muscle),Cs-134,,3.2,Bq/kg-fresh

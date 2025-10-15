@@ -7,6 +7,26 @@
     "lon":141.0358111111,
     "data":[
       {
+        "begperiod":"2025\/3\/20",
+        "Sample":"Gulf weed",
+        "Radionuclide":"Cs-134",
+        "Dt":null,
+        "ND":0.25,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2025\/3\/20",
+        "Sample":"Gulf weed",
+        "Radionuclide":"Cs-137",
+        "Dt":5.6,
+        "ND":null,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
         "begperiod":"2024\/7\/25",
         "Sample":"Gulf weed",
         "Radionuclide":"Cs-134",
@@ -195,6 +215,76 @@
     "lat":37.4821027778,
     "lon":141.0434888889,
     "data":[
+      {
+        "begperiod":"2025\/3\/18",
+        "Sample":"Narrow iodine seaweed",
+        "Radionuclide":"Cs-134",
+        "Dt":null,
+        "ND":0.23,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2025\/3\/18",
+        "Sample":"Narrow iodine seaweed",
+        "Radionuclide":"Cs-137",
+        "Dt":0.32,
+        "ND":null,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2025\/3\/18",
+        "Sample":"Narrow iodine seaweed",
+        "Radionuclide":"H-3:TFWT",
+        "Dt":0.16,
+        "ND":null,
+        "Unit":"Bq\/L",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2025\/3\/18",
+        "Sample":"Narrow iodine seaweed",
+        "Radionuclide":"H-3:TFWT",
+        "Dt":0.13,
+        "ND":null,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2025\/3\/18",
+        "Sample":"Narrow iodine seaweed",
+        "Radionuclide":"H-3:OBT",
+        "Dt":null,
+        "ND":0.25,
+        "Unit":"Bq\/L",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2025\/3\/18",
+        "Sample":"Narrow iodine seaweed",
+        "Radionuclide":"H-3:OBT",
+        "Dt":null,
+        "ND":0.015,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2025\/3\/18",
+        "Sample":"Narrow iodine seaweed",
+        "Radionuclide":"I-129",
+        "Dt":null,
+        "ND":0.01,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
       {
         "begperiod":"2024\/7\/23",
         "Sample":"Ahnfeltiopsis paradoxa (Suringar) Masuda",
@@ -754,6 +844,76 @@
     "lat":37.337175,
     "lon":141.0286083333,
     "data":[
+      {
+        "begperiod":"2025\/3\/18",
+        "Sample":"Ulva australis",
+        "Radionuclide":"Cs-134",
+        "Dt":null,
+        "ND":0.22,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2025\/3\/18",
+        "Sample":"Ulva australis",
+        "Radionuclide":"Cs-137",
+        "Dt":2.9,
+        "ND":null,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2025\/3\/18",
+        "Sample":"Ulva australis",
+        "Radionuclide":"H-3:TFWT",
+        "Dt":0.8,
+        "ND":null,
+        "Unit":"Bq\/L",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2025\/3\/18",
+        "Sample":"Ulva australis",
+        "Radionuclide":"H-3:TFWT",
+        "Dt":0.67,
+        "ND":null,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2025\/3\/18",
+        "Sample":"Ulva australis",
+        "Radionuclide":"H-3:OBT",
+        "Dt":null,
+        "ND":0.26,
+        "Unit":"Bq\/L",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2025\/3\/18",
+        "Sample":"Ulva australis",
+        "Radionuclide":"H-3:OBT",
+        "Dt":null,
+        "ND":0.013,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2025\/3\/18",
+        "Sample":"Ulva australis",
+        "Radionuclide":"I-129",
+        "Dt":null,
+        "ND":0.01,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
       {
         "begperiod":"2024\/7\/18",
         "Sample":"Ulva australis",

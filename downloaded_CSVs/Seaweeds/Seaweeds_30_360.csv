@@ -1,7 +1,14 @@
-﻿File Creation Date,2025-10-10
+﻿File Creation Date,2025-10-14
 Sampling Location,
 
 Date and time of Sampling,Sample,Radionuclide,Dt,ND,Unit
+2025/3/18,Narrow iodine seaweed,Cs-134,,0.23,Bq/kg-fresh
+2025/3/18,Narrow iodine seaweed,Cs-137,0.32,,Bq/kg-fresh
+2025/3/18,Narrow iodine seaweed,H-3:TFWT,0.16,,Bq/L
+2025/3/18,Narrow iodine seaweed,H-3:TFWT,0.13,,Bq/kg-fresh
+2025/3/18,Narrow iodine seaweed,H-3:OBT,,0.25,Bq/L
+2025/3/18,Narrow iodine seaweed,H-3:OBT,,0.015,Bq/kg-fresh
+2025/3/18,Narrow iodine seaweed,I-129,,0.010,Bq/kg-fresh
 2024/7/23,Ahnfeltiopsis paradoxa (Suringar) Masuda,Cs-134,,0.15,Bq/kg-fresh
 2024/7/23,Ahnfeltiopsis paradoxa (Suringar) Masuda,Cs-137,8.6,,Bq/kg-fresh
 2024/7/23,Ahnfeltiopsis paradoxa (Suringar) Masuda,H-3:TFWT,0.10,,Bq/L
