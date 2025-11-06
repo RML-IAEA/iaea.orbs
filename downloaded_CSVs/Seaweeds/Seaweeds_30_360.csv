@@ -1,7 +1,14 @@
-﻿File Creation Date,2025-11-04
+﻿File Creation Date,2025-11-05
 Sampling Location,
 
 Date and time of Sampling,Sample,Radionuclide,Dt,ND,Unit
+2025/5/15,Sea oak,Cs-134,,0.14,Bq/kg-fresh
+2025/5/15,Sea oak,Cs-137,0.97,,Bq/kg-fresh
+2025/5/15,Sea oak,H-3:TFWT,,0.083,Bq/L
+2025/5/15,Sea oak,H-3:TFWT,,0.071,Bq/kg-fresh
+2025/5/15,Sea oak,H-3:OBT,,0.30,Bq/L
+2025/5/15,Sea oak,H-3:OBT,,0.017,Bq/kg-fresh
+2025/5/15,Sea oak,I-129,,0.060,Bq/kg-fresh
 2025/3/18,Narrow iodine seaweed,Cs-134,,0.23,Bq/kg-fresh
 2025/3/18,Narrow iodine seaweed,Cs-137,0.32,,Bq/kg-fresh
 2025/3/18,Narrow iodine seaweed,H-3:TFWT,0.16,,Bq/L

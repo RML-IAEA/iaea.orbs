@@ -7,6 +7,26 @@
     "lon":141.0358111111,
     "data":[
       {
+        "begperiod":"2025\/5\/14",
+        "Sample":"Gulf weed",
+        "Radionuclide":"Cs-134",
+        "Dt":null,
+        "ND":0.27,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2025\/5\/14",
+        "Sample":"Gulf weed",
+        "Radionuclide":"Cs-137",
+        "Dt":6.3,
+        "ND":null,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
         "begperiod":"2025\/3\/20",
         "Sample":"Gulf weed",
         "Radionuclide":"Cs-134",
@@ -215,6 +235,76 @@
     "lat":37.4821027778,
     "lon":141.0434888889,
     "data":[
+      {
+        "begperiod":"2025\/5\/15",
+        "Sample":"Sea oak",
+        "Radionuclide":"Cs-134",
+        "Dt":null,
+        "ND":0.14,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2025\/5\/15",
+        "Sample":"Sea oak",
+        "Radionuclide":"Cs-137",
+        "Dt":0.97,
+        "ND":null,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2025\/5\/15",
+        "Sample":"Sea oak",
+        "Radionuclide":"H-3:TFWT",
+        "Dt":null,
+        "ND":0.083,
+        "Unit":"Bq\/L",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2025\/5\/15",
+        "Sample":"Sea oak",
+        "Radionuclide":"H-3:TFWT",
+        "Dt":null,
+        "ND":0.071,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2025\/5\/15",
+        "Sample":"Sea oak",
+        "Radionuclide":"H-3:OBT",
+        "Dt":null,
+        "ND":0.3,
+        "Unit":"Bq\/L",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2025\/5\/15",
+        "Sample":"Sea oak",
+        "Radionuclide":"H-3:OBT",
+        "Dt":null,
+        "ND":0.017,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2025\/5\/15",
+        "Sample":"Sea oak",
+        "Radionuclide":"I-129",
+        "Dt":null,
+        "ND":0.06,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
       {
         "begperiod":"2025\/3\/18",
         "Sample":"Narrow iodine seaweed",
@@ -844,6 +934,76 @@
     "lat":37.337175,
     "lon":141.0286083333,
     "data":[
+      {
+        "begperiod":"2025\/5\/15",
+        "Sample":"Gulf weed",
+        "Radionuclide":"Cs-134",
+        "Dt":null,
+        "ND":0.18,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2025\/5\/15",
+        "Sample":"Gulf weed",
+        "Radionuclide":"Cs-137",
+        "Dt":0.46,
+        "ND":null,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2025\/5\/15",
+        "Sample":"Gulf weed",
+        "Radionuclide":"H-3:TFWT",
+        "Dt":null,
+        "ND":0.082,
+        "Unit":"Bq\/L",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2025\/5\/15",
+        "Sample":"Gulf weed",
+        "Radionuclide":"H-3:TFWT",
+        "Dt":null,
+        "ND":0.07,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2025\/5\/15",
+        "Sample":"Gulf weed",
+        "Radionuclide":"H-3:OBT",
+        "Dt":null,
+        "ND":0.31,
+        "Unit":"Bq\/L",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2025\/5\/15",
+        "Sample":"Gulf weed",
+        "Radionuclide":"H-3:OBT",
+        "Dt":null,
+        "ND":0.018,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2025\/5\/15",
+        "Sample":"Gulf weed",
+        "Radionuclide":"I-129",
+        "Dt":null,
+        "ND":0.02,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
       {
         "begperiod":"2025\/3\/18",
         "Sample":"Ulva australis",

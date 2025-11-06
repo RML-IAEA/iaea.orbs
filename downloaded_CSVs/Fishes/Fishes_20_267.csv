@@ -1,7 +1,15 @@
-﻿File Creation Date,2025-11-04
+﻿File Creation Date,2025-11-05
 Sampling Location,Around 3km offshore of Ukedo River (T-S3) (Fish)
 
 Date and time of Sampling,Sample,Radionuclide,Dt,ND,Unit
+2025/9/18,Common skete (muscle),Cs-134,,3.6,Bq/kg-fresh
+2025/9/18,Searobin (muscle),Cs-134,,4.1,Bq/kg-fresh
+2025/9/18,Japanese angel shark  (muscle),Cs-134,,3.6,Bq/kg-fresh
+2025/9/18,Red sea bream (muscle),Cs-134,,3.2,Bq/kg-fresh
+2025/9/18,Common skete (muscle),Cs-137,,3.8,Bq/kg-fresh
+2025/9/18,Searobin (muscle),Cs-137,,3.3,Bq/kg-fresh
+2025/9/18,Japanese angel shark  (muscle),Cs-137,,3.3,Bq/kg-fresh
+2025/9/18,Red sea bream (muscle),Cs-137,,4.3,Bq/kg-fresh
 2025/8/19,Common skete (muscle),Cs-134,,3.3,Bq/kg-fresh
 2025/8/19,Blue crab (whole),Cs-134,,3.2,Bq/kg-fresh
 2025/8/19,Common skete (muscle),Cs-137,,3.8,Bq/kg-fresh
@@ -46,6 +54,10 @@ Date and time of Sampling,Sample,Radionuclide,Dt,ND,Unit
 2025/5/15,Searobin (muscle),Cs-137,,3.9,Bq/kg-fresh
 2025/5/15,Yellow goosefish (whole),Cs-137,,4.1,Bq/kg-fresh
 2025/5/15,Red sea bream (muscle),Cs-137,,3.0,Bq/kg-fresh
+2025/5/15,Flatfish (muscle),H-3:TFWT,,0.069,Bq/L
+2025/5/15,Flatfish (muscle),H-3:TFWT,,0.053,Bq/kg-fresh
+2025/5/15,Flatfish (muscle),H-3:OBT,,0.25,Bq/L
+2025/5/15,Flatfish (muscle),H-3:OBT,,0.039,Bq/kg-fresh
 2025/4/25,Common skete (muscle),Cs-134,,3.1,Bq/kg-fresh
 2025/4/25,Flatfish (muscle),Cs-134,,3.5,Bq/kg-fresh
 2025/4/25,Flatfish (muscle),Cs-134,,5.4,Bq/kg-fresh
