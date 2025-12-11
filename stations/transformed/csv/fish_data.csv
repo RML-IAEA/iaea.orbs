@@ -8643,6 +8643,26 @@ id,org,station,lat,lon,begperiod,Sample,Radionuclide,Dt,Dt_unc,ND,Unit
 275,TEPCO,T-B4,37.3483333333,141.1486111111,2021/3/18,Littlemouth flounder (muscle),Cs-137,,,4.3,Bq/kg-fresh
 275,TEPCO,T-B4,37.3483333333,141.1486111111,2021/3/18,Roundnose flounder (muscle),Cs-137,,,3.8,Bq/kg-fresh
 275,TEPCO,T-B4,37.3483333333,141.1486111111,2021/3/18,Ridged-eye flounder (muscle),Cs-137,,,3.6,Bq/kg-fresh
+276,Fukushima Pref.,,37.8740305556,141.1,2025/11/10,Black sea bream,Cs-134,,,7.7,Bq/kg
+276,Fukushima Pref.,,37.8740305556,141.1,2025/11/10,Redwing searobin,Cs-134,,,8.3,Bq/kg
+276,Fukushima Pref.,,37.8740305556,141.1,2025/11/10,Black sea bream,Cs-137,,,6.2,Bq/kg
+276,Fukushima Pref.,,37.8740305556,141.1,2025/11/10,Redwing searobin,Cs-137,,,8.3,Bq/kg
+276,Fukushima Pref.,,37.8740305556,141.1,2025/11/09,Hairtail,Cs-134,,,7.5,Bq/kg
+276,Fukushima Pref.,,37.8740305556,141.1,2025/11/09,Crimson sea bream,Cs-134,,,6.0,Bq/kg
+276,Fukushima Pref.,,37.8740305556,141.1,2025/11/09,Olive flounder,Cs-134,,,9.2,Bq/kg
+276,Fukushima Pref.,,37.8740305556,141.1,2025/11/09,Roundnose flounder,Cs-134,,,9.1,Bq/kg
+276,Fukushima Pref.,,37.8740305556,141.1,2025/11/09,Red sea bream,Cs-134,,,7.9,Bq/kg
+276,Fukushima Pref.,,37.8740305556,141.1,2025/11/09,Flathead,Cs-134,,,8.4,Bq/kg
+276,Fukushima Pref.,,37.8740305556,141.1,2025/11/09,White croaker,Cs-134,,,8.2,Bq/kg
+276,Fukushima Pref.,,37.8740305556,141.1,2025/11/09,Honnibe crocker,Cs-134,,,8.2,Bq/kg
+276,Fukushima Pref.,,37.8740305556,141.1,2025/11/09,Hairtail,Cs-137,,,8.2,Bq/kg
+276,Fukushima Pref.,,37.8740305556,141.1,2025/11/09,Crimson sea bream,Cs-137,,,8.9,Bq/kg
+276,Fukushima Pref.,,37.8740305556,141.1,2025/11/09,Olive flounder,Cs-137,,,7.1,Bq/kg
+276,Fukushima Pref.,,37.8740305556,141.1,2025/11/09,Roundnose flounder,Cs-137,,,8.0,Bq/kg
+276,Fukushima Pref.,,37.8740305556,141.1,2025/11/09,Red sea bream,Cs-137,,,8.0,Bq/kg
+276,Fukushima Pref.,,37.8740305556,141.1,2025/11/09,Flathead,Cs-137,,,7.3,Bq/kg
+276,Fukushima Pref.,,37.8740305556,141.1,2025/11/09,White croaker,Cs-137,,,8.9,Bq/kg
+276,Fukushima Pref.,,37.8740305556,141.1,2025/11/09,Honnibe crocker,Cs-137,,,8.7,Bq/kg
 276,Fukushima Pref.,,37.8740305556,141.1,2025/11/03,Greenling,Cs-134,,,8.3,Bq/kg
 276,Fukushima Pref.,,37.8740305556,141.1,2025/11/03,Redwing searobin,Cs-134,,,9.7,Bq/kg
 276,Fukushima Pref.,,37.8740305556,141.1,2025/11/03,Common skate,Cs-134,,,8.8,Bq/kg
@@ -12989,6 +13009,68 @@ id,org,station,lat,lon,begperiod,Sample,Radionuclide,Dt,Dt_unc,ND,Unit
 276,Fukushima Pref.,,37.8740305556,141.1,2021/04/01,Black rockfish,Cs-137,,,7.7,Bq/kg-fresh
 276,Fukushima Pref.,,37.8740305556,141.1,2021/04/01,Black rockfish,Cs-137,,,6.2,Bq/kg-fresh
 276,Fukushima Pref.,,37.8740305556,141.1,2021/04/01,Black rockfish,Cs-137,,,7.4,Bq/kg-fresh
+277,Fukushima Pref.,,36.9788833333,141.1,2025/11/14,Black sea bream,Cs-134,,,8.5,Bq/kg
+277,Fukushima Pref.,,36.9788833333,141.1,2025/11/14,Black sea bream,Cs-137,,,7.8,Bq/kg
+277,Fukushima Pref.,,36.9788833333,141.1,2025/11/09,Smooth dogfish,Cs-134,,,7.4,Bq/kg
+277,Fukushima Pref.,,36.9788833333,141.1,2025/11/09,Yellow goosefish,Cs-134,,,9.9,Bq/kg
+277,Fukushima Pref.,,36.9788833333,141.1,2025/11/09,Honnibe crocker,Cs-134,,,8.0,Bq/kg
+277,Fukushima Pref.,,36.9788833333,141.1,2025/11/09,Japanese amberjack,Cs-134,,,9.4,Bq/kg
+277,Fukushima Pref.,,36.9788833333,141.1,2025/11/09,Common skate,Cs-134,,,10.0,Bq/kg
+277,Fukushima Pref.,,36.9788833333,141.1,2025/11/09,Anchovy,Cs-134,,,8.9,Bq/kg
+277,Fukushima Pref.,,36.9788833333,141.1,2025/11/09,Anchovy,Cs-134,,,11.0,Bq/kg
+277,Fukushima Pref.,,36.9788833333,141.1,2025/11/09,White croaker,Cs-134,,,10.0,Bq/kg
+277,Fukushima Pref.,,36.9788833333,141.1,2025/11/09,Sea bass,Cs-134,,,9.5,Bq/kg
+277,Fukushima Pref.,,36.9788833333,141.1,2025/11/09,Conger eel,Cs-134,,,9.1,Bq/kg
+277,Fukushima Pref.,,36.9788833333,141.1,2025/11/09,Chub mackerel,Cs-134,,,7.8,Bq/kg
+277,Fukushima Pref.,,36.9788833333,141.1,2025/11/09,John dory,Cs-134,,,7.0,Bq/kg
+277,Fukushima Pref.,,36.9788833333,141.1,2025/11/09,Roundnose flounder,Cs-134,,,8.8,Bq/kg
+277,Fukushima Pref.,,36.9788833333,141.1,2025/11/09,Pacific barrelfish,Cs-134,,,8.1,Bq/kg
+277,Fukushima Pref.,,36.9788833333,141.1,2025/11/09,Yellow body rockfish,Cs-134,,,8.4,Bq/kg
+277,Fukushima Pref.,,36.9788833333,141.1,2025/11/09,Willowy flounder,Cs-134,,,7.3,Bq/kg
+277,Fukushima Pref.,,36.9788833333,141.1,2025/11/09,Scorpionfish,Cs-134,,,8.6,Bq/kg
+277,Fukushima Pref.,,36.9788833333,141.1,2025/11/09,Stone flounder,Cs-134,,,8.9,Bq/kg
+277,Fukushima Pref.,,36.9788833333,141.1,2025/11/09,Crimson sea bream,Cs-134,,,8.6,Bq/kg
+277,Fukushima Pref.,,36.9788833333,141.1,2025/11/09,Hairtail,Cs-134,,,9.9,Bq/kg
+277,Fukushima Pref.,,36.9788833333,141.1,2025/11/09,Jack mackerel,Cs-134,,,9.3,Bq/kg
+277,Fukushima Pref.,,36.9788833333,141.1,2025/11/09,Seven band grouper,Cs-134,,,7.7,Bq/kg
+277,Fukushima Pref.,,36.9788833333,141.1,2025/11/09,Red barracuda,Cs-134,,,7.2,Bq/kg
+277,Fukushima Pref.,,36.9788833333,141.1,2025/11/09,Ridged-eye flounder,Cs-134,,,7.4,Bq/kg
+277,Fukushima Pref.,,36.9788833333,141.1,2025/11/09,Spottedtail morwong,Cs-134,,,8.4,Bq/kg
+277,Fukushima Pref.,,36.9788833333,141.1,2025/11/09,Gnomefish,Cs-134,,,11.0,Bq/kg
+277,Fukushima Pref.,,36.9788833333,141.1,2025/11/09,Rock porgy,Cs-134,,,8.0,Bq/kg
+277,Fukushima Pref.,,36.9788833333,141.1,2025/11/09,Horsehead tilefish,Cs-134,,,10.0,Bq/kg
+277,Fukushima Pref.,,36.9788833333,141.1,2025/11/09,Long barbeled grunter,Cs-134,,,7.9,Bq/kg
+277,Fukushima Pref.,,36.9788833333,141.1,2025/11/09,Armoured cusk,Cs-134,,,8.8,Bq/kg
+277,Fukushima Pref.,,36.9788833333,141.1,2025/11/09,Smooth dogfish,Cs-137,,,6.1,Bq/kg
+277,Fukushima Pref.,,36.9788833333,141.1,2025/11/09,Yellow goosefish,Cs-137,,,7.4,Bq/kg
+277,Fukushima Pref.,,36.9788833333,141.1,2025/11/09,Honnibe crocker,Cs-137,,,8.0,Bq/kg
+277,Fukushima Pref.,,36.9788833333,141.1,2025/11/09,Japanese amberjack,Cs-137,,,8.9,Bq/kg
+277,Fukushima Pref.,,36.9788833333,141.1,2025/11/09,Common skate,Cs-137,,,8.6,Bq/kg
+277,Fukushima Pref.,,36.9788833333,141.1,2025/11/09,Anchovy,Cs-137,,,8.6,Bq/kg
+277,Fukushima Pref.,,36.9788833333,141.1,2025/11/09,Anchovy,Cs-137,,,7.4,Bq/kg
+277,Fukushima Pref.,,36.9788833333,141.1,2025/11/09,White croaker,Cs-137,,,7.9,Bq/kg
+277,Fukushima Pref.,,36.9788833333,141.1,2025/11/09,Sea bass,Cs-137,,,8.1,Bq/kg
+277,Fukushima Pref.,,36.9788833333,141.1,2025/11/09,Conger eel,Cs-137,,,8.6,Bq/kg
+277,Fukushima Pref.,,36.9788833333,141.1,2025/11/09,Chub mackerel,Cs-137,,,6.7,Bq/kg
+277,Fukushima Pref.,,36.9788833333,141.1,2025/11/09,John dory,Cs-137,,,7.5,Bq/kg
+277,Fukushima Pref.,,36.9788833333,141.1,2025/11/09,Roundnose flounder,Cs-137,,,10.0,Bq/kg
+277,Fukushima Pref.,,36.9788833333,141.1,2025/11/09,Pacific barrelfish,Cs-137,,,7.2,Bq/kg
+277,Fukushima Pref.,,36.9788833333,141.1,2025/11/09,Yellow body rockfish,Cs-137,,,6.8,Bq/kg
+277,Fukushima Pref.,,36.9788833333,141.1,2025/11/09,Willowy flounder,Cs-137,,,7.0,Bq/kg
+277,Fukushima Pref.,,36.9788833333,141.1,2025/11/09,Scorpionfish,Cs-137,,,8.5,Bq/kg
+277,Fukushima Pref.,,36.9788833333,141.1,2025/11/09,Stone flounder,Cs-137,,,8.0,Bq/kg
+277,Fukushima Pref.,,36.9788833333,141.1,2025/11/09,Crimson sea bream,Cs-137,,,7.1,Bq/kg
+277,Fukushima Pref.,,36.9788833333,141.1,2025/11/09,Hairtail,Cs-137,,,9.5,Bq/kg
+277,Fukushima Pref.,,36.9788833333,141.1,2025/11/09,Jack mackerel,Cs-137,,,9.4,Bq/kg
+277,Fukushima Pref.,,36.9788833333,141.1,2025/11/09,Seven band grouper,Cs-137,,,8.0,Bq/kg
+277,Fukushima Pref.,,36.9788833333,141.1,2025/11/09,Red barracuda,Cs-137,,,8.4,Bq/kg
+277,Fukushima Pref.,,36.9788833333,141.1,2025/11/09,Ridged-eye flounder,Cs-137,,,9.0,Bq/kg
+277,Fukushima Pref.,,36.9788833333,141.1,2025/11/09,Spottedtail morwong,Cs-137,,,8.3,Bq/kg
+277,Fukushima Pref.,,36.9788833333,141.1,2025/11/09,Gnomefish,Cs-137,,,8.1,Bq/kg
+277,Fukushima Pref.,,36.9788833333,141.1,2025/11/09,Rock porgy,Cs-137,,,7.7,Bq/kg
+277,Fukushima Pref.,,36.9788833333,141.1,2025/11/09,Horsehead tilefish,Cs-137,,,6.6,Bq/kg
+277,Fukushima Pref.,,36.9788833333,141.1,2025/11/09,Long barbeled grunter,Cs-137,,,6.6,Bq/kg
+277,Fukushima Pref.,,36.9788833333,141.1,2025/11/09,Armoured cusk,Cs-137,,,9.9,Bq/kg
 277,Fukushima Pref.,,36.9788833333,141.1,2025/11/03,Smooth dogfish,Cs-134,,,9.6,Bq/kg
 277,Fukushima Pref.,,36.9788833333,141.1,2025/11/03,Marbled rockfish,Cs-134,,,8.8,Bq/kg
 277,Fukushima Pref.,,36.9788833333,141.1,2025/11/03,Spotbelly rockfish,Cs-134,,,9.5,Bq/kg
@@ -24501,6 +24583,8 @@ id,org,station,lat,lon,begperiod,Sample,Radionuclide,Dt,Dt_unc,ND,Unit
 277,Fukushima Pref.,,36.9788833333,141.1,2021/04/03,Yellow body rockfish,Cs-137,,,7.6,Bq/kg-fresh
 277,Fukushima Pref.,,36.9788833333,141.1,2021/04/03,Scorpionfish,Cs-137,,,6.8,Bq/kg-fresh
 277,Fukushima Pref.,,36.9788833333,141.1,2021/04/03,Sullen rockfish,Cs-137,,,7.1,Bq/kg-fresh
+278,Fukushima Pref.,,37.6264916667,141.1,2025/11/05,Spotbelly rockfish,Cs-134,,,8.3,Bq/kg
+278,Fukushima Pref.,,37.6264916667,141.1,2025/11/05,Spotbelly rockfish,Cs-137,,,8.8,Bq/kg
 278,Fukushima Pref.,,37.6264916667,141.1,2025/11/03,Bluefin searobin,Cs-134,,,8.2,Bq/kg
 278,Fukushima Pref.,,37.6264916667,141.1,2025/11/03,John dory,Cs-134,,,8.6,Bq/kg
 278,Fukushima Pref.,,37.6264916667,141.1,2025/11/03,Conger eel,Cs-134,,,9.6,Bq/kg
@@ -27997,6 +28081,8 @@ id,org,station,lat,lon,begperiod,Sample,Radionuclide,Dt,Dt_unc,ND,Unit
 278,Fukushima Pref.,,37.6264916667,141.1,2021/04/01,Black rockfish,Cs-134,,,8.9,Bq/kg-fresh
 278,Fukushima Pref.,,37.6264916667,141.1,2021/04/01,Black rockfish,Cs-137,,,8.2,Bq/kg-fresh
 278,Fukushima Pref.,,37.6264916667,141.1,2021/04/01,Black rockfish,Cs-137,270.0,,,Bq/kg-fresh
+279,Fukushima Pref.,,37.215675,141.1,2025/11/09,Olive flounder,Cs-134,,,7.7,Bq/kg
+279,Fukushima Pref.,,37.215675,141.1,2025/11/09,Olive flounder,Cs-137,,,7.0,Bq/kg
 279,Fukushima Pref.,,37.215675,141.1,2025/11/03,Sea bass,Cs-134,,,6.4,Bq/kg
 279,Fukushima Pref.,,37.215675,141.1,2025/11/03,Sebastes cheni,Cs-134,,,8.9,Bq/kg
 279,Fukushima Pref.,,37.215675,141.1,2025/11/03,Sea bass,Cs-137,,,6.9,Bq/kg
@@ -29663,6 +29749,34 @@ id,org,station,lat,lon,begperiod,Sample,Radionuclide,Dt,Dt_unc,ND,Unit
 279,Fukushima Pref.,,37.215675,141.1,2021/04/04,Black rockfish,Cs-137,,,7.8,Bq/kg-fresh
 279,Fukushima Pref.,,37.215675,141.1,2021/04/04,Black rockfish,Cs-137,,,7.2,Bq/kg-fresh
 279,Fukushima Pref.,,37.215675,141.1,2021/04/04,Black rockfish,Cs-137,,,6.5,Bq/kg-fresh
+280,Fukushima Pref.,,37.7838194444,141.1,2025/11/09,Takifugu snyderi,Cs-134,,,8.6,Bq/kg
+280,Fukushima Pref.,,37.7838194444,141.1,2025/11/09,Jack mackerel,Cs-134,,,9.8,Bq/kg
+280,Fukushima Pref.,,37.7838194444,141.1,2025/11/09,John dory,Cs-134,,,7.7,Bq/kg
+280,Fukushima Pref.,,37.7838194444,141.1,2025/11/09,Common skate,Cs-134,,,8.3,Bq/kg
+280,Fukushima Pref.,,37.7838194444,141.1,2025/11/09,Marbled sole,Cs-134,,,11.0,Bq/kg
+280,Fukushima Pref.,,37.7838194444,141.1,2025/11/09,Sea raven,Cs-134,,,9.0,Bq/kg
+280,Fukushima Pref.,,37.7838194444,141.1,2025/11/09,Olive flounder,Cs-134,,,11.0,Bq/kg
+280,Fukushima Pref.,,37.7838194444,141.1,2025/11/09,Yellow goosefish,Cs-134,,,8.6,Bq/kg
+280,Fukushima Pref.,,37.7838194444,141.1,2025/11/09,Littlemouth flounder,Cs-134,,,8.4,Bq/kg
+280,Fukushima Pref.,,37.7838194444,141.1,2025/11/09,Bluefin searobin,Cs-134,,,7.8,Bq/kg
+280,Fukushima Pref.,,37.7838194444,141.1,2025/11/09,Crimson sea bream,Cs-134,,,8.1,Bq/kg
+280,Fukushima Pref.,,37.7838194444,141.1,2025/11/09,Ridged-eye flounder,Cs-134,,,9.3,Bq/kg
+280,Fukushima Pref.,,37.7838194444,141.1,2025/11/09,Smooth dogfish,Cs-134,,,11.0,Bq/kg
+280,Fukushima Pref.,,37.7838194444,141.1,2025/11/09,Pacific needlefish,Cs-134,,,9.6,Bq/kg
+280,Fukushima Pref.,,37.7838194444,141.1,2025/11/09,Takifugu snyderi,Cs-137,,,9.4,Bq/kg
+280,Fukushima Pref.,,37.7838194444,141.1,2025/11/09,Jack mackerel,Cs-137,,,7.7,Bq/kg
+280,Fukushima Pref.,,37.7838194444,141.1,2025/11/09,John dory,Cs-137,,,8.4,Bq/kg
+280,Fukushima Pref.,,37.7838194444,141.1,2025/11/09,Common skate,Cs-137,,,6.9,Bq/kg
+280,Fukushima Pref.,,37.7838194444,141.1,2025/11/09,Marbled sole,Cs-137,,,8.9,Bq/kg
+280,Fukushima Pref.,,37.7838194444,141.1,2025/11/09,Sea raven,Cs-137,,,8.2,Bq/kg
+280,Fukushima Pref.,,37.7838194444,141.1,2025/11/09,Olive flounder,Cs-137,,,8.2,Bq/kg
+280,Fukushima Pref.,,37.7838194444,141.1,2025/11/09,Yellow goosefish,Cs-137,,,9.7,Bq/kg
+280,Fukushima Pref.,,37.7838194444,141.1,2025/11/09,Littlemouth flounder,Cs-137,,,9.1,Bq/kg
+280,Fukushima Pref.,,37.7838194444,141.1,2025/11/09,Bluefin searobin,Cs-137,,,7.1,Bq/kg
+280,Fukushima Pref.,,37.7838194444,141.1,2025/11/09,Crimson sea bream,Cs-137,,,7.0,Bq/kg
+280,Fukushima Pref.,,37.7838194444,141.1,2025/11/09,Ridged-eye flounder,Cs-137,,,7.5,Bq/kg
+280,Fukushima Pref.,,37.7838194444,141.1,2025/11/09,Smooth dogfish,Cs-137,,,8.1,Bq/kg
+280,Fukushima Pref.,,37.7838194444,141.1,2025/11/09,Pacific needlefish,Cs-137,,,8.1,Bq/kg
 280,Fukushima Pref.,,37.7838194444,141.1,2025/11/03,Chub mackerel,Cs-134,,,9.3,Bq/kg
 280,Fukushima Pref.,,37.7838194444,141.1,2025/11/03,Rikuzen flounder,Cs-134,,,11.0,Bq/kg
 280,Fukushima Pref.,,37.7838194444,141.1,2025/11/03,Mirror dory,Cs-134,,,7.4,Bq/kg
@@ -33589,6 +33703,8 @@ id,org,station,lat,lon,begperiod,Sample,Radionuclide,Dt,Dt_unc,ND,Unit
 280,Fukushima Pref.,,37.7838194444,141.1,2021/04/01,Black rockfish,Cs-134,,,6.9,Bq/kg-fresh
 280,Fukushima Pref.,,37.7838194444,141.1,2021/04/01,Black rockfish,Cs-137,,,8.1,Bq/kg-fresh
 280,Fukushima Pref.,,37.7838194444,141.1,2021/04/01,Black rockfish,Cs-137,,,6.7,Bq/kg-fresh
+281,Fukushima Pref.,,37.3406472222,141.1,2025/11/08,Goldeye rockfish,Cs-134,,,9.5,Bq/kg
+281,Fukushima Pref.,,37.3406472222,141.1,2025/11/08,Goldeye rockfish,Cs-137,,,7.1,Bq/kg
 281,Fukushima Pref.,,37.3406472222,141.1,2025/11/02,Olive flounder,Cs-134,,,7.9,Bq/kg
 281,Fukushima Pref.,,37.3406472222,141.1,2025/11/02,Olive flounder,Cs-137,,,7.8,Bq/kg
 281,Fukushima Pref.,,37.3406472222,141.1,2025/10/25,Olive flounder,Cs-134,,,11.0,Bq/kg
@@ -35321,6 +35437,22 @@ id,org,station,lat,lon,begperiod,Sample,Radionuclide,Dt,Dt_unc,ND,Unit
 282,Fukushima Pref.,,37.4909888889,141.1,2021/05/18,Scorpionfish,Cs-137,,,7.7,Bq/kg-fresh
 282,Fukushima Pref.,,37.4909888889,141.1,2021/05/18,Rikuzen flounder,Cs-137,,,8.1,Bq/kg-fresh
 282,Fukushima Pref.,,37.4909888889,141.1,2021/05/18,Microstomus achne,Cs-137,,,8.4,Bq/kg-fresh
+283,Fukushima Pref.,,37.2787194444,141.1,2025/11/07,Red sea bream,Cs-134,,,8.9,Bq/kg
+283,Fukushima Pref.,,37.2787194444,141.1,2025/11/07,Takifugu snyderi,Cs-134,,,8.5,Bq/kg
+283,Fukushima Pref.,,37.2787194444,141.1,2025/11/07,Bluefin searobin,Cs-134,,,9.7,Bq/kg
+283,Fukushima Pref.,,37.2787194444,141.1,2025/11/07,Whip stingray,Cs-134,,,9.7,Bq/kg
+283,Fukushima Pref.,,37.2787194444,141.1,2025/11/07,Cinnamon flounder,Cs-134,,,9.6,Bq/kg
+283,Fukushima Pref.,,37.2787194444,141.1,2025/11/07,Red cornetfish,Cs-134,,,9.5,Bq/kg
+283,Fukushima Pref.,,37.2787194444,141.1,2025/11/07,Angelfish,Cs-134,,,7.3,Bq/kg
+283,Fukushima Pref.,,37.2787194444,141.1,2025/11/07,Japanese tonguefish,Cs-134,,,11.0,Bq/kg
+283,Fukushima Pref.,,37.2787194444,141.1,2025/11/07,Red sea bream,Cs-137,,,8.4,Bq/kg
+283,Fukushima Pref.,,37.2787194444,141.1,2025/11/07,Takifugu snyderi,Cs-137,,,8.6,Bq/kg
+283,Fukushima Pref.,,37.2787194444,141.1,2025/11/07,Bluefin searobin,Cs-137,,,7.5,Bq/kg
+283,Fukushima Pref.,,37.2787194444,141.1,2025/11/07,Whip stingray,Cs-137,,,8.9,Bq/kg
+283,Fukushima Pref.,,37.2787194444,141.1,2025/11/07,Cinnamon flounder,Cs-137,,,8.4,Bq/kg
+283,Fukushima Pref.,,37.2787194444,141.1,2025/11/07,Red cornetfish,Cs-137,,,9.8,Bq/kg
+283,Fukushima Pref.,,37.2787194444,141.1,2025/11/07,Angelfish,Cs-137,28.0,,,Bq/kg
+283,Fukushima Pref.,,37.2787194444,141.1,2025/11/07,Japanese tonguefish,Cs-137,,,8.6,Bq/kg
 283,Fukushima Pref.,,37.2787194444,141.1,2025/11/03,Yellow goosefish,Cs-134,,,9.1,Bq/kg
 283,Fukushima Pref.,,37.2787194444,141.1,2025/11/03,White croaker,Cs-134,,,6.9,Bq/kg
 283,Fukushima Pref.,,37.2787194444,141.1,2025/11/03,Roundnose flounder,Cs-134,,,6.9,Bq/kg
