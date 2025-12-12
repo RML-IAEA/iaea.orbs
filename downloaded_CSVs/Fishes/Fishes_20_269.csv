@@ -1,7 +1,23 @@
-﻿File Creation Date,2025-12-10
+﻿File Creation Date,2025-12-11
 Sampling Location,Around 2km offshore of Kido River (T-S5) (Fish)
 
 Date and time of Sampling,Sample,Radionuclide,Dt,ND,Unit
+2025/10/2,Common skete (muscle),Cs-134,,3.8,Bq/kg-fresh
+2025/10/2,Flatfish (muscle),Cs-134,,3.7,Bq/kg-fresh
+2025/10/2,Flatfish (muscle),Cs-134,,5.4,Bq/kg-fresh
+2025/10/2,Greenling (muscle),Cs-134,,3.4,Bq/kg-fresh
+2025/10/2,Searobin (muscle),Cs-134,,3.3,Bq/kg-fresh
+2025/10/2,Red sea bream (muscle),Cs-134,,4.1,Bq/kg-fresh
+2025/10/2,Drumfish (muscle),Cs-134,,3.3,Bq/kg-fresh
+2025/10/2,Japanese parrot fish (muscle),Cs-134,,2.9,Bq/kg-fresh
+2025/10/2,Common skete (muscle),Cs-137,,3.6,Bq/kg-fresh
+2025/10/2,Flatfish (muscle),Cs-137,,3.0,Bq/kg-fresh
+2025/10/2,Flatfish (muscle),Cs-137,,4.7,Bq/kg-fresh
+2025/10/2,Greenling (muscle),Cs-137,,3.4,Bq/kg-fresh
+2025/10/2,Searobin (muscle),Cs-137,,3.9,Bq/kg-fresh
+2025/10/2,Red sea bream (muscle),Cs-137,,3.8,Bq/kg-fresh
+2025/10/2,Drumfish (muscle),Cs-137,,3.4,Bq/kg-fresh
+2025/10/2,Japanese parrot fish (muscle),Cs-137,,3.6,Bq/kg-fresh
 2025/9/11,Common skete (muscle),Cs-134,,4.2,Bq/kg-fresh
 2025/9/11,Flatfish (muscle),Cs-134,,4.5,Bq/kg-fresh
 2025/9/11,Flatfish (muscle),Cs-134,,6.2,Bq/kg-fresh
@@ -48,6 +64,10 @@ Date and time of Sampling,Sample,Radionuclide,Dt,ND,Unit
 2025/6/19,Microstomus achne (muscle),Cs-137,,3.7,Bq/kg-fresh
 2025/6/19,Searobin (muscle),Cs-137,,4.3,Bq/kg-fresh
 2025/6/19,John dory (muscle),Cs-137,,3.4,Bq/kg-fresh
+2025/6/19,Flatfish (muscle),H-3:TFWT,0.075,,Bq/L
+2025/6/19,Flatfish (muscle),H-3:TFWT,0.058,,Bq/kg-fresh
+2025/6/19,Flatfish (muscle),H-3:OBT,,0.22,Bq/L
+2025/6/19,Flatfish (muscle),H-3:OBT,,0.032,Bq/kg-fresh
 2025/5/22,Japanese angel shark  (muscle),Cs-134,,3.9,Bq/kg-fresh
 2025/5/22,Common skete (muscle),Cs-134,,4.0,Bq/kg-fresh
 2025/5/22,Yellow goosefish (whole),Cs-134,,3.1,Bq/kg-fresh

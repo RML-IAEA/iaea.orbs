@@ -1,7 +1,15 @@
-﻿File Creation Date,2025-12-10
+﻿File Creation Date,2025-12-11
 Sampling Location,Around 4km offshore of Kumagawa (T-S8) (Fish)
 
 Date and time of Sampling,Sample,Radionuclide,Dt,ND,Unit
+2025/10/15,Flatfish (muscle),Cs-134,,3.3,Bq/kg-fresh
+2025/10/15,Flatfish (muscle),Cs-134,,3.2,Bq/kg-fresh
+2025/10/15,Searobin (muscle),Cs-134,,4.2,Bq/kg-fresh
+2025/10/15,Blue crab (whole),Cs-134,,3.5,Bq/kg-fresh
+2025/10/15,Flatfish (muscle),Cs-137,,3.7,Bq/kg-fresh
+2025/10/15,Flatfish (muscle),Cs-137,,3.8,Bq/kg-fresh
+2025/10/15,Searobin (muscle),Cs-137,,3.8,Bq/kg-fresh
+2025/10/15,Blue crab (whole),Cs-137,,3.7,Bq/kg-fresh
 2025/9/18,Searobin (muscle),Cs-134,,4.2,Bq/kg-fresh
 2025/9/18,Crimson sea bream (muscle),Cs-134,,4.5,Bq/kg-fresh
 2025/9/18,Searobin (muscle),Cs-137,,3.9,Bq/kg-fresh
@@ -52,6 +60,10 @@ Date and time of Sampling,Sample,Radionuclide,Dt,ND,Unit
 2025/6/6,Smooth dogfish (muscle),Cs-137,,4.1,Bq/kg-fresh
 2025/6/6,Stingray (muscle),Cs-137,,3.9,Bq/kg-fresh
 2025/6/6,Pitted stingray (muscle),Cs-137,,4.1,Bq/kg-fresh
+2025/6/6,Flatfish (muscle),H-3:TFWT,0.082,,Bq/L
+2025/6/6,Flatfish (muscle),H-3:TFWT,0.063,,Bq/kg-fresh
+2025/6/6,Flatfish (muscle),H-3:OBT,,0.23,Bq/L
+2025/6/6,Flatfish (muscle),H-3:OBT,,0.035,Bq/kg-fresh
 2025/5/16,Flatfish (muscle),Cs-134,,3.6,Bq/kg-fresh
 2025/5/16,Flatfish (muscle),Cs-134,,4.2,Bq/kg-fresh
 2025/5/16,Roundnose flounder (muscle),Cs-134,,3.7,Bq/kg-fresh
