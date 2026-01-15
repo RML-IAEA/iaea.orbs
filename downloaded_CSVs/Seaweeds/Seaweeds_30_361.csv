@@ -1,7 +1,14 @@
-﻿File Creation Date,2026-01-13
+﻿File Creation Date,2026-01-14
 Sampling Location,
 
 Date and time of Sampling,Sample,Radionuclide,Dt,ND,Unit
+2025/7/11,Gulf weed,Cs-134,,0.24,Bq/kg-fresh
+2025/7/11,Gulf weed,Cs-137,2.8,,Bq/kg-fresh
+2025/7/11,Gulf weed,H-3:TFWT,0.12,,Bq/L
+2025/7/11,Gulf weed,H-3:TFWT,0.099,,Bq/kg-fresh
+2025/7/11,Gulf weed,H-3:OBT,,0.25,Bq/L
+2025/7/11,Gulf weed,H-3:OBT,,0.014,Bq/kg-fresh
+2025/7/11,Gulf weed,I-129,,0.030,Bq/kg-fresh
 2025/5/15,Gulf weed,Cs-134,,0.18,Bq/kg-fresh
 2025/5/15,Gulf weed,Cs-137,0.46,,Bq/kg-fresh
 2025/5/15,Gulf weed,H-3:TFWT,,0.082,Bq/L
