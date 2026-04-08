@@ -2400,6 +2400,86 @@
     "lon":141.1,
     "data":[
       {
+        "begperiod":"2026\/03\/03",
+        "Sample":"Monostroma nitidum Wittrock",
+        "Radionuclide":"Cs-134",
+        "Dt":null,
+        "ND":4.5,
+        "Unit":"Bq\/kg",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/03\/03",
+        "Sample":"Monostroma nitidum Wittrock",
+        "Radionuclide":"Cs-137",
+        "Dt":null,
+        "ND":3.5,
+        "Unit":"Bq\/kg",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/02\/24",
+        "Sample":"Monostroma nitidum Wittrock",
+        "Radionuclide":"Cs-134",
+        "Dt":null,
+        "ND":4.3,
+        "Unit":"Bq\/kg",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/02\/24",
+        "Sample":"Monostroma nitidum Wittrock",
+        "Radionuclide":"Cs-137",
+        "Dt":null,
+        "ND":3.9,
+        "Unit":"Bq\/kg",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/02\/17",
+        "Sample":"Monostroma nitidum Wittrock",
+        "Radionuclide":"Cs-134",
+        "Dt":null,
+        "ND":4.0,
+        "Unit":"Bq\/kg",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/02\/17",
+        "Sample":"Monostroma nitidum Wittrock",
+        "Radionuclide":"Cs-137",
+        "Dt":null,
+        "ND":4.2,
+        "Unit":"Bq\/kg",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/02\/09",
+        "Sample":"Monostroma nitidum Wittrock",
+        "Radionuclide":"Cs-134",
+        "Dt":null,
+        "ND":3.9,
+        "Unit":"Bq\/kg",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/02\/09",
+        "Sample":"Monostroma nitidum Wittrock",
+        "Radionuclide":"Cs-137",
+        "Dt":null,
+        "ND":3.4,
+        "Unit":"Bq\/kg",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
         "begperiod":"2026\/02\/03",
         "Sample":"Monostroma nitidum Wittrock",
         "Radionuclide":"Cs-134",
