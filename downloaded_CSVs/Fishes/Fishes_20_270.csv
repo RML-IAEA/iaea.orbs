@@ -1,7 +1,23 @@
-﻿File Creation Date,2026-06-08
+﻿File Creation Date,2026-06-09
 Sampling Location,Around 2km offshore of 2F site (T-S7) (Fish)
 
 Date and time of Sampling,Sample,Radionuclide,Dt,ND,Unit
+2026/5/8,Common skete (muscle),Cs-134,,3.3,Bq/kg-fresh
+2026/5/8,Flatfish (muscle),Cs-134,,3.3,Bq/kg-fresh
+2026/5/8,Flatfish (muscle),Cs-134,,3.5,Bq/kg-fresh
+2026/5/8,Black rockfish (muscle),Cs-134,,3.9,Bq/kg-fresh
+2026/5/8,Microstomus achne (muscle),Cs-134,,3.2,Bq/kg-fresh
+2026/5/8,Japanese amberjack (muscle),Cs-134,,4.0,Bq/kg-fresh
+2026/5/8,Red sea bream (muscle),Cs-134,,3.7,Bq/kg-fresh
+2026/5/8,Fox jacopever (muscle),Cs-134,,3.4,Bq/kg-fresh
+2026/5/8,Common skete (muscle),Cs-137,,3.6,Bq/kg-fresh
+2026/5/8,Flatfish (muscle),Cs-137,,2.7,Bq/kg-fresh
+2026/5/8,Flatfish (muscle),Cs-137,,3.2,Bq/kg-fresh
+2026/5/8,Black rockfish (muscle),Cs-137,,4.4,Bq/kg-fresh
+2026/5/8,Microstomus achne (muscle),Cs-137,,4.4,Bq/kg-fresh
+2026/5/8,Japanese amberjack (muscle),Cs-137,,3.8,Bq/kg-fresh
+2026/5/8,Red sea bream (muscle),Cs-137,,3.7,Bq/kg-fresh
+2026/5/8,Fox jacopever (muscle),Cs-137,,4.1,Bq/kg-fresh
 2026/3/25,Marbled sole (muscle),Cs-134,,3.5,Bq/kg-fresh
 2026/3/25,Microstomus achne (muscle),Cs-134,,3.1,Bq/kg-fresh
 2026/3/25,Microstomus achne (muscle),Cs-134,,3.3,Bq/kg-fresh
@@ -44,6 +60,10 @@ Date and time of Sampling,Sample,Radionuclide,Dt,ND,Unit
 2025/12/18,Red sea bream (muscle),Cs-137,,3.1,Bq/kg-fresh
 2025/12/18,Black sea bream (muscle),Cs-137,,3.7,Bq/kg-fresh
 2025/12/18,Yellow goosefish (whole),Cs-137,,3.7,Bq/kg-fresh
+2025/12/18,Flatfish (muscle),H-3:TFWT,0.16,,Bq/L
+2025/12/18,Flatfish (muscle),H-3:TFWT,0.12,,Bq/kg-fresh
+2025/12/18,Flatfish (muscle),H-3:OBT,,0.28,Bq/L
+2025/12/18,Flatfish (muscle),H-3:OBT,,0.037,Bq/kg-fresh
 2025/11/13,Common skete (muscle),Cs-134,,4.2,Bq/kg-fresh
 2025/11/13,Flatfish (muscle),Cs-134,,3.4,Bq/kg-fresh
 2025/11/13,Flatfish (muscle),Cs-134,,3.5,Bq/kg-fresh

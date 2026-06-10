@@ -10,6 +10,15 @@
         "depth":"Surface",
         "data":[
           {
+            "begperiod":"2026\/6\/7 7:27",
+            "Cs-134":null,
+            "Cs-134_nd":0.27,
+            "Cs-137":null,
+            "Cs-137_nd":0.29,
+            "H-3":null,
+            "H-3_nd":null
+          },
+          {
             "begperiod":"2026\/6\/6 7:49",
             "Cs-134":null,
             "Cs-134_nd":0.3,
