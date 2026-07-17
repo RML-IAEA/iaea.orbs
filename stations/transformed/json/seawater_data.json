@@ -17016,6 +17016,15 @@
         "depth":"Surface",
         "data":[
           {
+            "begperiod":"2026\/7\/14 6:57",
+            "Cs-134":null,
+            "Cs-134_nd":0.82,
+            "Cs-137":null,
+            "Cs-137_nd":0.67,
+            "H-3":null,
+            "H-3_nd":null
+          },
+          {
             "begperiod":"2026\/7\/13 6:57",
             "Cs-134":null,
             "Cs-134_nd":0.84,
@@ -34336,6 +34345,15 @@
       {
         "depth":"Surface",
         "data":[
+          {
+            "begperiod":"2026\/7\/14 6:40",
+            "Cs-134":null,
+            "Cs-134_nd":0.75,
+            "Cs-137":null,
+            "Cs-137_nd":0.71,
+            "H-3":null,
+            "H-3_nd":null
+          },
           {
             "begperiod":"2026\/7\/13 8:30",
             "Cs-134":null,
