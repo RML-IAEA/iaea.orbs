@@ -5470,6 +5470,126 @@
     "lon":141.0422222222,
     "data":[
       {
+        "begperiod":"2026\/6\/11",
+        "Sample":"Common skete (muscle)",
+        "Radionuclide":"Cs-134",
+        "Dt":null,
+        "ND":3.3,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/6\/11",
+        "Sample":"Marbled sole (muscle)",
+        "Radionuclide":"Cs-134",
+        "Dt":null,
+        "ND":3.7,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/6\/11",
+        "Sample":"Blue crab (whole)",
+        "Radionuclide":"Cs-134",
+        "Dt":null,
+        "ND":3.9,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/6\/11",
+        "Sample":"Flatfish (muscle)",
+        "Radionuclide":"Cs-134",
+        "Dt":null,
+        "ND":3.7,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/6\/11",
+        "Sample":"Flatfish (muscle)",
+        "Radionuclide":"Cs-134",
+        "Dt":null,
+        "ND":6.6,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/6\/11",
+        "Sample":"Red sea bream (muscle)",
+        "Radionuclide":"Cs-134",
+        "Dt":null,
+        "ND":3.3,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/6\/11",
+        "Sample":"Common skete (muscle)",
+        "Radionuclide":"Cs-137",
+        "Dt":null,
+        "ND":3.6,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/6\/11",
+        "Sample":"Marbled sole (muscle)",
+        "Radionuclide":"Cs-137",
+        "Dt":null,
+        "ND":3.8,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/6\/11",
+        "Sample":"Blue crab (whole)",
+        "Radionuclide":"Cs-137",
+        "Dt":null,
+        "ND":4.4,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/6\/11",
+        "Sample":"Flatfish (muscle)",
+        "Radionuclide":"Cs-137",
+        "Dt":null,
+        "ND":3.7,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/6\/11",
+        "Sample":"Flatfish (muscle)",
+        "Radionuclide":"Cs-137",
+        "Dt":null,
+        "ND":6.3,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/6\/11",
+        "Sample":"Red sea bream (muscle)",
+        "Radionuclide":"Cs-137",
+        "Dt":null,
+        "ND":3.3,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
         "begperiod":"2026\/5\/14",
         "Sample":"Common skete (muscle)",
         "Radionuclide":"Cs-134",
@@ -5645,6 +5765,46 @@
         "Radionuclide":"Cs-137",
         "Dt":null,
         "ND":4.1,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/2\/18",
+        "Sample":"Flatfish (muscle)",
+        "Radionuclide":"H-3:TFWT",
+        "Dt":null,
+        "ND":0.067,
+        "Unit":"Bq\/L",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/2\/18",
+        "Sample":"Flatfish (muscle)",
+        "Radionuclide":"H-3:TFWT",
+        "Dt":null,
+        "ND":0.053,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/2\/18",
+        "Sample":"Flatfish (muscle)",
+        "Radionuclide":"H-3:OBT",
+        "Dt":null,
+        "ND":0.23,
+        "Unit":"Bq\/L",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/2\/18",
+        "Sample":"Flatfish (muscle)",
+        "Radionuclide":"H-3:OBT",
+        "Dt":null,
+        "ND":0.03,
         "Unit":"Bq\/kg-fresh",
         "Dt_unc":null,
         "ND_unc":null
@@ -12899,6 +13059,206 @@
     "lon":141.0625,
     "data":[
       {
+        "begperiod":"2026\/6\/11",
+        "Sample":"Flatfish (muscle)",
+        "Radionuclide":"Cs-134",
+        "Dt":null,
+        "ND":4.2,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/6\/11",
+        "Sample":"Flatfish (muscle)",
+        "Radionuclide":"Cs-134",
+        "Dt":null,
+        "ND":5.9,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/6\/11",
+        "Sample":"Marbled sole (muscle)",
+        "Radionuclide":"Cs-134",
+        "Dt":null,
+        "ND":3.9,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/6\/11",
+        "Sample":"Common skete (muscle)",
+        "Radionuclide":"Cs-134",
+        "Dt":null,
+        "ND":3.5,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/6\/11",
+        "Sample":"Searobin (muscle)",
+        "Radionuclide":"Cs-134",
+        "Dt":null,
+        "ND":3.7,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/6\/11",
+        "Sample":"Roundnose flounder (muscle)",
+        "Radionuclide":"Cs-134",
+        "Dt":null,
+        "ND":3.4,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/6\/11",
+        "Sample":"Red sea bream (muscle)",
+        "Radionuclide":"Cs-134",
+        "Dt":null,
+        "ND":2.8,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/6\/11",
+        "Sample":"Microstomus achne (muscle)",
+        "Radionuclide":"Cs-134",
+        "Dt":null,
+        "ND":3.5,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/6\/11",
+        "Sample":"Fox jacopever (muscle)",
+        "Radionuclide":"Cs-134",
+        "Dt":null,
+        "ND":3.8,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/6\/11",
+        "Sample":"Sebastes cheni (muscle)",
+        "Radionuclide":"Cs-134",
+        "Dt":null,
+        "ND":4.0,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/6\/11",
+        "Sample":"Flatfish (muscle)",
+        "Radionuclide":"Cs-137",
+        "Dt":null,
+        "ND":3.8,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/6\/11",
+        "Sample":"Flatfish (muscle)",
+        "Radionuclide":"Cs-137",
+        "Dt":null,
+        "ND":6.8,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/6\/11",
+        "Sample":"Marbled sole (muscle)",
+        "Radionuclide":"Cs-137",
+        "Dt":null,
+        "ND":3.4,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/6\/11",
+        "Sample":"Common skete (muscle)",
+        "Radionuclide":"Cs-137",
+        "Dt":null,
+        "ND":3.9,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/6\/11",
+        "Sample":"Searobin (muscle)",
+        "Radionuclide":"Cs-137",
+        "Dt":null,
+        "ND":4.2,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/6\/11",
+        "Sample":"Roundnose flounder (muscle)",
+        "Radionuclide":"Cs-137",
+        "Dt":null,
+        "ND":3.1,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/6\/11",
+        "Sample":"Red sea bream (muscle)",
+        "Radionuclide":"Cs-137",
+        "Dt":null,
+        "ND":3.5,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/6\/11",
+        "Sample":"Microstomus achne (muscle)",
+        "Radionuclide":"Cs-137",
+        "Dt":null,
+        "ND":2.7,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/6\/11",
+        "Sample":"Fox jacopever (muscle)",
+        "Radionuclide":"Cs-137",
+        "Dt":null,
+        "ND":3.5,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/6\/11",
+        "Sample":"Sebastes cheni (muscle)",
+        "Radionuclide":"Cs-137",
+        "Dt":null,
+        "ND":3.6,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
         "begperiod":"2026\/5\/14",
         "Sample":"Sea bass (muscle)",
         "Radionuclide":"Cs-134",
@@ -19207,6 +19567,166 @@
     "lat":37.4583333333,
     "lon":141.0788888889,
     "data":[
+      {
+        "begperiod":"2026\/6\/17",
+        "Sample":"Flatfish (muscle)",
+        "Radionuclide":"Cs-134",
+        "Dt":null,
+        "ND":6.8,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/6\/17",
+        "Sample":"Flatfish (muscle)",
+        "Radionuclide":"Cs-134",
+        "Dt":null,
+        "ND":4.1,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/6\/17",
+        "Sample":"Stone flounder (muscle)",
+        "Radionuclide":"Cs-134",
+        "Dt":null,
+        "ND":3.9,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/6\/17",
+        "Sample":"Searobin (muscle)",
+        "Radionuclide":"Cs-134",
+        "Dt":null,
+        "ND":4.0,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/6\/17",
+        "Sample":"Yellow goosefish (whole)",
+        "Radionuclide":"Cs-134",
+        "Dt":null,
+        "ND":3.7,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/6\/17",
+        "Sample":"Red sea bream (muscle)",
+        "Radionuclide":"Cs-134",
+        "Dt":null,
+        "ND":4.5,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/6\/17",
+        "Sample":"John dory (muscle)",
+        "Radionuclide":"Cs-134",
+        "Dt":null,
+        "ND":3.6,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/6\/17",
+        "Sample":"Striped mullet (muscle)",
+        "Radionuclide":"Cs-134",
+        "Dt":null,
+        "ND":3.8,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/6\/17",
+        "Sample":"Flatfish (muscle)",
+        "Radionuclide":"Cs-137",
+        "Dt":null,
+        "ND":5.9,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/6\/17",
+        "Sample":"Flatfish (muscle)",
+        "Radionuclide":"Cs-137",
+        "Dt":null,
+        "ND":3.4,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/6\/17",
+        "Sample":"Stone flounder (muscle)",
+        "Radionuclide":"Cs-137",
+        "Dt":null,
+        "ND":3.7,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/6\/17",
+        "Sample":"Searobin (muscle)",
+        "Radionuclide":"Cs-137",
+        "Dt":null,
+        "ND":3.7,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/6\/17",
+        "Sample":"Yellow goosefish (whole)",
+        "Radionuclide":"Cs-137",
+        "Dt":null,
+        "ND":3.7,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/6\/17",
+        "Sample":"Red sea bream (muscle)",
+        "Radionuclide":"Cs-137",
+        "Dt":null,
+        "ND":3.8,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/6\/17",
+        "Sample":"John dory (muscle)",
+        "Radionuclide":"Cs-137",
+        "Dt":null,
+        "ND":3.7,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/6\/17",
+        "Sample":"Striped mullet (muscle)",
+        "Radionuclide":"Cs-137",
+        "Dt":8.9,
+        "ND":null,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
       {
         "begperiod":"2026\/5\/20",
         "Sample":"Flatfish (muscle)",
@@ -27197,6 +27717,146 @@
     "lon":141.0825,
     "data":[
       {
+        "begperiod":"2026\/6\/17",
+        "Sample":"Stone flounder (muscle)",
+        "Radionuclide":"Cs-134",
+        "Dt":null,
+        "ND":3.1,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/6\/17",
+        "Sample":"Flatfish (muscle)",
+        "Radionuclide":"Cs-134",
+        "Dt":null,
+        "ND":6.2,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/6\/17",
+        "Sample":"Flatfish (muscle)",
+        "Radionuclide":"Cs-134",
+        "Dt":null,
+        "ND":4.4,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/6\/17",
+        "Sample":"Searobin (muscle)",
+        "Radionuclide":"Cs-134",
+        "Dt":null,
+        "ND":3.5,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/6\/17",
+        "Sample":"Common skete (muscle)",
+        "Radionuclide":"Cs-134",
+        "Dt":null,
+        "ND":3.7,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/6\/17",
+        "Sample":"Red sea bream (muscle)",
+        "Radionuclide":"Cs-134",
+        "Dt":null,
+        "ND":4.0,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/6\/17",
+        "Sample":"Cinnamon flounder (muscle)",
+        "Radionuclide":"Cs-134",
+        "Dt":null,
+        "ND":3.6,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/6\/17",
+        "Sample":"Stone flounder (muscle)",
+        "Radionuclide":"Cs-137",
+        "Dt":null,
+        "ND":3.4,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/6\/17",
+        "Sample":"Flatfish (muscle)",
+        "Radionuclide":"Cs-137",
+        "Dt":null,
+        "ND":7.1,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/6\/17",
+        "Sample":"Flatfish (muscle)",
+        "Radionuclide":"Cs-137",
+        "Dt":null,
+        "ND":3.9,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/6\/17",
+        "Sample":"Searobin (muscle)",
+        "Radionuclide":"Cs-137",
+        "Dt":null,
+        "ND":3.1,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/6\/17",
+        "Sample":"Common skete (muscle)",
+        "Radionuclide":"Cs-137",
+        "Dt":null,
+        "ND":3.0,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/6\/17",
+        "Sample":"Red sea bream (muscle)",
+        "Radionuclide":"Cs-137",
+        "Dt":null,
+        "ND":4.0,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/6\/17",
+        "Sample":"Cinnamon flounder (muscle)",
+        "Radionuclide":"Cs-137",
+        "Dt":null,
+        "ND":3.4,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
         "begperiod":"2026\/5\/20",
         "Sample":"Flatfish (muscle)",
         "Radionuclide":"Cs-134",
@@ -27692,6 +28352,46 @@
         "Radionuclide":"Cs-137",
         "Dt":null,
         "ND":4.1,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/2\/6",
+        "Sample":"Flatfish (muscle)",
+        "Radionuclide":"H-3:TFWT",
+        "Dt":null,
+        "ND":0.067,
+        "Unit":"Bq\/L",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/2\/6",
+        "Sample":"Flatfish (muscle)",
+        "Radionuclide":"H-3:TFWT",
+        "Dt":null,
+        "ND":0.054,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/2\/6",
+        "Sample":"Flatfish (muscle)",
+        "Radionuclide":"H-3:OBT",
+        "Dt":null,
+        "ND":0.23,
+        "Unit":"Bq\/L",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/2\/6",
+        "Sample":"Flatfish (muscle)",
+        "Radionuclide":"H-3:OBT",
+        "Dt":null,
+        "ND":0.029,
         "Unit":"Bq\/kg-fresh",
         "Dt_unc":null,
         "ND_unc":null
@@ -35246,6 +35946,26 @@
     "lon":141.0394444444,
     "data":[
       {
+        "begperiod":"2026\/6\/18",
+        "Sample":"Flatfish (muscle)",
+        "Radionuclide":"Cs-134",
+        "Dt":null,
+        "ND":3.6,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/6\/18",
+        "Sample":"Flatfish (muscle)",
+        "Radionuclide":"Cs-137",
+        "Dt":null,
+        "ND":2.9,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
         "begperiod":"2026\/5\/27",
         "Sample":"Japanese angel shark  (muscle)",
         "Radionuclide":"Cs-134",
@@ -42615,6 +43335,106 @@
     "lon":141.0472222222,
     "data":[
       {
+        "begperiod":"2026\/6\/18",
+        "Sample":"Flatfish (muscle)",
+        "Radionuclide":"Cs-134",
+        "Dt":null,
+        "ND":3.8,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/6\/18",
+        "Sample":"Flatfish (muscle)",
+        "Radionuclide":"Cs-134",
+        "Dt":null,
+        "ND":3.8,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/6\/18",
+        "Sample":"Searobin (muscle)",
+        "Radionuclide":"Cs-134",
+        "Dt":null,
+        "ND":3.4,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/6\/18",
+        "Sample":"Microstomus achne (muscle)",
+        "Radionuclide":"Cs-134",
+        "Dt":null,
+        "ND":3.4,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/6\/18",
+        "Sample":"Red sea bream (muscle)",
+        "Radionuclide":"Cs-134",
+        "Dt":null,
+        "ND":3.8,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/6\/18",
+        "Sample":"Flatfish (muscle)",
+        "Radionuclide":"Cs-137",
+        "Dt":null,
+        "ND":3.1,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/6\/18",
+        "Sample":"Flatfish (muscle)",
+        "Radionuclide":"Cs-137",
+        "Dt":null,
+        "ND":2.9,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/6\/18",
+        "Sample":"Searobin (muscle)",
+        "Radionuclide":"Cs-137",
+        "Dt":null,
+        "ND":3.0,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/6\/18",
+        "Sample":"Microstomus achne (muscle)",
+        "Radionuclide":"Cs-137",
+        "Dt":null,
+        "ND":4.0,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/6\/18",
+        "Sample":"Red sea bream (muscle)",
+        "Radionuclide":"Cs-137",
+        "Dt":null,
+        "ND":3.2,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
         "begperiod":"2026\/5\/27",
         "Sample":"Common skete (muscle)",
         "Radionuclide":"Cs-134",
@@ -49293,6 +50113,126 @@
     "lat":37.3833333333,
     "lon":141.0788888889,
     "data":[
+      {
+        "begperiod":"2026\/6\/17",
+        "Sample":"Flatfish (muscle)",
+        "Radionuclide":"Cs-134",
+        "Dt":null,
+        "ND":4.3,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/6\/17",
+        "Sample":"Flatfish (muscle)",
+        "Radionuclide":"Cs-134",
+        "Dt":null,
+        "ND":3.6,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/6\/17",
+        "Sample":"Roundnose flounder (muscle)",
+        "Radionuclide":"Cs-134",
+        "Dt":null,
+        "ND":3.5,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/6\/17",
+        "Sample":"Microstomus achne (muscle)",
+        "Radionuclide":"Cs-134",
+        "Dt":null,
+        "ND":3.7,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/6\/17",
+        "Sample":"Searobin (muscle)",
+        "Radionuclide":"Cs-134",
+        "Dt":null,
+        "ND":4.2,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/6\/17",
+        "Sample":"Crimson sea bream (muscle)",
+        "Radionuclide":"Cs-134",
+        "Dt":null,
+        "ND":3.3,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/6\/17",
+        "Sample":"Flatfish (muscle)",
+        "Radionuclide":"Cs-137",
+        "Dt":null,
+        "ND":4.0,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/6\/17",
+        "Sample":"Flatfish (muscle)",
+        "Radionuclide":"Cs-137",
+        "Dt":null,
+        "ND":3.6,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/6\/17",
+        "Sample":"Roundnose flounder (muscle)",
+        "Radionuclide":"Cs-137",
+        "Dt":null,
+        "ND":3.7,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/6\/17",
+        "Sample":"Microstomus achne (muscle)",
+        "Radionuclide":"Cs-137",
+        "Dt":null,
+        "ND":4.2,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/6\/17",
+        "Sample":"Searobin (muscle)",
+        "Radionuclide":"Cs-137",
+        "Dt":null,
+        "ND":4.0,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/6\/17",
+        "Sample":"Crimson sea bream (muscle)",
+        "Radionuclide":"Cs-137",
+        "Dt":null,
+        "ND":3.7,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
       {
         "begperiod":"2026\/5\/20",
         "Sample":"Lepidotrigla microptena (muscle)",
@@ -58333,6 +59273,206 @@
     "lon":141.2166666667,
     "data":[
       {
+        "begperiod":"2026\/6\/9",
+        "Sample":"Lepidotrigla microptena (muscle)",
+        "Radionuclide":"Cs-134",
+        "Dt":null,
+        "ND":4.3,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/6\/9",
+        "Sample":"Yellow goosefish (whole)",
+        "Radionuclide":"Cs-134",
+        "Dt":null,
+        "ND":4.6,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/6\/9",
+        "Sample":"Flatfish (muscle)",
+        "Radionuclide":"Cs-134",
+        "Dt":null,
+        "ND":3.6,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/6\/9",
+        "Sample":"Flatfish (muscle)",
+        "Radionuclide":"Cs-134",
+        "Dt":null,
+        "ND":4.0,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/6\/9",
+        "Sample":"Searobin (muscle)",
+        "Radionuclide":"Cs-134",
+        "Dt":null,
+        "ND":3.3,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/6\/9",
+        "Sample":"Marbled sole (muscle)",
+        "Radionuclide":"Cs-134",
+        "Dt":null,
+        "ND":3.5,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/6\/9",
+        "Sample":"Roundnose flounder (muscle)",
+        "Radionuclide":"Cs-134",
+        "Dt":null,
+        "ND":3.9,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/6\/9",
+        "Sample":"Common Japanese conger (muscle)",
+        "Radionuclide":"Cs-134",
+        "Dt":null,
+        "ND":2.7,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/6\/9",
+        "Sample":"Red sea bream (muscle)",
+        "Radionuclide":"Cs-134",
+        "Dt":null,
+        "ND":4.2,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/6\/9",
+        "Sample":"John dory (muscle)",
+        "Radionuclide":"Cs-134",
+        "Dt":null,
+        "ND":3.3,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/6\/9",
+        "Sample":"Lepidotrigla microptena (muscle)",
+        "Radionuclide":"Cs-137",
+        "Dt":null,
+        "ND":3.8,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/6\/9",
+        "Sample":"Yellow goosefish (whole)",
+        "Radionuclide":"Cs-137",
+        "Dt":null,
+        "ND":3.5,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/6\/9",
+        "Sample":"Flatfish (muscle)",
+        "Radionuclide":"Cs-137",
+        "Dt":null,
+        "ND":3.0,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/6\/9",
+        "Sample":"Flatfish (muscle)",
+        "Radionuclide":"Cs-137",
+        "Dt":null,
+        "ND":3.3,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/6\/9",
+        "Sample":"Searobin (muscle)",
+        "Radionuclide":"Cs-137",
+        "Dt":null,
+        "ND":3.6,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/6\/9",
+        "Sample":"Marbled sole (muscle)",
+        "Radionuclide":"Cs-137",
+        "Dt":null,
+        "ND":3.4,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/6\/9",
+        "Sample":"Roundnose flounder (muscle)",
+        "Radionuclide":"Cs-137",
+        "Dt":null,
+        "ND":3.3,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/6\/9",
+        "Sample":"Common Japanese conger (muscle)",
+        "Radionuclide":"Cs-137",
+        "Dt":null,
+        "ND":3.0,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/6\/9",
+        "Sample":"Red sea bream (muscle)",
+        "Radionuclide":"Cs-137",
+        "Dt":null,
+        "ND":3.6,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/6\/9",
+        "Sample":"John dory (muscle)",
+        "Radionuclide":"Cs-137",
+        "Dt":null,
+        "ND":3.2,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
         "begperiod":"2026\/5\/12",
         "Sample":"Lepidotrigla microptena (muscle)",
         "Radionuclide":"Cs-134",
@@ -58748,6 +59888,46 @@
         "Radionuclide":"Cs-137",
         "Dt":null,
         "ND":3.3,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/2\/17",
+        "Sample":"Flatfish (muscle)",
+        "Radionuclide":"H-3:TFWT",
+        "Dt":0.085,
+        "ND":null,
+        "Unit":"Bq\/L",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/2\/17",
+        "Sample":"Flatfish (muscle)",
+        "Radionuclide":"H-3:TFWT",
+        "Dt":0.067,
+        "ND":null,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/2\/17",
+        "Sample":"Flatfish (muscle)",
+        "Radionuclide":"H-3:OBT",
+        "Dt":null,
+        "ND":0.29,
+        "Unit":"Bq\/L",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/2\/17",
+        "Sample":"Flatfish (muscle)",
+        "Radionuclide":"H-3:OBT",
+        "Dt":null,
+        "ND":0.036,
         "Unit":"Bq\/kg-fresh",
         "Dt_unc":null,
         "ND_unc":null
@@ -68322,6 +69502,186 @@
     "lon":141.2333333333,
     "data":[
       {
+        "begperiod":"2026\/6\/9",
+        "Sample":"Yellow goosefish (whole)",
+        "Radionuclide":"Cs-134",
+        "Dt":null,
+        "ND":3.3,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/6\/9",
+        "Sample":"Common skete (muscle)",
+        "Radionuclide":"Cs-134",
+        "Dt":null,
+        "ND":3.5,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/6\/9",
+        "Sample":"Roundnose flounder (muscle)",
+        "Radionuclide":"Cs-134",
+        "Dt":null,
+        "ND":3.6,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/6\/9",
+        "Sample":"Lepidotrigla microptena (muscle)",
+        "Radionuclide":"Cs-134",
+        "Dt":null,
+        "ND":3.8,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/6\/9",
+        "Sample":"Flatfish (muscle)",
+        "Radionuclide":"Cs-134",
+        "Dt":null,
+        "ND":3.4,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/6\/9",
+        "Sample":"Flatfish (muscle)",
+        "Radionuclide":"Cs-134",
+        "Dt":null,
+        "ND":4.4,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/6\/9",
+        "Sample":"John dory (muscle)",
+        "Radionuclide":"Cs-134",
+        "Dt":null,
+        "ND":3.9,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/6\/9",
+        "Sample":"Common Japanese conger (muscle)",
+        "Radionuclide":"Cs-134",
+        "Dt":null,
+        "ND":3.5,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/6\/9",
+        "Sample":"Red sea bream (muscle)",
+        "Radionuclide":"Cs-134",
+        "Dt":null,
+        "ND":4.1,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/6\/9",
+        "Sample":"Yellow goosefish (whole)",
+        "Radionuclide":"Cs-137",
+        "Dt":null,
+        "ND":4.1,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/6\/9",
+        "Sample":"Common skete (muscle)",
+        "Radionuclide":"Cs-137",
+        "Dt":null,
+        "ND":3.4,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/6\/9",
+        "Sample":"Roundnose flounder (muscle)",
+        "Radionuclide":"Cs-137",
+        "Dt":null,
+        "ND":4.1,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/6\/9",
+        "Sample":"Lepidotrigla microptena (muscle)",
+        "Radionuclide":"Cs-137",
+        "Dt":null,
+        "ND":3.3,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/6\/9",
+        "Sample":"Flatfish (muscle)",
+        "Radionuclide":"Cs-137",
+        "Dt":null,
+        "ND":3.1,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/6\/9",
+        "Sample":"Flatfish (muscle)",
+        "Radionuclide":"Cs-137",
+        "Dt":null,
+        "ND":4.1,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/6\/9",
+        "Sample":"John dory (muscle)",
+        "Radionuclide":"Cs-137",
+        "Dt":null,
+        "ND":4.3,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/6\/9",
+        "Sample":"Common Japanese conger (muscle)",
+        "Radionuclide":"Cs-137",
+        "Dt":null,
+        "ND":2.9,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/6\/9",
+        "Sample":"Red sea bream (muscle)",
+        "Radionuclide":"Cs-137",
+        "Dt":null,
+        "ND":3.9,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
         "begperiod":"2026\/5\/12",
         "Sample":"Yellow goosefish (whole)",
         "Radionuclide":"Cs-134",
@@ -68737,6 +70097,46 @@
         "Radionuclide":"Cs-137",
         "Dt":null,
         "ND":3.1,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/2\/17",
+        "Sample":"Flatfish (muscle)",
+        "Radionuclide":"H-3:TFWT",
+        "Dt":null,
+        "ND":0.073,
+        "Unit":"Bq\/L",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/2\/17",
+        "Sample":"Flatfish (muscle)",
+        "Radionuclide":"H-3:TFWT",
+        "Dt":null,
+        "ND":0.054,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/2\/17",
+        "Sample":"Flatfish (muscle)",
+        "Radionuclide":"H-3:OBT",
+        "Dt":null,
+        "ND":0.28,
+        "Unit":"Bq\/L",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/2\/17",
+        "Sample":"Flatfish (muscle)",
+        "Radionuclide":"H-3:OBT",
+        "Dt":null,
+        "ND":0.043,
         "Unit":"Bq\/kg-fresh",
         "Dt_unc":null,
         "ND_unc":null
@@ -78531,6 +79931,186 @@
     "lon":141.1541666667,
     "data":[
       {
+        "begperiod":"2026\/6\/20",
+        "Sample":"Lepidotrigla microptena (muscle)",
+        "Radionuclide":"Cs-134",
+        "Dt":null,
+        "ND":3.1,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/6\/20",
+        "Sample":"Flatfish (muscle)",
+        "Radionuclide":"Cs-134",
+        "Dt":null,
+        "ND":3.3,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/6\/20",
+        "Sample":"Flatfish (muscle)",
+        "Radionuclide":"Cs-134",
+        "Dt":null,
+        "ND":3.1,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/6\/20",
+        "Sample":"Searobin (muscle)",
+        "Radionuclide":"Cs-134",
+        "Dt":null,
+        "ND":4.2,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/6\/20",
+        "Sample":"Smooth dogfish (muscle)",
+        "Radionuclide":"Cs-134",
+        "Dt":null,
+        "ND":4.5,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/6\/20",
+        "Sample":"Roundnose flounder (muscle)",
+        "Radionuclide":"Cs-134",
+        "Dt":null,
+        "ND":3.1,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/6\/20",
+        "Sample":"Sea bass (muscle)",
+        "Radionuclide":"Cs-134",
+        "Dt":null,
+        "ND":3.8,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/6\/20",
+        "Sample":"Crimson sea bream (muscle)",
+        "Radionuclide":"Cs-134",
+        "Dt":null,
+        "ND":2.6,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/6\/20",
+        "Sample":"Red sea bream (muscle)",
+        "Radionuclide":"Cs-134",
+        "Dt":null,
+        "ND":2.9,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/6\/20",
+        "Sample":"Lepidotrigla microptena (muscle)",
+        "Radionuclide":"Cs-137",
+        "Dt":null,
+        "ND":3.4,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/6\/20",
+        "Sample":"Flatfish (muscle)",
+        "Radionuclide":"Cs-137",
+        "Dt":null,
+        "ND":2.8,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/6\/20",
+        "Sample":"Flatfish (muscle)",
+        "Radionuclide":"Cs-137",
+        "Dt":null,
+        "ND":3.0,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/6\/20",
+        "Sample":"Searobin (muscle)",
+        "Radionuclide":"Cs-137",
+        "Dt":null,
+        "ND":3.7,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/6\/20",
+        "Sample":"Smooth dogfish (muscle)",
+        "Radionuclide":"Cs-137",
+        "Dt":null,
+        "ND":3.7,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/6\/20",
+        "Sample":"Roundnose flounder (muscle)",
+        "Radionuclide":"Cs-137",
+        "Dt":null,
+        "ND":2.9,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/6\/20",
+        "Sample":"Sea bass (muscle)",
+        "Radionuclide":"Cs-137",
+        "Dt":null,
+        "ND":2.9,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/6\/20",
+        "Sample":"Crimson sea bream (muscle)",
+        "Radionuclide":"Cs-137",
+        "Dt":null,
+        "ND":3.7,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/6\/20",
+        "Sample":"Red sea bream (muscle)",
+        "Radionuclide":"Cs-137",
+        "Dt":null,
+        "ND":4.3,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
         "begperiod":"2026\/4\/14",
         "Sample":"Lepidotrigla microptena (muscle)",
         "Radionuclide":"Cs-134",
@@ -78926,6 +80506,46 @@
         "Radionuclide":"Cs-137",
         "Dt":null,
         "ND":3.7,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/3\/3",
+        "Sample":"Flatfish (muscle)",
+        "Radionuclide":"H-3:TFWT",
+        "Dt":0.089,
+        "ND":null,
+        "Unit":"Bq\/L",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/3\/3",
+        "Sample":"Flatfish (muscle)",
+        "Radionuclide":"H-3:TFWT",
+        "Dt":0.068,
+        "ND":null,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/3\/3",
+        "Sample":"Flatfish (muscle)",
+        "Radionuclide":"H-3:OBT",
+        "Dt":null,
+        "ND":0.28,
+        "Unit":"Bq\/L",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/3\/3",
+        "Sample":"Flatfish (muscle)",
+        "Radionuclide":"H-3:OBT",
+        "Dt":null,
+        "ND":0.039,
         "Unit":"Bq\/kg-fresh",
         "Dt_unc":null,
         "ND_unc":null
@@ -88079,6 +89699,206 @@
     "lat":37.3483333333,
     "lon":141.1486111111,
     "data":[
+      {
+        "begperiod":"2026\/6\/20",
+        "Sample":"Lepidotrigla microptena (muscle)",
+        "Radionuclide":"Cs-134",
+        "Dt":null,
+        "ND":3.2,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/6\/20",
+        "Sample":"Yellow goosefish (whole)",
+        "Radionuclide":"Cs-134",
+        "Dt":null,
+        "ND":3.6,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/6\/20",
+        "Sample":"Common skete (muscle)",
+        "Radionuclide":"Cs-134",
+        "Dt":null,
+        "ND":3.9,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/6\/20",
+        "Sample":"Flatfish (muscle)",
+        "Radionuclide":"Cs-134",
+        "Dt":null,
+        "ND":2.9,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/6\/20",
+        "Sample":"Flatfish (muscle)",
+        "Radionuclide":"Cs-134",
+        "Dt":null,
+        "ND":3.5,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/6\/20",
+        "Sample":"Roundnose flounder (muscle)",
+        "Radionuclide":"Cs-134",
+        "Dt":null,
+        "ND":3.2,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/6\/20",
+        "Sample":"Crimson sea bream (muscle)",
+        "Radionuclide":"Cs-134",
+        "Dt":null,
+        "ND":3.3,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/6\/20",
+        "Sample":"Red sea bream (muscle)",
+        "Radionuclide":"Cs-134",
+        "Dt":null,
+        "ND":3.4,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/6\/20",
+        "Sample":"Smooth dogfish (muscle)",
+        "Radionuclide":"Cs-134",
+        "Dt":null,
+        "ND":4.0,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/6\/20",
+        "Sample":"Searobin (muscle)",
+        "Radionuclide":"Cs-134",
+        "Dt":null,
+        "ND":3.3,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/6\/20",
+        "Sample":"Lepidotrigla microptena (muscle)",
+        "Radionuclide":"Cs-137",
+        "Dt":null,
+        "ND":3.9,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/6\/20",
+        "Sample":"Yellow goosefish (whole)",
+        "Radionuclide":"Cs-137",
+        "Dt":null,
+        "ND":3.6,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/6\/20",
+        "Sample":"Common skete (muscle)",
+        "Radionuclide":"Cs-137",
+        "Dt":null,
+        "ND":3.7,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/6\/20",
+        "Sample":"Flatfish (muscle)",
+        "Radionuclide":"Cs-137",
+        "Dt":null,
+        "ND":3.0,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/6\/20",
+        "Sample":"Flatfish (muscle)",
+        "Radionuclide":"Cs-137",
+        "Dt":null,
+        "ND":3.2,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/6\/20",
+        "Sample":"Roundnose flounder (muscle)",
+        "Radionuclide":"Cs-137",
+        "Dt":null,
+        "ND":3.4,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/6\/20",
+        "Sample":"Crimson sea bream (muscle)",
+        "Radionuclide":"Cs-137",
+        "Dt":null,
+        "ND":3.3,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/6\/20",
+        "Sample":"Red sea bream (muscle)",
+        "Radionuclide":"Cs-137",
+        "Dt":null,
+        "ND":3.7,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/6\/20",
+        "Sample":"Smooth dogfish (muscle)",
+        "Radionuclide":"Cs-137",
+        "Dt":null,
+        "ND":4.0,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/6\/20",
+        "Sample":"Searobin (muscle)",
+        "Radionuclide":"Cs-137",
+        "Dt":null,
+        "ND":3.2,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
       {
         "begperiod":"2026\/4\/14",
         "Sample":"Lepidotrigla microptena (muscle)",

@@ -1,7 +1,25 @@
-﻿File Creation Date,2026-07-31
+﻿File Creation Date,2026-08-03
 Sampling Location,Around 10km offshore of 1F site (T-B3) (Fish)
 
 Date and time of Sampling,Sample,Radionuclide,Dt,ND,Unit
+2026/6/20,Lepidotrigla microptena (muscle),Cs-134,,3.1,Bq/kg-fresh
+2026/6/20,Flatfish (muscle),Cs-134,,3.3,Bq/kg-fresh
+2026/6/20,Flatfish (muscle),Cs-134,,3.1,Bq/kg-fresh
+2026/6/20,Searobin (muscle),Cs-134,,4.2,Bq/kg-fresh
+2026/6/20,Smooth dogfish (muscle),Cs-134,,4.5,Bq/kg-fresh
+2026/6/20,Roundnose flounder (muscle),Cs-134,,3.1,Bq/kg-fresh
+2026/6/20,Sea bass (muscle),Cs-134,,3.8,Bq/kg-fresh
+2026/6/20,Crimson sea bream (muscle),Cs-134,,2.6,Bq/kg-fresh
+2026/6/20,Red sea bream (muscle),Cs-134,,2.9,Bq/kg-fresh
+2026/6/20,Lepidotrigla microptena (muscle),Cs-137,,3.4,Bq/kg-fresh
+2026/6/20,Flatfish (muscle),Cs-137,,2.8,Bq/kg-fresh
+2026/6/20,Flatfish (muscle),Cs-137,,3.0,Bq/kg-fresh
+2026/6/20,Searobin (muscle),Cs-137,,3.7,Bq/kg-fresh
+2026/6/20,Smooth dogfish (muscle),Cs-137,,3.7,Bq/kg-fresh
+2026/6/20,Roundnose flounder (muscle),Cs-137,,2.9,Bq/kg-fresh
+2026/6/20,Sea bass (muscle),Cs-137,,2.9,Bq/kg-fresh
+2026/6/20,Crimson sea bream (muscle),Cs-137,,3.7,Bq/kg-fresh
+2026/6/20,Red sea bream (muscle),Cs-137,,4.3,Bq/kg-fresh
 2026/4/14,Lepidotrigla microptena (muscle),Cs-134,,4.1,Bq/kg-fresh
 2026/4/14,Yellow goosefish (whole),Cs-134,,3.2,Bq/kg-fresh
 2026/4/14,Pointhead flounder (muscle),Cs-134,,4.1,Bq/kg-fresh
@@ -42,6 +60,10 @@ Date and time of Sampling,Sample,Radionuclide,Dt,ND,Unit
 2026/3/3,Flatfish (muscle),Cs-137,,3.4,Bq/kg-fresh
 2026/3/3,Searobin (muscle),Cs-137,,4.6,Bq/kg-fresh
 2026/3/3,Smooth dogfish (muscle),Cs-137,,3.7,Bq/kg-fresh
+2026/3/3,Flatfish (muscle),H-3:TFWT,0.089,,Bq/L
+2026/3/3,Flatfish (muscle),H-3:TFWT,0.068,,Bq/kg-fresh
+2026/3/3,Flatfish (muscle),H-3:OBT,,0.28,Bq/L
+2026/3/3,Flatfish (muscle),H-3:OBT,,0.039,Bq/kg-fresh
 2026/1/24,Lepidotrigla microptena (muscle),Cs-134,,2.8,Bq/kg-fresh
 2026/1/24,Takifugu snyderi (muscle),Cs-134,,3.5,Bq/kg-fresh
 2026/1/24,Microstomus achne (muscle),Cs-134,,3.4,Bq/kg-fresh
