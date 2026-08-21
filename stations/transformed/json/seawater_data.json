@@ -10,6 +10,15 @@
         "depth":"Surface",
         "data":[
           {
+            "begperiod":"2026\/8\/18 7:09",
+            "Cs-134":null,
+            "Cs-134_nd":0.29,
+            "Cs-137":null,
+            "Cs-137_nd":0.33,
+            "H-3":null,
+            "H-3_nd":null
+          },
+          {
             "begperiod":"2026\/8\/17 6:49",
             "Cs-134":null,
             "Cs-134_nd":0.24,
@@ -17303,6 +17312,15 @@
       {
         "depth":"Surface",
         "data":[
+          {
+            "begperiod":"2026\/8\/18 7:05",
+            "Cs-134":null,
+            "Cs-134_nd":0.78,
+            "Cs-137":null,
+            "Cs-137_nd":0.47,
+            "H-3":null,
+            "H-3_nd":null
+          },
           {
             "begperiod":"2026\/8\/17 6:45",
             "Cs-134":null,
@@ -34912,6 +34930,15 @@
       {
         "depth":"Surface",
         "data":[
+          {
+            "begperiod":"2026\/8\/18 9:30",
+            "Cs-134":null,
+            "Cs-134_nd":0.79,
+            "Cs-137":null,
+            "Cs-137_nd":0.64,
+            "H-3":null,
+            "H-3_nd":null
+          },
           {
             "begperiod":"2026\/8\/17 8:50",
             "Cs-134":null,
