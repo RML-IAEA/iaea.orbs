@@ -1,7 +1,14 @@
-﻿File Creation Date,2026-09-01
+﻿File Creation Date,2026-09-03
 Sampling Location,
 
 Date and time of Sampling,Sample,Radionuclide,Dt,ND,Unit
+2026/3/19,Narrow iodine seaweed,Cs-134,,0.17,Bq/kg-fresh
+2026/3/19,Narrow iodine seaweed,Cs-137,0.43,,Bq/kg-fresh
+2026/3/19,Narrow iodine seaweed,H-3:TFWT,0.22,,Bq/L
+2026/3/19,Narrow iodine seaweed,H-3:TFWT,0.19,,Bq/kg-fresh
+2026/3/19,Narrow iodine seaweed,H-3:OBT,,0.27,Bq/L
+2026/3/19,Narrow iodine seaweed,H-3:OBT,,0.016,Bq/kg-fresh
+2026/3/19,Narrow iodine seaweed,I-129,,0.060,Bq/kg-fresh
 2025/7/11,Narrow iodine seaweed,Cs-134,,0.21,Bq/kg-fresh
 2025/7/11,Narrow iodine seaweed,Cs-137,0.24,,Bq/kg-fresh
 2025/7/11,Narrow iodine seaweed,H-3:TFWT,0.091,,Bq/L
