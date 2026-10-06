@@ -1,4 +1,4 @@
-﻿File Creation Date,2026-10-02
+﻿File Creation Date,2026-10-05
 Sampling Location,Around 10km offshore of 1F site (T-B3) (Fish)
 
 Date and time of Sampling,Sample,Radionuclide,Dt,ND,Unit
@@ -36,6 +36,10 @@ Date and time of Sampling,Sample,Radionuclide,Dt,ND,Unit
 2026/4/14,Flatfish (muscle),Cs-137,,3.6,Bq/kg-fresh
 2026/4/14,Roundnose flounder (muscle),Cs-137,,3.5,Bq/kg-fresh
 2026/4/14,Sea bass (muscle),Cs-137,,3.1,Bq/kg-fresh
+2026/4/14,Flatfish (muscle),H-3:TFWT,,0.072,Bq/L
+2026/4/14,Flatfish (muscle),H-3:TFWT,,0.055,Bq/kg-fresh
+2026/4/14,Flatfish (muscle),H-3:OBT,,0.26,Bq/L
+2026/4/14,Flatfish (muscle),H-3:OBT,,0.037,Bq/kg-fresh
 2026/3/22,Lepidotrigla microptena (muscle),Cs-134,,3.1,Bq/kg-fresh
 2026/3/22,Yellow goosefish (whole),Cs-134,,2.7,Bq/kg-fresh
 2026/3/22,Flatfish (muscle),Cs-134,,3.9,Bq/kg-fresh
