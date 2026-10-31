@@ -10,6 +10,15 @@
         "depth":"Surface",
         "data":[
           {
+            "begperiod":"2026\/10\/28 7:28",
+            "Cs-134":null,
+            "Cs-134_nd":0.33,
+            "Cs-137":null,
+            "Cs-137_nd":0.3,
+            "H-3":null,
+            "H-3_nd":null
+          },
+          {
             "begperiod":"2026\/10\/27 7:33",
             "Cs-134":null,
             "Cs-134_nd":0.33,
@@ -173,10 +182,10 @@
           },
           {
             "begperiod":"2026\/10\/9 6:50",
-            "Cs-134":null,
-            "Cs-134_nd":0.33,
-            "Cs-137":null,
-            "Cs-137_nd":0.37,
+            "Cs-134":0.0017,
+            "Cs-134_nd":null,
+            "Cs-137":0.23,
+            "Cs-137_nd":null,
             "H-3":0.67,
             "H-3_nd":null
           },
@@ -17925,6 +17934,15 @@
         "depth":"Surface",
         "data":[
           {
+            "begperiod":"2026\/10\/28 7:11",
+            "Cs-134":null,
+            "Cs-134_nd":0.71,
+            "Cs-137":null,
+            "Cs-137_nd":0.58,
+            "H-3":null,
+            "H-3_nd":null
+          },
+          {
             "begperiod":"2026\/10\/27 7:08",
             "Cs-134":null,
             "Cs-134_nd":0.72,
@@ -18089,9 +18107,9 @@
           {
             "begperiod":"2026\/10\/9 8:30",
             "Cs-134":null,
-            "Cs-134_nd":0.79,
-            "Cs-137":null,
-            "Cs-137_nd":0.59,
+            "Cs-134_nd":0.0013,
+            "Cs-137":0.11,
+            "Cs-137_nd":null,
             "H-3":null,
             "H-3_nd":null
           },
@@ -36155,6 +36173,15 @@
         "depth":"Surface",
         "data":[
           {
+            "begperiod":"2026\/10\/28 9:10",
+            "Cs-134":null,
+            "Cs-134_nd":0.66,
+            "Cs-137":null,
+            "Cs-137_nd":0.75,
+            "H-3":null,
+            "H-3_nd":null
+          },
+          {
             "begperiod":"2026\/10\/27 8:30",
             "Cs-134":null,
             "Cs-134_nd":0.71,
@@ -36314,14 +36341,14 @@
             "Cs-137":null,
             "Cs-137_nd":0.51,
             "H-3":null,
-            "H-3_nd":null
+            "H-3_nd":0.38
           },
           {
             "begperiod":"2026\/10\/9 7:34",
             "Cs-134":null,
-            "Cs-134_nd":0.55,
-            "Cs-137":null,
-            "Cs-137_nd":0.71,
+            "Cs-134_nd":0.0013,
+            "Cs-137":0.14,
+            "Cs-137_nd":null,
             "H-3":null,
             "H-3_nd":null
           },
