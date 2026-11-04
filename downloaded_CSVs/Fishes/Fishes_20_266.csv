@@ -1,7 +1,13 @@
-﻿File Creation Date,2026-11-02
+﻿File Creation Date,2026-11-04
 Sampling Location,Around 3km offshore of Odaka Ward (T-S2) (Fish)
 
 Date and time of Sampling,Sample,Radionuclide,Dt,ND,Unit
+2026/9/30,Chub mackerel (muscle),Cs-134,,3.5,Bq/kg-fresh
+2026/9/30,Blue crab (whole),Cs-134,,4.3,Bq/kg-fresh
+2026/9/30,Smooth dogfish (muscle),Cs-134,,3.9,Bq/kg-fresh
+2026/9/30,Chub mackerel (muscle),Cs-137,,3.3,Bq/kg-fresh
+2026/9/30,Blue crab (whole),Cs-137,,4.1,Bq/kg-fresh
+2026/9/30,Smooth dogfish (muscle),Cs-137,,3.7,Bq/kg-fresh
 2026/9/4,Flatfish (muscle),Cs-134,,3.2,Bq/kg-fresh
 2026/9/4,Searobin (muscle),Cs-134,,3.6,Bq/kg-fresh
 2026/9/4,Blue crab (whole),Cs-134,,3.1,Bq/kg-fresh
@@ -44,6 +50,10 @@ Date and time of Sampling,Sample,Radionuclide,Dt,ND,Unit
 2026/5/14,Flatfish (muscle),Cs-137,,5.0,Bq/kg-fresh
 2026/5/14,Marbled sole (muscle),Cs-137,,3.5,Bq/kg-fresh
 2026/5/14,Red sea bream (muscle),Cs-137,,3.8,Bq/kg-fresh
+2026/5/14,Flatfish (muscle),H-3:TFWT,0.070,,Bq/L
+2026/5/14,Flatfish (muscle),H-3:TFWT,0.055,,Bq/kg-fresh
+2026/5/14,Flatfish (muscle),H-3:OBT,,0.24,Bq/L
+2026/5/14,Flatfish (muscle),H-3:OBT,,0.034,Bq/kg-fresh
 2026/2/18,Marbled sole (muscle),Cs-134,,3.2,Bq/kg-fresh
 2026/2/18,Roundnose flounder (muscle),Cs-134,,3.7,Bq/kg-fresh
 2026/2/18,Marbled sole (muscle),Cs-137,,3.4,Bq/kg-fresh
