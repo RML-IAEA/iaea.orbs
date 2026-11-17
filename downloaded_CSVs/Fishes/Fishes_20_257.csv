@@ -1,7 +1,15 @@
-﻿File Creation Date,2026-11-13
+﻿File Creation Date,2026-11-17
 Sampling Location,
 
 Date and time of Sampling,Sample,Radionuclide,Dt,ND,Unit
+2026/06/02,Olive flounder,H-3:TFWT,0.088,,Bq/L
+2026/06/02,Red sea bream,H-3:TFWT,0.072,,Bq/L
+2026/06/02,Olive flounder,H-3:TFWT,0.068,,Bq/kg-fresh
+2026/06/02,Red sea bream,H-3:TFWT,0.055,,Bq/kg-fresh
+2026/06/02,Olive flounder,H-3:OBT,,0.4,Bq/L
+2026/06/02,Red sea bream,H-3:OBT,,0.3,Bq/L
+2026/06/02,Olive flounder,H-3:OBT,,0.05,Bq/kg-fresh
+2026/06/02,Red sea bream,H-3:OBT,,0.04,Bq/kg-fresh
 2026/01/28,Mixed fish sample,H-3:TFWT,0.068,,Bq/L
 2026/01/28,Mixed fish sample,H-3:TFWT,0.055,,Bq/kg-fresh
 2026/01/28,Mixed fish sample,H-3:OBT,,0.3,Bq/L

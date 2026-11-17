@@ -1,7 +1,15 @@
-﻿File Creation Date,2026-11-13
+﻿File Creation Date,2026-11-17
 Sampling Location,
 
 Date and time of Sampling,Sample,Radionuclide,Dt,ND,Unit
+2026/06/02,Whip stingray,H-3:TFWT,0.17,,Bq/L
+2026/06/02,Mixed fish sample,H-3:TFWT,0.19,,Bq/L
+2026/06/02,Whip stingray,H-3:TFWT,0.13,,Bq/kg-fresh
+2026/06/02,Mixed fish sample,H-3:TFWT,0.15,,Bq/kg-fresh
+2026/06/02,Whip stingray,H-3:OBT,,0.4,Bq/L
+2026/06/02,Mixed fish sample,H-3:OBT,,0.4,Bq/L
+2026/06/02,Whip stingray,H-3:OBT,,0.05,Bq/kg-fresh
+2026/06/02,Mixed fish sample,H-3:OBT,,0.06,Bq/kg-fresh
 2026/01/28,Browneye skate,H-3:TFWT,0.075,,Bq/L
 2026/01/28,Browneye skate,H-3:TFWT,0.058,,Bq/kg-fresh
 2026/01/28,Browneye skate,H-3:OBT,,0.3,Bq/L

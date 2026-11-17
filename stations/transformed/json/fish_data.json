@@ -7,6 +7,46 @@
     "lon":141.0436638889,
     "data":[
       {
+        "begperiod":"2026\/06\/02",
+        "Sample":"Mixed fish sample",
+        "Radionuclide":"H-3:TFWT",
+        "Dt":0.084,
+        "ND":null,
+        "Unit":"Bq\/L",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/06\/02",
+        "Sample":"Mixed fish sample",
+        "Radionuclide":"H-3:TFWT",
+        "Dt":0.064,
+        "ND":null,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/06\/02",
+        "Sample":"Mixed fish sample",
+        "Radionuclide":"H-3:OBT",
+        "Dt":null,
+        "ND":0.4,
+        "Unit":"Bq\/L",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/06\/02",
+        "Sample":"Mixed fish sample",
+        "Radionuclide":"H-3:OBT",
+        "Dt":null,
+        "ND":0.05,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
         "begperiod":"2026\/01\/28",
         "Sample":"Mixed fish sample",
         "Radionuclide":"H-3:TFWT",
@@ -1496,6 +1536,86 @@
     "lon":141.05,
     "data":[
       {
+        "begperiod":"2026\/06\/02",
+        "Sample":"Olive flounder",
+        "Radionuclide":"H-3:TFWT",
+        "Dt":0.088,
+        "ND":null,
+        "Unit":"Bq\/L",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/06\/02",
+        "Sample":"Red sea bream",
+        "Radionuclide":"H-3:TFWT",
+        "Dt":0.072,
+        "ND":null,
+        "Unit":"Bq\/L",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/06\/02",
+        "Sample":"Olive flounder",
+        "Radionuclide":"H-3:TFWT",
+        "Dt":0.068,
+        "ND":null,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/06\/02",
+        "Sample":"Red sea bream",
+        "Radionuclide":"H-3:TFWT",
+        "Dt":0.055,
+        "ND":null,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/06\/02",
+        "Sample":"Olive flounder",
+        "Radionuclide":"H-3:OBT",
+        "Dt":null,
+        "ND":0.4,
+        "Unit":"Bq\/L",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/06\/02",
+        "Sample":"Red sea bream",
+        "Radionuclide":"H-3:OBT",
+        "Dt":null,
+        "ND":0.3,
+        "Unit":"Bq\/L",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/06\/02",
+        "Sample":"Olive flounder",
+        "Radionuclide":"H-3:OBT",
+        "Dt":null,
+        "ND":0.05,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/06\/02",
+        "Sample":"Red sea bream",
+        "Radionuclide":"H-3:OBT",
+        "Dt":null,
+        "ND":0.04,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
         "begperiod":"2026\/01\/28",
         "Sample":"Mixed fish sample",
         "Radionuclide":"H-3:TFWT",
@@ -2904,6 +3024,86 @@
     "lat":37.4130444444,
     "lon":141.0436638889,
     "data":[
+      {
+        "begperiod":"2026\/06\/02",
+        "Sample":"Whip stingray",
+        "Radionuclide":"H-3:TFWT",
+        "Dt":0.17,
+        "ND":null,
+        "Unit":"Bq\/L",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/06\/02",
+        "Sample":"Mixed fish sample",
+        "Radionuclide":"H-3:TFWT",
+        "Dt":0.19,
+        "ND":null,
+        "Unit":"Bq\/L",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/06\/02",
+        "Sample":"Whip stingray",
+        "Radionuclide":"H-3:TFWT",
+        "Dt":0.13,
+        "ND":null,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/06\/02",
+        "Sample":"Mixed fish sample",
+        "Radionuclide":"H-3:TFWT",
+        "Dt":0.15,
+        "ND":null,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/06\/02",
+        "Sample":"Whip stingray",
+        "Radionuclide":"H-3:OBT",
+        "Dt":null,
+        "ND":0.4,
+        "Unit":"Bq\/L",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/06\/02",
+        "Sample":"Mixed fish sample",
+        "Radionuclide":"H-3:OBT",
+        "Dt":null,
+        "ND":0.4,
+        "Unit":"Bq\/L",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/06\/02",
+        "Sample":"Whip stingray",
+        "Radionuclide":"H-3:OBT",
+        "Dt":null,
+        "ND":0.05,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/06\/02",
+        "Sample":"Mixed fish sample",
+        "Radionuclide":"H-3:OBT",
+        "Dt":null,
+        "ND":0.06,
+        "Unit":"Bq\/kg-fresh",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
       {
         "begperiod":"2026\/01\/28",
         "Sample":"Browneye skate",
@@ -103149,6 +103349,26 @@
     "lon":141.1,
     "data":[
       {
+        "begperiod":"2026\/10\/01",
+        "Sample":"Bonefish",
+        "Radionuclide":"Cs-134",
+        "Dt":null,
+        "ND":6.8,
+        "Unit":"Bq\/kg",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/10\/01",
+        "Sample":"Bonefish",
+        "Radionuclide":"Cs-137",
+        "Dt":null,
+        "ND":7.7,
+        "Unit":"Bq\/kg",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
         "begperiod":"2026\/09\/28",
         "Sample":"Microstomus achne",
         "Radionuclide":"Cs-134",
@@ -151998,6 +152218,586 @@
     "lon":141.1,
     "data":[
       {
+        "begperiod":"2026\/10\/05",
+        "Sample":"Smooth dogfish",
+        "Radionuclide":"Cs-134",
+        "Dt":null,
+        "ND":8.6,
+        "Unit":"Bq\/kg",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/10\/05",
+        "Sample":"Yellow goosefish",
+        "Radionuclide":"Cs-134",
+        "Dt":null,
+        "ND":8.4,
+        "Unit":"Bq\/kg",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/10\/05",
+        "Sample":"Japanese amberjack",
+        "Radionuclide":"Cs-134",
+        "Dt":null,
+        "ND":7.0,
+        "Unit":"Bq\/kg",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/10\/05",
+        "Sample":"Ridged-eye flounder",
+        "Radionuclide":"Cs-134",
+        "Dt":null,
+        "ND":7.3,
+        "Unit":"Bq\/kg",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/10\/05",
+        "Sample":"Common skate",
+        "Radionuclide":"Cs-134",
+        "Dt":null,
+        "ND":8.9,
+        "Unit":"Bq\/kg",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/10\/05",
+        "Sample":"White croaker",
+        "Radionuclide":"Cs-134",
+        "Dt":null,
+        "ND":7.8,
+        "Unit":"Bq\/kg",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/10\/05",
+        "Sample":"Conger eel",
+        "Radionuclide":"Cs-134",
+        "Dt":null,
+        "ND":10.0,
+        "Unit":"Bq\/kg",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/10\/05",
+        "Sample":"Marbled sole",
+        "Radionuclide":"Cs-134",
+        "Dt":null,
+        "ND":11.0,
+        "Unit":"Bq\/kg",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/10\/05",
+        "Sample":"Chub mackerel",
+        "Radionuclide":"Cs-134",
+        "Dt":null,
+        "ND":8.1,
+        "Unit":"Bq\/kg",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/10\/05",
+        "Sample":"John dory",
+        "Radionuclide":"Cs-134",
+        "Dt":null,
+        "ND":7.9,
+        "Unit":"Bq\/kg",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/10\/05",
+        "Sample":"Mirror dory",
+        "Radionuclide":"Cs-134",
+        "Dt":null,
+        "ND":11.0,
+        "Unit":"Bq\/kg",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/10\/05",
+        "Sample":"Greenling",
+        "Radionuclide":"Cs-134",
+        "Dt":null,
+        "ND":9.3,
+        "Unit":"Bq\/kg",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/10\/05",
+        "Sample":"Black sea bream",
+        "Radionuclide":"Cs-134",
+        "Dt":null,
+        "ND":9.5,
+        "Unit":"Bq\/kg",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/10\/05",
+        "Sample":"Crimson sea bream",
+        "Radionuclide":"Cs-134",
+        "Dt":null,
+        "ND":8.7,
+        "Unit":"Bq\/kg",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/10\/05",
+        "Sample":"Bluefin searobin",
+        "Radionuclide":"Cs-134",
+        "Dt":null,
+        "ND":9.0,
+        "Unit":"Bq\/kg",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/10\/05",
+        "Sample":"Red sea bream",
+        "Radionuclide":"Cs-134",
+        "Dt":null,
+        "ND":8.6,
+        "Unit":"Bq\/kg",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/10\/05",
+        "Sample":"Sebastes cheni",
+        "Radionuclide":"Cs-134",
+        "Dt":null,
+        "ND":8.0,
+        "Unit":"Bq\/kg",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/10\/05",
+        "Sample":"Jack mackerel",
+        "Radionuclide":"Cs-134",
+        "Dt":null,
+        "ND":7.8,
+        "Unit":"Bq\/kg",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/10\/05",
+        "Sample":"Globefish",
+        "Radionuclide":"Cs-134",
+        "Dt":null,
+        "ND":8.1,
+        "Unit":"Bq\/kg",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/10\/05",
+        "Sample":"Sawedged perch",
+        "Radionuclide":"Cs-134",
+        "Dt":null,
+        "ND":10.0,
+        "Unit":"Bq\/kg",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/10\/05",
+        "Sample":"Yellowbarred red rockfish",
+        "Radionuclide":"Cs-134",
+        "Dt":null,
+        "ND":8.7,
+        "Unit":"Bq\/kg",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/10\/05",
+        "Sample":"Sea conger",
+        "Radionuclide":"Cs-134",
+        "Dt":null,
+        "ND":9.6,
+        "Unit":"Bq\/kg",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/10\/05",
+        "Sample":"Grub fish",
+        "Radionuclide":"Cs-134",
+        "Dt":null,
+        "ND":8.9,
+        "Unit":"Bq\/kg",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/10\/05",
+        "Sample":"Japanese parrot fish",
+        "Radionuclide":"Cs-134",
+        "Dt":null,
+        "ND":8.7,
+        "Unit":"Bq\/kg",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/10\/05",
+        "Sample":"Armoured cusk",
+        "Radionuclide":"Cs-134",
+        "Dt":null,
+        "ND":8.8,
+        "Unit":"Bq\/kg",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/10\/05",
+        "Sample":"Smooth dogfish",
+        "Radionuclide":"Cs-137",
+        "Dt":null,
+        "ND":9.8,
+        "Unit":"Bq\/kg",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/10\/05",
+        "Sample":"Yellow goosefish",
+        "Radionuclide":"Cs-137",
+        "Dt":null,
+        "ND":9.4,
+        "Unit":"Bq\/kg",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/10\/05",
+        "Sample":"Japanese amberjack",
+        "Radionuclide":"Cs-137",
+        "Dt":null,
+        "ND":6.8,
+        "Unit":"Bq\/kg",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/10\/05",
+        "Sample":"Ridged-eye flounder",
+        "Radionuclide":"Cs-137",
+        "Dt":null,
+        "ND":6.9,
+        "Unit":"Bq\/kg",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/10\/05",
+        "Sample":"Common skate",
+        "Radionuclide":"Cs-137",
+        "Dt":null,
+        "ND":6.8,
+        "Unit":"Bq\/kg",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/10\/05",
+        "Sample":"White croaker",
+        "Radionuclide":"Cs-137",
+        "Dt":null,
+        "ND":7.2,
+        "Unit":"Bq\/kg",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/10\/05",
+        "Sample":"Conger eel",
+        "Radionuclide":"Cs-137",
+        "Dt":null,
+        "ND":7.7,
+        "Unit":"Bq\/kg",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/10\/05",
+        "Sample":"Marbled sole",
+        "Radionuclide":"Cs-137",
+        "Dt":null,
+        "ND":8.3,
+        "Unit":"Bq\/kg",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/10\/05",
+        "Sample":"Chub mackerel",
+        "Radionuclide":"Cs-137",
+        "Dt":null,
+        "ND":8.6,
+        "Unit":"Bq\/kg",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/10\/05",
+        "Sample":"John dory",
+        "Radionuclide":"Cs-137",
+        "Dt":null,
+        "ND":7.6,
+        "Unit":"Bq\/kg",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/10\/05",
+        "Sample":"Mirror dory",
+        "Radionuclide":"Cs-137",
+        "Dt":null,
+        "ND":7.9,
+        "Unit":"Bq\/kg",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/10\/05",
+        "Sample":"Greenling",
+        "Radionuclide":"Cs-137",
+        "Dt":null,
+        "ND":8.1,
+        "Unit":"Bq\/kg",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/10\/05",
+        "Sample":"Black sea bream",
+        "Radionuclide":"Cs-137",
+        "Dt":null,
+        "ND":6.8,
+        "Unit":"Bq\/kg",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/10\/05",
+        "Sample":"Crimson sea bream",
+        "Radionuclide":"Cs-137",
+        "Dt":null,
+        "ND":7.7,
+        "Unit":"Bq\/kg",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/10\/05",
+        "Sample":"Bluefin searobin",
+        "Radionuclide":"Cs-137",
+        "Dt":null,
+        "ND":8.1,
+        "Unit":"Bq\/kg",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/10\/05",
+        "Sample":"Red sea bream",
+        "Radionuclide":"Cs-137",
+        "Dt":null,
+        "ND":7.7,
+        "Unit":"Bq\/kg",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/10\/05",
+        "Sample":"Sebastes cheni",
+        "Radionuclide":"Cs-137",
+        "Dt":null,
+        "ND":7.6,
+        "Unit":"Bq\/kg",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/10\/05",
+        "Sample":"Jack mackerel",
+        "Radionuclide":"Cs-137",
+        "Dt":null,
+        "ND":6.7,
+        "Unit":"Bq\/kg",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/10\/05",
+        "Sample":"Globefish",
+        "Radionuclide":"Cs-137",
+        "Dt":null,
+        "ND":8.2,
+        "Unit":"Bq\/kg",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/10\/05",
+        "Sample":"Sawedged perch",
+        "Radionuclide":"Cs-137",
+        "Dt":null,
+        "ND":8.1,
+        "Unit":"Bq\/kg",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/10\/05",
+        "Sample":"Yellowbarred red rockfish",
+        "Radionuclide":"Cs-137",
+        "Dt":null,
+        "ND":7.8,
+        "Unit":"Bq\/kg",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/10\/05",
+        "Sample":"Sea conger",
+        "Radionuclide":"Cs-137",
+        "Dt":null,
+        "ND":8.9,
+        "Unit":"Bq\/kg",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/10\/05",
+        "Sample":"Grub fish",
+        "Radionuclide":"Cs-137",
+        "Dt":null,
+        "ND":6.6,
+        "Unit":"Bq\/kg",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/10\/05",
+        "Sample":"Japanese parrot fish",
+        "Radionuclide":"Cs-137",
+        "Dt":null,
+        "ND":7.8,
+        "Unit":"Bq\/kg",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/10\/05",
+        "Sample":"Armoured cusk",
+        "Radionuclide":"Cs-137",
+        "Dt":null,
+        "ND":8.4,
+        "Unit":"Bq\/kg",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/10\/01",
+        "Sample":"Redwing searobin",
+        "Radionuclide":"Cs-134",
+        "Dt":null,
+        "ND":8.0,
+        "Unit":"Bq\/kg",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/10\/01",
+        "Sample":"Takifugu snyderi",
+        "Radionuclide":"Cs-134",
+        "Dt":null,
+        "ND":9.3,
+        "Unit":"Bq\/kg",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/10\/01",
+        "Sample":"Deep-sea smelt",
+        "Radionuclide":"Cs-134",
+        "Dt":null,
+        "ND":9.3,
+        "Unit":"Bq\/kg",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/10\/01",
+        "Sample":"Lizardfish",
+        "Radionuclide":"Cs-134",
+        "Dt":null,
+        "ND":8.4,
+        "Unit":"Bq\/kg",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/10\/01",
+        "Sample":"Redwing searobin",
+        "Radionuclide":"Cs-137",
+        "Dt":null,
+        "ND":7.0,
+        "Unit":"Bq\/kg",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/10\/01",
+        "Sample":"Takifugu snyderi",
+        "Radionuclide":"Cs-137",
+        "Dt":null,
+        "ND":8.9,
+        "Unit":"Bq\/kg",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/10\/01",
+        "Sample":"Deep-sea smelt",
+        "Radionuclide":"Cs-137",
+        "Dt":null,
+        "ND":8.3,
+        "Unit":"Bq\/kg",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/10\/01",
+        "Sample":"Lizardfish",
+        "Radionuclide":"Cs-137",
+        "Dt":null,
+        "ND":6.0,
+        "Unit":"Bq\/kg",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
         "begperiod":"2026\/09\/29",
         "Sample":"Pacific cod",
         "Radionuclide":"Cs-134",
@@ -189771,7 +190571,7 @@
         "begperiod":"2024\/12\/13",
         "Sample":"Anchovy",
         "Radionuclide":"Cs-137",
-        "Dt":11.2,
+        "Dt":11.0,
         "ND":null,
         "Unit":"Bq\/kg",
         "Dt_unc":null,
@@ -285427,6 +286227,186 @@
     "lon":141.1,
     "data":[
       {
+        "begperiod":"2026\/10\/05",
+        "Sample":"Fox jacopever",
+        "Radionuclide":"Cs-134",
+        "Dt":null,
+        "ND":7.0,
+        "Unit":"Bq\/kg",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/10\/05",
+        "Sample":"Marbled sole",
+        "Radionuclide":"Cs-134",
+        "Dt":null,
+        "ND":11.0,
+        "Unit":"Bq\/kg",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/10\/05",
+        "Sample":"Greeneye",
+        "Radionuclide":"Cs-134",
+        "Dt":null,
+        "ND":8.2,
+        "Unit":"Bq\/kg",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/10\/05",
+        "Sample":"Blackthroat seaperch",
+        "Radionuclide":"Cs-134",
+        "Dt":null,
+        "ND":11.0,
+        "Unit":"Bq\/kg",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/10\/05",
+        "Sample":"Microstomus achne",
+        "Radionuclide":"Cs-134",
+        "Dt":null,
+        "ND":8.4,
+        "Unit":"Bq\/kg",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/10\/05",
+        "Sample":"Conger eel",
+        "Radionuclide":"Cs-134",
+        "Dt":null,
+        "ND":6.6,
+        "Unit":"Bq\/kg",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/10\/05",
+        "Sample":"Chub mackerel",
+        "Radionuclide":"Cs-134",
+        "Dt":null,
+        "ND":8.5,
+        "Unit":"Bq\/kg",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/10\/05",
+        "Sample":"Scorpionfish",
+        "Radionuclide":"Cs-134",
+        "Dt":null,
+        "ND":9.0,
+        "Unit":"Bq\/kg",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/10\/05",
+        "Sample":"Hairtail",
+        "Radionuclide":"Cs-134",
+        "Dt":null,
+        "ND":8.1,
+        "Unit":"Bq\/kg",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/10\/05",
+        "Sample":"Fox jacopever",
+        "Radionuclide":"Cs-137",
+        "Dt":14.0,
+        "ND":null,
+        "Unit":"Bq\/kg",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/10\/05",
+        "Sample":"Marbled sole",
+        "Radionuclide":"Cs-137",
+        "Dt":null,
+        "ND":6.6,
+        "Unit":"Bq\/kg",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/10\/05",
+        "Sample":"Greeneye",
+        "Radionuclide":"Cs-137",
+        "Dt":null,
+        "ND":6.9,
+        "Unit":"Bq\/kg",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/10\/05",
+        "Sample":"Blackthroat seaperch",
+        "Radionuclide":"Cs-137",
+        "Dt":null,
+        "ND":8.1,
+        "Unit":"Bq\/kg",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/10\/05",
+        "Sample":"Microstomus achne",
+        "Radionuclide":"Cs-137",
+        "Dt":null,
+        "ND":6.9,
+        "Unit":"Bq\/kg",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/10\/05",
+        "Sample":"Conger eel",
+        "Radionuclide":"Cs-137",
+        "Dt":null,
+        "ND":8.6,
+        "Unit":"Bq\/kg",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/10\/05",
+        "Sample":"Chub mackerel",
+        "Radionuclide":"Cs-137",
+        "Dt":null,
+        "ND":7.9,
+        "Unit":"Bq\/kg",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/10\/05",
+        "Sample":"Scorpionfish",
+        "Radionuclide":"Cs-137",
+        "Dt":null,
+        "ND":7.1,
+        "Unit":"Bq\/kg",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/10\/05",
+        "Sample":"Hairtail",
+        "Radionuclide":"Cs-137",
+        "Dt":null,
+        "ND":6.0,
+        "Unit":"Bq\/kg",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
         "begperiod":"2026\/09\/16",
         "Sample":"Olive flounder",
         "Radionuclide":"Cs-134",
@@ -343264,6 +344244,246 @@
     "lat":37.7838194444,
     "lon":141.1,
     "data":[
+      {
+        "begperiod":"2026\/10\/05",
+        "Sample":"Brown hakeling",
+        "Radionuclide":"Cs-134",
+        "Dt":null,
+        "ND":8.8,
+        "Unit":"Bq\/kg",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/10\/05",
+        "Sample":"Rikuzen flounder",
+        "Radionuclide":"Cs-134",
+        "Dt":null,
+        "ND":8.1,
+        "Unit":"Bq\/kg",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/10\/05",
+        "Sample":"Jack mackerel",
+        "Radionuclide":"Cs-134",
+        "Dt":null,
+        "ND":6.8,
+        "Unit":"Bq\/kg",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/10\/05",
+        "Sample":"Yellow goosefish",
+        "Radionuclide":"Cs-134",
+        "Dt":null,
+        "ND":8.6,
+        "Unit":"Bq\/kg",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/10\/05",
+        "Sample":"Littlemouth flounder",
+        "Radionuclide":"Cs-134",
+        "Dt":null,
+        "ND":7.4,
+        "Unit":"Bq\/kg",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/10\/05",
+        "Sample":"Roundnose flounder",
+        "Radionuclide":"Cs-134",
+        "Dt":null,
+        "ND":7.5,
+        "Unit":"Bq\/kg",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/10\/05",
+        "Sample":"Redwing searobin",
+        "Radionuclide":"Cs-134",
+        "Dt":null,
+        "ND":8.3,
+        "Unit":"Bq\/kg",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/10\/05",
+        "Sample":"Pacific barrelfish",
+        "Radionuclide":"Cs-134",
+        "Dt":null,
+        "ND":8.0,
+        "Unit":"Bq\/kg",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/10\/05",
+        "Sample":"Brown hakeling",
+        "Radionuclide":"Cs-137",
+        "Dt":null,
+        "ND":8.6,
+        "Unit":"Bq\/kg",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/10\/05",
+        "Sample":"Rikuzen flounder",
+        "Radionuclide":"Cs-137",
+        "Dt":null,
+        "ND":7.3,
+        "Unit":"Bq\/kg",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/10\/05",
+        "Sample":"Jack mackerel",
+        "Radionuclide":"Cs-137",
+        "Dt":null,
+        "ND":9.1,
+        "Unit":"Bq\/kg",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/10\/05",
+        "Sample":"Yellow goosefish",
+        "Radionuclide":"Cs-137",
+        "Dt":null,
+        "ND":7.4,
+        "Unit":"Bq\/kg",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/10\/05",
+        "Sample":"Littlemouth flounder",
+        "Radionuclide":"Cs-137",
+        "Dt":null,
+        "ND":6.6,
+        "Unit":"Bq\/kg",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/10\/05",
+        "Sample":"Roundnose flounder",
+        "Radionuclide":"Cs-137",
+        "Dt":null,
+        "ND":8.6,
+        "Unit":"Bq\/kg",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/10\/05",
+        "Sample":"Redwing searobin",
+        "Radionuclide":"Cs-137",
+        "Dt":null,
+        "ND":8.1,
+        "Unit":"Bq\/kg",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/10\/05",
+        "Sample":"Pacific barrelfish",
+        "Radionuclide":"Cs-137",
+        "Dt":null,
+        "ND":7.7,
+        "Unit":"Bq\/kg",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/10\/01",
+        "Sample":"Sebastes cheni",
+        "Radionuclide":"Cs-134",
+        "Dt":null,
+        "ND":7.6,
+        "Unit":"Bq\/kg",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/10\/01",
+        "Sample":"Jack mackerel",
+        "Radionuclide":"Cs-134",
+        "Dt":null,
+        "ND":9.1,
+        "Unit":"Bq\/kg",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/10\/01",
+        "Sample":"Bluefin searobin",
+        "Radionuclide":"Cs-134",
+        "Dt":null,
+        "ND":9.6,
+        "Unit":"Bq\/kg",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/10\/01",
+        "Sample":"Crimson sea bream",
+        "Radionuclide":"Cs-134",
+        "Dt":null,
+        "ND":9.8,
+        "Unit":"Bq\/kg",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/10\/01",
+        "Sample":"Sebastes cheni",
+        "Radionuclide":"Cs-137",
+        "Dt":null,
+        "ND":7.9,
+        "Unit":"Bq\/kg",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/10\/01",
+        "Sample":"Jack mackerel",
+        "Radionuclide":"Cs-137",
+        "Dt":null,
+        "ND":7.8,
+        "Unit":"Bq\/kg",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/10\/01",
+        "Sample":"Bluefin searobin",
+        "Radionuclide":"Cs-137",
+        "Dt":null,
+        "ND":8.7,
+        "Unit":"Bq\/kg",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/10\/01",
+        "Sample":"Crimson sea bream",
+        "Radionuclide":"Cs-137",
+        "Dt":null,
+        "ND":8.8,
+        "Unit":"Bq\/kg",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
       {
         "begperiod":"2026\/09\/28",
         "Sample":"Greeneye",
@@ -422360,6 +423580,86 @@
     "lat":37.4021722222,
     "lon":141.1,
     "data":[
+      {
+        "begperiod":"2026\/09\/30",
+        "Sample":"Fox jacopever",
+        "Radionuclide":"Cs-134",
+        "Dt":null,
+        "ND":8.5,
+        "Unit":"Bq\/kg",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/09\/30",
+        "Sample":"Olive flounder",
+        "Radionuclide":"Cs-134",
+        "Dt":null,
+        "ND":9.3,
+        "Unit":"Bq\/kg",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/09\/30",
+        "Sample":"Striped jewfish",
+        "Radionuclide":"Cs-134",
+        "Dt":null,
+        "ND":11.0,
+        "Unit":"Bq\/kg",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/09\/30",
+        "Sample":"Siebold's wrasse",
+        "Radionuclide":"Cs-134",
+        "Dt":null,
+        "ND":8.7,
+        "Unit":"Bq\/kg",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/09\/30",
+        "Sample":"Fox jacopever",
+        "Radionuclide":"Cs-137",
+        "Dt":null,
+        "ND":7.1,
+        "Unit":"Bq\/kg",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/09\/30",
+        "Sample":"Olive flounder",
+        "Radionuclide":"Cs-137",
+        "Dt":null,
+        "ND":8.3,
+        "Unit":"Bq\/kg",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/09\/30",
+        "Sample":"Striped jewfish",
+        "Radionuclide":"Cs-137",
+        "Dt":null,
+        "ND":8.1,
+        "Unit":"Bq\/kg",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
+      {
+        "begperiod":"2026\/09\/30",
+        "Sample":"Siebold's wrasse",
+        "Radionuclide":"Cs-137",
+        "Dt":null,
+        "ND":8.6,
+        "Unit":"Bq\/kg",
+        "Dt_unc":null,
+        "ND_unc":null
+      },
       {
         "begperiod":"2026\/07\/16",
         "Sample":"Yellowbarred red rockfish",
